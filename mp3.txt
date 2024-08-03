@@ -4,22 +4,16 @@ Movie_name = Adipurush
 Album_URL = https://m.media-amazon.com/images/M/MV5BMTIwZWI0Y2YtZGJhZC00MjU4LTliZTUtODVjZjk4Y2FlYzI1XkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_.jpg
 
 Song_title = 1-Jai Shriram
-Song_URL = http://localhost/songsdata/upload/2023/Adipurush/1-Jai%20Shriram.mp3
+Song_URL = https://drive.google.com/uc?export=download&id=1O62aOGxziMNBEbm7pyVMiYapFCcyc59L
 
 Song_title = 2-Ram Sita Ram
-Song_URL = http://localhost/songsdata/upload/2023/Adipurush/2-Ram%20Sita%20Ram.mp3
+Song_URL = https://drive.google.com/uc?export=download&id=1pwpfGokJ-dBMIpThgldPcSkwAgCRY_8P
 
 Song_title = 3-Shivoham
-Song_URL = http://localhost/songsdata/upload/2023/Adipurush/3-Shivoham.mp3
+Song_URL = https://drive.google.com/uc?export=download&id=1xS9k9Y0_9OK5buvDsnEFgmZJ8GxT6tsM
 
 Song_title = 4-Priya Mithunam
-Song_URL = http://localhost/songsdata/upload/2023/Adipurush/4-Priya%20Mithunam.mp3
+Song_URL = https://drive.google.com/uc?export=download&id=1s1N1NIhmgUXscCHO0H6Kxc85squIhwt9
 
 Song_title = 5-Huppa Huiya
-Song_URL = http://localhost/songsdata/upload/2023/Adipurush/5-Huppa%20Huiya.mp3
-
-Movie_name = Amigos
-Album_URL = https://m.media-amazon.com/images/M/MV5BMWYwOTA1NmUtYjdkOC00MGM0LWFlZTgtMjhhZmJiZWU3OGFmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg
-
-Song_title = 1-Yeka Yeka
-Song_URL = http://localhost/songsdata/upload/2023/Amigos/1-Yeka%20Yeka.mp3
+Song_URL = https://drive.google.com/uc?export=download&id=1wLs9P02zse3RQ4SAUY4mlYdpXsJxX7M5
