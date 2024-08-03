@@ -7,13 +7,13 @@ Song_title = 1-Jai Shriram
 Song_URL = https://drive.google.com/file/d/1O62aOGxziMNBEbm7pyVMiYapFCcyc59L/preview
 
 Song_title = 2-Ram Sita Ram
-Song_URL = https://drive.google.com/uc?id=1pwpfGokJ-dBMIpThgldPcSkwAgCRY_8P
+Song_URL = http://docs.google.com/uc?export=open&id=1pwpfGokJ-dBMIpThgldPcSkwAgCRY_8P
 
 Song_title = 3-Shivoham
-Song_URL = https://drive.google.com/uc?id=1xS9k9Y0_9OK5buvDsnEFgmZJ8GxT6tsM
+Song_URL = https://docs.google.com/uc?export=download&id=1xS9k9Y0_9OK5buvDsnEFgmZJ8GxT6tsM
 
 Song_title = 4-Priya Mithunam
-Song_URL = https://drive.google.com/uc?id=1s1N1NIhmgUXscCHO0H6Kxc85squIhwt9
+Song_URL = https://drive.google.com/file/d/1s1N1NIhmgUXscCHO0H6Kxc85squIhwt9/view?usp=drive_link
 
 Song_title = 5-Huppa Huiya
-Song_URL = https://drive.google.com/uc?id=1wLs9P02zse3RQ4SAUY4mlYdpXsJxX7M5
+Song_URL = https://drive.google.com/file/d/1s1N1NIhmgUXscCHO0H6Kxc85squIhwt9/preview?usp=drive_link
