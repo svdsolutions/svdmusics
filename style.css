@@ -1,0 +1,106 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.social-bar {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+.social-bar a {
+    margin: 0 10px;
+    color: #007bff;
+    font-size: 18px;
+}
+.main-navbar {
+    background-color: #343a40;
+    padding: 10px 0;
+}
+.main-navbar a {
+    color: #fff;
+}
+.card {
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+    width: fit-content;
+    align-items: center;
+}
+.card-img-top {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+#player {
+    display: none;
+    position: fixed;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    width: 300px;
+    background: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    padding: 10px;
+    z-index: 1000;
+    border-radius: 10px;
+}
+#player.minimized {
+    width: 300px;
+    height: 60px;
+    padding: 5px;
+}
+#player .controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#player .timestamp {
+    font-size: 12px;
+    color: #666;
+}
+.btn {
+    margin-right: 5px;
+}
+#player-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#player-buttons i {
+    cursor: pointer;
+    font-size: 18px;
+}
+.progress-container {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+.progress-bar {
+    flex-grow: 1;
+    height: 5px;
+    background: #ddd;
+    margin: 0 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.progress {
+    width: 0;
+    height: 100%;
+    background: #007bff;
+    border-radius: 5px;
+}
+#volume-controls i {
+    font-size: 18px;
+    cursor: pointer;
+}
+#player.minimized #player-buttons i:not(#play-btn):not(#pause-btn), 
+#player.minimized .progress-container,
+#player.minimized #close-btn, 
+#player.minimized #volume-controls {
+    display: none;
+}
+.play-with{
+    width: 75%;
+}
+.procc-with{
+    width: 75%;
+}
