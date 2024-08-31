@@ -1,19 +1,1673 @@
 <!-- mp3 data -->
 
-Movie_name = Adipurush
-Album_URL = https://m.media-amazon.com/images/M/MV5BMTIwZWI0Y2YtZGJhZC00MjU4LTliZTUtODVjZjk4Y2FlYzI1XkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_.jpg
+Movie_name = Chenchu-Lakshmi
+Album_URL = 
+Song_title = 01_-_Paalakadalipai 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzAxXy1fUGFhbGFrYWRhbGlwYWkubXAz
+Song_title = 02_-_Chettu_Lekkagalavaa 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzAyXy1fQ2hldHR1X0xla2thZ2FsYXZhYS5tcDM%3D
+Song_title = 03_-_Kanalera_Kamala 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzAzXy1fS2FuYWxlcmFfS2FtYWxhLm1wMw%3D%3D
+Song_title = 04_-_Neelagagana_Ganasyama 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzA0Xy1fTmVlbGFnYWdhbmFfR2FuYXN5YW1hLm1wMw%3D%3D
+Song_title = 05_-_Anandamayee 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzA1Xy1fQW5hbmRhbWF5ZWUubXAz
+Song_title = 06_-_Kaanagaraava 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzA2Xy1fS2FhbmFnYXJhYXZhLm1wMw%3D%3D
+Song_title = 07_-_Karunaalavaala 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzA3Xy1fS2FydW5hYWxhdmFhbGEubXAz
+Song_title = 08_-_Maa_Chinni_Paapaayi 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzA4Xy1fTWFhX0NoaW5uaV9QYWFwYWF5aS5tcDM%3D
+Song_title = 09_-_Cheyi_Cheyi_Kaluputham 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzA5Xy1fQ2hleWlfQ2hleWlfS2FsdXB1dGhhbS5tcDM%3D
+Song_title = 10_-_Sreenathuni 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzEwXy1fU3JlZW5hdGh1bmkubXAz
+Song_title = 11_-_Chenchu_Lakshmi_(Instrumental) 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzExXy1fQ2hlbmNodV9MYWtzaG1pXyhJbnN0cnVtZW50YWwpLm1wMw%3D%3D
+Song_title = 12_-_Mahasakthi_Manthulaina 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzEyXy1fTWFoYXNha3RoaV9NYW50aHVsYWluYS5tcDM%3D
+Song_title = 13_-_Kantha_Chethi_Lopala_And_Sri_Hariye_Natana 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzEzXy1fS2FudGhhX0NoZXRoaV9Mb3BhbGFfQW5kX1NyaV9IYXJpeWVfTmF0YW5hLm1wMw%3D%3D
+Song_title = 14_-_Marapurani 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzE0Xy1fTWFyYXB1cmFuaS5tcDM%3D
+Song_title = 15_-_Chilaka_Gorinka 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzE1Xy1fQ2hpbGFrYV9Hb3JpbmthLm1wMw%3D%3D
+Song_title = 16_-_Chettu_Lekka 
+Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NDMvQ2hlbmNodS1MYWtzaG1pLzE2Xy1fQ2hldHR1X0xla2thLm1wMw%3D%3D
 
-Song_title = 1-Jai Shriram
-Song_URL = https://drive.google.com/file/d/1O62aOGxziMNBEbm7pyVMiYapFCcyc59L/preview
+Movie_name = Pelli Chesi Choodu
+Album_URL = 			
+Song_title = 01_-_Yevadosthaado_Choosthagaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzAxXy1fWWV2YWRvc3RoYWFkb19DaG9vc3RoYWdhYS5tcDM%3D
+Song_title = 02_-_Ee_Jagamantha_Nataka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzAyXy1fRWVfSmFnYW1hbnRoYV9OYXRha2EubXAz
+Song_title = 03_-_Pelli_Chesukuni Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzAzXy1fUGVsbGlfQ2hlc3VrdW5pLm1wMw%3D%3D
+Song_title = 04_-_Yevaro_Yevaro Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzA0Xy1fWWV2YXJvX1lldmFyby5tcDM%3D
+Song_title = 05_-_Radhanura Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzA1Xy1fUmFkaGFudXJhLm1wMw%3D%3D
+Song_title = 06_-_Manasaa_Neevevaro Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzA2Xy1fTWFuYXNhYV9OZWV2ZXZhcm8ubXAz
+Song_title = 07_-_Manasuloni_Manasaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzA3Xy1fTWFuYXN1bG9uaV9NYW5hc2FhLm1wMw%3D%3D
+Song_title = 08_-_Yedukondalavaadaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzA4Xy1fWWVkdWtvbmRhbGF2YWFkYWEubXAz
+Song_title = 09_-_Bhayamendhuke_Chitti Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzA5Xy1fQmhheWFtZW5kaHVrZV9DaGl0dGkubXAz
+Song_title = 10_-_Amma_Noppule Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzEwXy1fQW1tYV9Ob3BwdWxlLm1wMw%3D%3D
+Song_title = 11_-_Brahmayya_Oh_Brahmayya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzExXy1fQnJhaG1heXlhX09oX0JyYWhtYXl5YS5tcDM%3D
+Song_title = 12_-_Pelli_Chesi_Choopistham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzEyXy1fUGVsbGlfQ2hlc2lfQ2hvb3Bpc3RoYW0ubXAz
+Song_title = 13_-_Yechatanundi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzEzXy1fWWVjaGF0YW51bmRpLm1wMw%3D%3D
+Song_title = 14_-_Yekkadoyi_Priyaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzE0Xy1fWWVra2Fkb3lpX1ByaXlhYS5tcDM%3D
+Song_title = 15_-_Yevoori_Dhanave Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTIvUGVsbGktQ2hlc2ktQ2hvb2R1LzE1Xy1fWWV2b29yaV9EaGFuYXZlLm1wMw%3D%3D
 
-Song_title = 2-Ram Sita Ram
-Song_URL = http://docs.google.com/uc?export=open&id=1pwpfGokJ-dBMIpThgldPcSkwAgCRY_8P
+Movie_name = Devadas
+Album_URL = 						
+Song_title = 11_-_O_Devada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhcy8xMV8tX09fRGV2YWRhLm1wMw%3D%3D
+Song_title = 12_-_Cheliyaledu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhcy8xMl8tX0NoZWxpeWFsZWR1Lm1wMw%3D%3D
+Song_title = 13_-_Kale_Idani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhcy8xM18tX0thbGVfSWRhbmkubXAz
+Song_title = 14_-_Thane_Marena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhcy8xNF8tX1RoYW5lX01hcmVuYS5tcDM%3D
+Song_title = 15_-_Jagame_Maya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhcy8xNV8tX0phZ2FtZV9NYXlhLm1wMw%3D%3D
+Song_title = 16_-_Kudi_Edamaithe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhcy8xNl8tX0t1ZGlfRWRhbWFpdGhlLm1wMw%3D%3D
+Song_title = 17_-_O_Devada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhcy8xN18tX09fRGV2YWRhLm1wMw%3D%3D
+Song_title = 18_-_Palleku_Podam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhcy8xOF8tX1BhbGxla3VfUG9kYW0ubXAz
+Song_title = 19_-_Antha_Bhrantiyene Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhcy8xOV8tX0FudGhhX0JocmFudGl5ZW5lLm1wMw%3D%3D
+Song_title = 20_-_Andala_Anandam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhcy8yMF8tX0FuZGFsYV9BbmFuZGFtLm1wMw%3D%3D
 
-Song_title = 3-Shivoham
-Song_URL = https://docs.google.com/uc?export=download&id=1xS9k9Y0_9OK5buvDsnEFgmZJ8GxT6tsM
+Movie_name = Devadasu
+Album_URL =			
+Song_title = 01_-_ANR_Mundumata_ Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMDFfLV9BTlJfTXVuZHVtYXRhXy5tcDM%3D
+Song_title = 02_-_Kudi_Yedamaite_Porabatu_Ledoy.wav Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMDJfLV9LdWRpX1llZGFtYWl0ZV9Qb3JhYmF0dV9MZWRveS53YXYubXAz
+Song_title = 03_-_O_Devada-I Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMDNfLV9PX0RldmFkYS1JLm1wMw%3D%3D
+Song_title = 04_-_Pallekupodam_Parunu_Chooddam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMDRfLV9QYWxsZWt1cG9kYW1fUGFydW51X0Nob29kZGFtLm1wMw%3D%3D
+Song_title = 05_-_Antha_Branthiyena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMDVfLV9BbnRoYV9CcmFudGhpeWVuYS5tcDM%3D
+Song_title = 06_-_Andala_Aanandam_Indenaya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMDZfLV9BbmRhbGFfQWFuYW5kYW1fSW5kZW5heWEubXAz
+Song_title = 07_-_Intha_Telisiyundi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMDdfLV9JbnRoYV9UZWxpc2l5dW5kaS5tcDM%3D
+Song_title = 08_-_O_Devada-II Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMDhfLV9PX0RldmFkYS1JSS5tcDM%3D
+Song_title = 09_-_Cheliyaledu_Chelimiledu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMDlfLV9DaGVsaXlhbGVkdV9DaGVsaW1pbGVkdS5tcDM%3D
+Song_title = 10_-_Kalayidiyani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMTBfLV9LYWxheWlkaXlhbmkubXAz
+Song_title = 11_-_Taane_Maarena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMTFfLV9UYWFuZV9NYWFyZW5hLm1wMw%3D%3D
+Song_title = 12_-_Jagame_Maya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTMvRGV2YWRhc3UvMTJfLV9KYWdhbWVfTWF5YS5tcDM%3D
 
-Song_title = 4-Priya Mithunam
-Song_URL = https://drive.google.com/file/d/1s1N1NIhmgUXscCHO0H6Kxc85squIhwt9/view?usp=drive_link
+Movie_name = Anarkali
+Album_URL =				
+Song_title = 09_-_Aanda_Chandalugani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvQW5hcmthbGkvMDlfLV9BYW5kYV9DaGFuZGFsdWdhbmkubXAz
+Song_title = 10_-_Kalisinelaraju Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvQW5hcmthbGkvMTBfLV9LYWxpc2luZWxhcmFqdS5tcDM%3D
+Song_title = 11_-_Jeevithame_Sapalamu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvQW5hcmthbGkvMTFfLV9KZWV2aXRoYW1lX1NhcGFsYW11Lm1wMw%3D%3D
+Song_title = 12_-_Ravoyi_Sakha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvQW5hcmthbGkvMTJfLV9SYXZveWlfU2FraGEubXAz
+Song_title = 13_-_Nanukanugonuma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvQW5hcmthbGkvMTNfLV9OYW51a2FudWdvbnVtYS5tcDM%3D
+Song_title = 14_-_Anandame Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvQW5hcmthbGkvMTRfLV9BbmFuZGFtZS5tcDM%3D
+Song_title = 15_-_Anarkali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvQW5hcmthbGkvMTVfLV9BbmFya2FsaS5tcDM%3D
 
-Song_title = 5-Huppa Huiya
-Song_URL = https://drive.google.com/file/d/1s1N1NIhmgUXscCHO0H6Kxc85squIhwt9/preview?usp=drive_link
+Movie_name = Miss Amma
+Album_URL =				
+Song_title = 01_-_Vijaya_Emblem_and_Title_Music Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzAxXy1fVmlqYXlhX0VtYmxlbV9hbmRfVGl0bGVfTXVzaWMubXAz
+Song_title = 02_-_Dialogues Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzAyXy1fRGlhbG9ndWVzLm1wMw%3D%3D
+Song_title = 03_-_Ragasudharasa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzAzXy1fUmFnYXN1ZGhhcmFzYS5tcDM%3D
+Song_title = 04_-_Babu_Dharmam_Chei_Babu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzA0Xy1fQmFidV9EaGFybWFtX0NoZWlfQmFidS5tcDM%3D
+Song_title = 05_-_Dialogue Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzA1Xy1fRGlhbG9ndWUubXAz
+Song_title = 06_-_Aduvari_Matalaku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzA2Xy1fQWR1dmFyaV9NYXRhbGFrdS5tcDM%3D
+Song_title = 07_-_Dialogues Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzA3Xy1fRGlhbG9ndWVzLm1wMw%3D%3D
+Song_title = 08_-_Seetharam_Seetharam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzA4Xy1fU2VldGhhcmFtX1NlZXRoYXJhbS5tcDM%3D
+Song_title = 09_-_Dialogues Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzA5Xy1fRGlhbG9ndWVzLm1wMw%3D%3D
+Song_title = 10_-_Balanura_Madana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzEwXy1fQmFsYW51cmFfTWFkYW5hLm1wMw%3D%3D
+Song_title = 11_-_Telusukonave_Chelli Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzExXy1fVGVsdXN1a29uYXZlX0NoZWxsaS5tcDM%3D
+Song_title = 12_-_Telusukonave_Yuvati Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzEyXy1fVGVsdXN1a29uYXZlX1l1dmF0aS5tcDM%3D
+Song_title = 13_-_Karuninchu_Meri_Mata Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzEzXy1fS2FydW5pbmNodV9NZXJpX01hdGEubXAz
+Song_title = 14_-_Dialogues Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzE0Xy1fRGlhbG9ndWVzLm1wMw%3D%3D
+Song_title = 15_-_Ee_Navanavabhyudaya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzE1Xy1fRWVfTmF2YW5hdmFiaHl1ZGF5YS5tcDM%3D
+Song_title = 16_-_Dialogues Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzE2Xy1fRGlhbG9ndWVzLm1wMw%3D%3D
+Song_title = 17_-_Music_Lession_-_Dialogues Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzE3Xy1fTXVzaWNfTGVzc2lvbl8tX0RpYWxvZ3Vlcy5tcDM%3D
+Song_title = 18_-_Brindavanamadi_Andaridi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzE4Xy1fQnJpbmRhdmFuYW1hZGlfQW5kYXJpZGkubXAz
+Song_title = 19_-_Ravoyi_Chandamama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzE5Xy1fUmF2b3lpX0NoYW5kYW1hbWEubXAz
+Song_title = 20_-_Sri_Janaki_Ragam_-_Anandabhairavi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzIwXy1fU3JpX0phbmFraV9SYWdhbV8tX0FuYW5kYWJoYWlyYXZpLm1wMw%3D%3D
+Song_title = 21_-_Emito_ee_Maya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzIxXy1fRW1pdG9fZWVfTWF5YS5tcDM%3D
+Song_title = 22_-_Dialogues Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzIyXy1fRGlhbG9ndWVzLm1wMw%3D%3D
+Song_title = 23_-_Vijaya_Emblem_Music Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hLzIzXy1fVmlqYXlhX0VtYmxlbV9NdXNpYy5tcDM%3D
+Song_title = Miss-Amma.jpg	https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTUvTWlzcy1BbW1hL01pc3MtQW1tYS5qcGc%3D
+
+Movie_name = Mayabazar
+Album_URL =				
+Song_title = 01_-_Srikarulu_Devathalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzAxXy1fU3Jpa2FydWx1X0RldmF0aGFsdS5tcDM%3D
+Song_title = 02_-_Lallilalaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzAyXy1fTGFsbGlsYWxhYS5tcDM%3D
+Song_title = 03_-_Neevena_Nanu_Thalachinadhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzAzXy1fTmVldmVuYV9OYW51X1RoYWxhY2hpbmFkaGkubXAz
+Song_title = 04_-_Vinnaava_Yesodhamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzA0Xy1fVmlubmFhdmFfWWVzb2RoYW1tYS5tcDM%3D
+Song_title = 05_-_Choopula_Kalasina_Subhavela Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzA1Xy1fQ2hvb3B1bGFfS2FsYXNpbmFfU3ViaGF2ZWxhLm1wMw%3D%3D
+Song_title = 06_-_Lahiri_Laahiri_Lo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzA2Xy1fTGFoaXJpX0xhYWhpcmlfTG8ubXAz
+Song_title = 07_-_Bhali_Bhali_Devaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzA3Xy1fQmhhbGlfQmhhbGlfRGV2YWEubXAz
+Song_title = 08_-_Neekosame_Ne_Jeevinchunadi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzA4Xy1fTmVla29zYW1lX05lX0plZXZpbmNodW5hZGkubXAz
+Song_title = 09_-_Daya_Cheyandi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzA5Xy1fRGF5YV9DaGV5YW5kaS5tcDM%3D
+Song_title = 10_-_Ahaa_Naa_Pelliyantaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzEwXy1fQWhhYV9OYWFfUGVsbGl5YW50YWEubXAz
+Song_title = 11_-_Sundari_Neevanti Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzExXy1fU3VuZGFyaV9OZWV2YW50aS5tcDM%3D
+Song_title = 12_-_Vivaaha_Bhojananbu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzEyXy1fVml2YWFoYV9CaG9qYW5hbmJ1Lm1wMw%3D%3D
+Song_title = 13_-_Padyam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzEzXy1fUGFkeWFtLm1wMw%3D%3D
+Song_title = 14_-_Padyams_Of_Ghatotkaja Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzE0Xy1fUGFkeWFtc19PZl9HaGF0b3RrYWphLm1wMw%3D%3D
+Song_title = 15_-_Mohini_Bhasmasura_(Music) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzE1Xy1fTW9oaW5pX0JoYXNtYXN1cmFfKE11c2ljKS5tcDM%3D
+Song_title = 16_-_Title_Music_Of_Maya_Bazaar Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvTWF5YWJhemFyLzE2Xy1fVGl0bGVfTXVzaWNfT2ZfTWF5YV9CYXphYXIubXAz
+
+Movie_name = Suvarna Sundari
+Album_URL =				
+Song_title = 01_-_Om_Namasivaya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvU3V2YXJuYS1TdW5kYXJpLzAxXy1fT21fTmFtYXNpdmF5YS5tcDM%3D
+Song_title = 02_-_Bangaru_Vaneela Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvU3V2YXJuYS1TdW5kYXJpLzAyXy1fQmFuZ2FydV9WYW5lZWxhLm1wMw%3D%3D
+Song_title = 03_-_Piluvakura Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvU3V2YXJuYS1TdW5kYXJpLzAzXy1fUGlsdXZha3VyYS5tcDM%3D
+Song_title = 04_-_Hayi_Hayiga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvU3V2YXJuYS1TdW5kYXJpLzA0Xy1fSGF5aV9IYXlpZ2EubXAz
+Song_title = 05_-_Nee_Needalona Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvU3V2YXJuYS1TdW5kYXJpLzA1Xy1fTmVlX05lZWRhbG9uYS5tcDM%3D
+Song_title = 06_-_Naa_Chittipapa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvU3V2YXJuYS1TdW5kYXJpLzA2Xy1fTmFhX0NoaXR0aXBhcGEubXAz
+Song_title = 07_-_Bommalamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTcvU3V2YXJuYS1TdW5kYXJpLzA3Xy1fQm9tbWFsYW1tYS5tcDM%3D
+
+Movie_name = Bhookailas
+Album_URL =				
+Song_title = 01_-_Munneta_Pavalinchu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTgvQmhvb2thaWxhcy8wMV8tX011bm5ldGFfUGF2YWxpbmNodS5tcDM%3D
+Song_title = 02_-_Deva_Deva_Davalachala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTgvQmhvb2thaWxhcy8wMl8tX0RldmFfRGV2YV9EYXZhbGFjaGFsYS5tcDM%3D
+Song_title = 03_-_Neela_Kandhara_Deva Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTgvQmhvb2thaWxhcy8wM18tX05lZWxhX0thbmRoYXJhX0RldmEubXAz
+Song_title = 04_-_Teeyani_Talapula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTgvQmhvb2thaWxhcy8wNF8tX1RlZXlhbmlfVGFsYXB1bGEubXAz
+Song_title = 05_-_Sundaranga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTgvQmhvb2thaWxhcy8wNV8tX1N1bmRhcmFuZ2EubXAz
+Song_title = 06_-_Ramuni_Avatharam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTgvQmhvb2thaWxhcy8wNl8tX1JhbXVuaV9BdmF0aGFyYW0ubXAz
+Song_title = 07_-_Premaleevidhama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTgvQmhvb2thaWxhcy8wN18tX1ByZW1hbGVldmlkaGFtYS5tcDM%3D
+Song_title = 08_-_Naa_Nomu_Palinchenugaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTgvQmhvb2thaWxhcy8wOF8tX05hYV9Ob211X1BhbGluY2hlbnVnYWEubXAz
+Song_title = 09_-_Tagunaa_Varameeya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NTgvQmhvb2thaWxhcy8wOV8tX1RhZ3VuYWFfVmFyYW1lZXlhLm1wMw%3D%3D
+
+Movie_name = Iddaru Mitrulu
+Album_URL =				
+Song_title = 14_-_Oho_oho_ninne_korega_(Iddaru_Mitrulu) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjEvSWRkYXJ1LU1pdHJ1bHUvMTRfLV9PaG9fb2hvX25pbm5lX2tvcmVnYV8oSWRkYXJ1X01pdHJ1bHUpLm1wMw%3D%3D
+Song_title = 15_-_Padavela_radhika Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjEvSWRkYXJ1LU1pdHJ1bHUvMTVfLV9QYWRhdmVsYV9yYWRoaWthLm1wMw%3D%3D
+Song_title = 16_-_Navvali_navvali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjEvSWRkYXJ1LU1pdHJ1bHUvMTZfLV9OYXZ2YWxpX25hdnZhbGkubXAz
+Song_title = 17_-_Halo_halo_O_ammayyi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjEvSWRkYXJ1LU1pdHJ1bHUvMTdfLV9IYWxvX2hhbG9fT19hbW1heXlpLm1wMw%3D%3D
+Song_title = 18_-_Ee_musu_musi_navvula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjEvSWRkYXJ1LU1pdHJ1bHUvMThfLV9FZV9tdXN1X211c2lfbmF2dnVsYS5tcDM%3D
+Song_title = 19_-_Khushi_khusiga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjEvSWRkYXJ1LU1pdHJ1bHUvMTlfLV9LaHVzaGlfa2h1c2lnYS5tcDM%3D
+Song_title = 20_-_Chakkani_chukka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjEvSWRkYXJ1LU1pdHJ1bHUvMjBfLV9DaGFra2FuaV9jaHVra2EubXAz
+
+Movie_name = Raktha Sambandham
+Album_URL =				
+Song_title = 07_-_Idhe_Raktha_Sambandham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjIvUmFrdGhhLVNhbWJhbmRoYW0vMDdfLV9JZGhlX1Jha3RoYV9TYW1iYW5kaGFtLm1wMw%3D%3D
+Song_title = 08_-_Manchiroju_Vasthundi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjIvUmFrdGhhLVNhbWJhbmRoYW0vMDhfLV9NYW5jaGlyb2p1X1Zhc3RodW5kaS5tcDM%3D
+Song_title = 09_-_Oho_Vayyari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjIvUmFrdGhhLVNhbWJhbmRoYW0vMDlfLV9PaG9fVmF5eWFyaS5tcDM%3D
+Song_title = 10_-_Evaro_Nanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjIvUmFrdGhhLVNhbWJhbmRoYW0vMTBfLV9FdmFyb19OYW51Lm1wMw%3D%3D
+Song_title = 11_-_Bangaru_Bomma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjIvUmFrdGhhLVNhbWJhbmRoYW0vMTFfLV9CYW5nYXJ1X0JvbW1hLm1wMw%3D%3D
+Song_title = 12_-_Idhe_Raktha_Sambandham_(Pathos) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjIvUmFrdGhhLVNhbWJhbmRoYW0vMTJfLV9JZGhlX1Jha3RoYV9TYW1iYW5kaGFtXyhQYXRob3MpLm1wMw%3D%3D
+Song_title = 13_-_Chanduruni_Minchu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjIvUmFrdGhhLVNhbWJhbmRoYW0vMTNfLV9DaGFuZHVydW5pX01pbmNodS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1963	Lava-Kusa	01_-_Sri_Vidhyam_(Slokam) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzAxXy1fU3JpX1ZpZGh5YW1fKFNsb2thbSkubXAz
+1963	Lava-Kusa	02_-_Navajyotho_Jwala_(Poem) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzAyXy1fTmF2YWp5b3Rob19Kd2FsYV8oUG9lbSkubXAz
+1963	Lava-Kusa	03_-_Jaya_Jaya_Rama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzAzXy1fSmF5YV9KYXlhX1JhbWEubXAz
+1963	Lava-Kusa	04_-_Ramanna_Raamudu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzA0Xy1fUmFtYW5uYV9SYWFtdWR1Lm1wMw%3D%3D
+1963	Lava-Kusa	05_-_Poem_1 Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzA1Xy1fUG9lbV8xLm1wMw%3D%3D
+1963	Lava-Kusa	06_-_Virise_Challani_Vennela Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzA2Xy1fVmlyaXNlX0NoYWxsYW5pX1Zlbm5lbGEubXAz
+1963	Lava-Kusa	07_-_Poems_2 Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzA3Xy1fUG9lbXNfMi5tcDM%3D
+1963	Lava-Kusa	08_-_Vollanori_Maamaa_Nee_Pillani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzA4Xy1fVm9sbGFub3JpX01hYW1hYV9OZWVfUGlsbGFuaS5tcDM%3D
+1963	Lava-Kusa	09_-_Poem_2 Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzA5Xy1fUG9lbV8yLm1wMw%3D%3D
+1963	Lava-Kusa	10_-_Ye_Nimishaniki_Yemi_Jaruguno Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzEwXy1fWWVfTmltaXNoYW5pa2lfWWVtaV9KYXJ1Z3Vuby5tcDM%3D
+1963	Lava-Kusa	11_-_Poems_3 Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzExXy1fUG9lbXNfMy5tcDM%3D
+1963	Lava-Kusa	12_-_Jadabhi_Ramudu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzEyXy1fSmFkYWJoaV9SYW11ZHUubXAz
+1963	Lava-Kusa	13_-_Yehdhuke_Naa_Meedha_Kopam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzEzXy1fWWVoZGh1a2VfTmFhX01lZWRoYV9Lb3BhbS5tcDM%3D
+1963	Lava-Kusa	14_-_Ramakathanu_Vinarayyaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzE0Xy1fUmFtYWthdGhhbnVfVmluYXJheXlhYS5tcDM%3D
+1963	Lava-Kusa	15_-_Voorake_Kanneeru_Nimpa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzE1Xy1fVm9vcmFrZV9LYW5uZWVydV9OaW1wYS5tcDM%3D
+1963	Lava-Kusa	16_-_Vinudu_Vinudu_Ramayana_Gaatha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzE2Xy1fVmludWR1X1ZpbnVkdV9SYW1heWFuYV9HYWF0aGEubXAz
+1963	Lava-Kusa	17_-_Sriraamuni_Charithamunu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzE3Xy1fU3JpcmFhbXVuaV9DaGFyaXRoYW11bnUubXAz
+1963	Lava-Kusa	18_-_Poem_3 Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzE4Xy1fUG9lbV8zLm1wMw%3D%3D
+1963	Lava-Kusa	19_-_Sanhehinchakumammu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzE5Xy1fU2FuaGVoaW5jaGFrdW1hbW11Lm1wMw%3D%3D
+1963	Lava-Kusa	20_-_Ashwamethayugaani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzIwXy1fQXNod2FtZXRoYXl1Z2FhbmkubXAz
+1963	Lava-Kusa	21_-_Slokams_&_Poems Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzIxXy1fU2xva2Ftc18mX1BvZW1zLm1wMw%3D%3D
+1963	Lava-Kusa	22_-_Leru_Kusalavula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzIyXy1fTGVydV9LdXNhbGF2dWxhLm1wMw%3D%3D
+1963	Lava-Kusa	23_-_Poem_4 Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzIzXy1fUG9lbV80Lm1wMw%3D%3D
+1963	Lava-Kusa	24_-_Jaya_Jayashriram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzI0Xy1fSmF5YV9KYXlhc2hyaXJhbS5tcDM%3D
+1963	Lava-Kusa	25_-_Poems_4 Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTGF2YS1LdXNhLzI1Xy1fUG9lbXNfNC5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1963	Mooga-Manasulu	01_-_Eenati_Ee_Bandham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTW9vZ2EtTWFuYXN1bHUvMDFfLV9FZW5hdGlfRWVfQmFuZGhhbS5tcDM%3D
+1963	Mooga-Manasulu	02_-_Paaduta_Theeyaga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTW9vZ2EtTWFuYXN1bHUvMDJfLV9QYWFkdXRhX1RoZWV5YWdhLm1wMw%3D%3D
+1963	Mooga-Manasulu	03_-_Godari_Gattundi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTW9vZ2EtTWFuYXN1bHUvMDNfLV9Hb2RhcmlfR2F0dHVuZGkubXAz
+1963	Mooga-Manasulu	04_-_Muddabanti_Poovulo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTW9vZ2EtTWFuYXN1bHUvMDRfLV9NdWRkYWJhbnRpX1Bvb3Z1bG8ubXAz
+1963	Mooga-Manasulu	05_-_Mukku_Meeda_Kopam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTW9vZ2EtTWFuYXN1bHUvMDVfLV9NdWtrdV9NZWVkYV9Lb3BhbS5tcDM%3D
+1963	Mooga-Manasulu	06_-_Naa_Paata_Nee_Nota Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTW9vZ2EtTWFuYXN1bHUvMDZfLV9OYWFfUGFhdGFfTmVlX05vdGEubXAz
+1963	Mooga-Manasulu	07_-_Eenati_Ee_Bandham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTW9vZ2EtTWFuYXN1bHUvMDdfLV9FZW5hdGlfRWVfQmFuZGhhbS5tcDM%3D
+1963	Mooga-Manasulu	08_-_Maanu_Maakunu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTW9vZ2EtTWFuYXN1bHUvMDhfLV9NYWFudV9NYWFrdW51Lm1wMw%3D%3D
+1963	Mooga-Manasulu	09_-_Hai_Gowramma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTW9vZ2EtTWFuYXN1bHUvMDlfLV9IYWlfR293cmFtbWEubXAz
+
+Movie_name = 
+Album_URL =				
+1963	Narthanasala	01_-_Title_Music Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzAxXy1fVGl0bGVfTXVzaWMubXAz
+1963	Narthanasala	02_-_Vijayeebhava Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzAyXy1fVmlqYXllZWJoYXZhLm1wMw%3D%3D
+1963	Narthanasala	03_-_Naravaraa_Kuruvaraa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzAzXy1fTmFyYXZhcmFhX0t1cnV2YXJhYS5tcDM%3D
+1963	Narthanasala	04_-_Anna_Illalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzA0Xy1fQW5uYV9JbGxhbHUubXAz
+1963	Narthanasala	05_-_Janani_Sivakamini Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzA1Xy1fSmFuYW5pX1NpdmFrYW1pbmkubXAz
+1963	Narthanasala	06_-_Jayagananayaka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzA2Xy1fSmF5YWdhbmFuYXlha2EubXAz
+1963	Narthanasala	07_-_Sarasaalu_Ulikimpa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzA3Xy1fU2FyYXNhYWx1X1VsaWtpbXBhLm1wMw%3D%3D
+1963	Narthanasala	08_-_Salalita_Raaga_Sudharasa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzA4Xy1fU2FsYWxpdGFfUmFhZ2FfU3VkaGFyYXNhLm1wMw%3D%3D
+1963	Narthanasala	09_-_Evvari_Kosam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzA5Xy1fRXZ2YXJpX0tvc2FtLm1wMw%3D%3D
+1963	Narthanasala	10_-_Sakhiya_Vivarinchave Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzEwXy1fU2FraGl5YV9WaXZhcmluY2hhdmUubXAz
+1963	Narthanasala	12_-_Dariki_Raboku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzEyXy1fRGFyaWtpX1JhYm9rdS5tcDM%3D
+1963	Narthanasala	13_-_Seelavathi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzEzXy1fU2VlbGF2YXRoaS5tcDM%3D
+1963	Narthanasala	14_-_Sambhasanalu-Padyamulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjMvTmFydGhhbmFzYWxhLzE0Xy1fU2FtYmhhc2FuYWx1LVBhZHlhbXVsdS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1964	Dr-Chakravarthi	01_-_Neevuleka_Veena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGhpLzAxXy1fTmVldnVsZWthX1ZlZW5hLm1wMw%3D%3D
+1964	Dr-Chakravarthi	02_-_Padamani_Nannadaga_Taguna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGhpLzAyXy1fUGFkYW1hbmlfTmFubmFkYWdhX1RhZ3VuYS5tcDM%3D
+1964	Dr-Chakravarthi	03_-_Ee_Mounam_Ee_Bidiyam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGhpLzAzXy1fRWVfTW91bmFtX0VlX0JpZGl5YW0ubXAz
+1964	Dr-Chakravarthi	04_-_Manasuna_Manasai Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGhpLzA0Xy1fTWFuYXN1bmFfTWFuYXNhaS5tcDM%3D
+1964	Dr-Chakravarthy	10_-_Yeemounam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGh5LzEwXy1fWWVlbW91bmFtLm1wMw%3D%3D
+1964	Dr-Chakravarthy	11_-_Paadamani_Nannadaga_Valena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGh5LzExXy1fUGFhZGFtYW5pX05hbm5hZGFnYV9WYWxlbmEubXAz
+1964	Dr-Chakravarthy	12_-_Nijam_Cheppave Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGh5LzEyXy1fTmlqYW1fQ2hlcHBhdmUubXAz
+1964	Dr-Chakravarthy	13_-_Paadamani_Nannadaga_Thaguna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGh5LzEzXy1fUGFhZGFtYW5pX05hbm5hZGFnYV9UaGFndW5hLm1wMw%3D%3D
+1964	Dr-Chakravarthy	14_-_Manasuna_Manasai Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGh5LzE0Xy1fTWFuYXN1bmFfTWFuYXNhaS5tcDM%3D
+1964	Dr-Chakravarthy	15_-_Neevuleka_Veena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGh5LzE1Xy1fTmVldnVsZWthX1ZlZW5hLm1wMw%3D%3D
+1964	Dr-Chakravarthy	16_-_Ontiga_Samayam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGh5LzE2Xy1fT250aWdhX1NhbWF5YW0ubXAz
+1964	Dr-Chakravarthy	17_-_Yevaro_Jwaalanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvRHItQ2hha3JhdmFydGh5LzE3Xy1fWWV2YXJvX0p3YWFsYW51Lm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1964	Gudi-Gantalu	14_-_Neeli_Kannula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvR3VkaS1HYW50YWx1LzE0Xy1fTmVlbGlfS2FubnVsYS5tcDM%3D
+1964	Gudi-Gantalu	15_-_Neekanu_Dhoyene Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvR3VkaS1HYW50YWx1LzE1Xy1fTmVla2FudV9EaG95ZW5lLm1wMw%3D%3D
+1964	Gudi-Gantalu	16_-_Dooraanaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvR3VkaS1HYW50YWx1LzE2Xy1fRG9vcmFhbmFhLm1wMw%3D%3D
+1964	Gudi-Gantalu	17_-_Evarikivaaram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvR3VkaS1HYW50YWx1LzE3Xy1fRXZhcmlraXZhYXJhbS5tcDM%3D
+1964	Gudi-Gantalu	18_-_Neelolananne Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvR3VkaS1HYW50YWx1LzE4Xy1fTmVlbG9sYW5hbm5lLm1wMw%3D%3D
+1964	Gudi-Gantalu	19_-_Janma_Methithira Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvR3VkaS1HYW50YWx1LzE5Xy1fSmFubWFfTWV0aGl0aGlyYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1964	Ramudu-Bheemudu	01_-_Vundhile_Manchikalam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvUmFtdWR1LUJoZWVtdWR1LzAxXy1fVnVuZGhpbGVfTWFuY2hpa2FsYW0ubXAz
+1964	Ramudu-Bheemudu	02_-_Thelis_Indhile Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvUmFtdWR1LUJoZWVtdWR1LzAyXy1fVGhlbGlzX0luZGhpbGUubXAz
+1964	Ramudu-Bheemudu	03_-_Athey_Athey Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvUmFtdWR1LUJoZWVtdWR1LzAzXy1fQXRoZXlfQXRoZXkubXAz
+1964	Ramudu-Bheemudu	04_-_Desammu_Marindhoi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvUmFtdWR1LUJoZWVtdWR1LzA0Xy1fRGVzYW1tdV9NYXJpbmRob2kubXAz
+1964	Ramudu-Bheemudu	05_-_Hoy_Thaluku_Thaluku_Mani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvUmFtdWR1LUJoZWVtdWR1LzA1Xy1fSG95X1RoYWx1a3VfVGhhbHVrdV9NYW5pLm1wMw%3D%3D
+1964	Ramudu-Bheemudu	06_-_Saradha_Saradha_Sigarettu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjQvUmFtdWR1LUJoZWVtdWR1LzA2Xy1fU2FyYWRoYV9TYXJhZGhhX1NpZ2FyZXR0dS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1967	Bhaktha-Prahlada	01_-_Adhiyu_Anaadiyu_Neeve Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8wMV8tX0FkaGl5dV9BbmFhZGl5dV9OZWV2ZS5tcDM%3D
+1967	Bhaktha-Prahlada	02_-_Hey_Jyothi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8wMl8tX0hleV9KeW90aGkubXAz
+1967	Bhaktha-Prahlada	03_-_Raa_Raa_Priya_Sundaraa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8wM18tX1JhYV9SYWFfUHJpeWFfU3VuZGFyYWEubXAz
+1967	Bhaktha-Prahlada	04_-_Jananee_Varadaayini Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8wNF8tX0phbmFuZWVfVmFyYWRhYXlpbmkubXAz
+1967	Bhaktha-Prahlada	05_-_Naarayana_Manthram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8wNV8tX05hYXJheWFuYV9NYW50aHJhbS5tcDM%3D
+1967	Bhaktha-Prahlada	06_-_He_Jyothiswaroopa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8wNl8tX0hlX0p5b3RoaXN3YXJvb3BhLm1wMw%3D%3D
+1967	Bhaktha-Prahlada	07_-_Aadukvayya_Oh_Rameshaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8wN18tX0FhZHVrdmF5eWFfT2hfUmFtZXNoYWEubXAz
+1967	Bhaktha-Prahlada	08_-_Jeevamu_Neeve_Kadaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8wOF8tX0plZXZhbXVfTmVldmVfS2FkYWEubXAz
+1967	Bhaktha-Prahlada	09_-_Padhyams_and_Sthothram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8wOV8tX1BhZGh5YW1zX2FuZF9TdGhvdGhyYW0ubXAz
+1967	Bhaktha-Prahlada	10_-_Siri_Siri_Laali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8xMF8tX1NpcmlfU2lyaV9MYWFsaS5tcDM%3D
+1967	Bhaktha-Prahlada	11_-_Bhujasakthi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8xMV8tX0JodWphc2FrdGhpLm1wMw%3D%3D
+1967	Bhaktha-Prahlada	12_-_Bhaktha_Prahlada_(Padyams)_[Duet] Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8xMl8tX0JoYWt0aGFfUHJhaGxhZGFfKFBhZHlhbXMpX1tEdWV0XS5tcDM%3D
+1967	Bhaktha-Prahlada	13_-_Bhaktha_Prahlada_(Padyams) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8xM18tX0JoYWt0aGFfUHJhaGxhZGFfKFBhZHlhbXMpLm1wMw%3D%3D
+1967	Bhaktha-Prahlada	14_-_Varamosage_Vanamali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8xNF8tX1ZhcmFtb3NhZ2VfVmFuYW1hbGkubXAz
+1967	Bhaktha-Prahlada	15_-_Pamulolla_Mayya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8xNV8tX1BhbXVsb2xsYV9NYXl5YS5tcDM%3D
+1967	Bhaktha-Prahlada	16_-_Dhandakam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8xNl8tX0RoYW5kYWthbS5tcDM%3D
+1967	Bhaktha-Prahlada	17_-_Kathina_(Padyam) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8xN18tX0thdGhpbmFfKFBhZHlhbSkubXAz
+1967	Bhaktha-Prahlada	18_-_Andani_Suraseema Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8xOF8tX0FuZGFuaV9TdXJhc2VlbWEubXAz
+1967	Bhaktha-Prahlada	19_-_Karunaleni_(Padyam) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8xOV8tX0thcnVuYWxlbmlfKFBhZHlhbSkubXAz
+1967	Bhaktha-Prahlada	20_-_Mandara_Makaranda_(Padyam) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8yMF8tX01hbmRhcmFfTWFrYXJhbmRhXyhQYWR5YW0pLm1wMw%3D%3D
+1967	Bhaktha-Prahlada	21_-_Patuthara Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8yMV8tX1BhdHV0aGFyYS5tcDM%3D
+1967	Bhaktha-Prahlada	22_-_Kanjakshunaku_(Padyam) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8yMl8tX0thbmpha3NodW5ha3VfKFBhZHlhbSkubXAz
+1967	Bhaktha-Prahlada	23_-_Panchabdambulavadu_(Padyam) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8yM18tX1BhbmNoYWJkYW1idWxhdmFkdV8oUGFkeWFtKS5tcDM%3D
+1967	Bhaktha-Prahlada	24_-_Munchithi_(Padyam) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8yNF8tX011bmNoaXRoaV8oUGFkeWFtKS5tcDM%3D
+1967	Bhaktha-Prahlada	25_-_Kaladambodhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8yNV8tX0thbGFkYW1ib2RoaS5tcDM%3D
+1967	Bhaktha-Prahlada	26_-_Indugaladu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8yNl8tX0luZHVnYWxhZHUubXAz
+1967	Bhaktha-Prahlada	27_-_Srimanini_Mandira Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8yN18tX1NyaW1hbmluaV9NYW5kaXJhLm1wMw%3D%3D
+1967	Bhaktha-Prahlada	28_-_Namo_Narasimha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8yOF8tX05hbW9fTmFyYXNpbWhhLm1wMw%3D%3D
+1967	Bhaktha-Prahlada	29_-_Bhaktha_Prahlada_Theme,_Pt._1_(Instrumental) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8yOV8tX0JoYWt0aGFfUHJhaGxhZGFfVGhlbWUsX1B0Ll8xXyhJbnN0cnVtZW50YWwpLm1wMw%3D%3D
+1967	Bhaktha-Prahlada	30_-_Bhaktha_Prahlada_Theme,_Pt._2_(Instrumental) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8zMF8tX0JoYWt0aGFfUHJhaGxhZGFfVGhlbWUsX1B0Ll8yXyhJbnN0cnVtZW50YWwpLm1wMw%3D%3D
+1967	Bhaktha-Prahlada	31_-_Chadivinchiri_(Padyam) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8zMV8tX0NoYWRpdmluY2hpcmlfKFBhZHlhbSkubXAz
+1967	Bhaktha-Prahlada	32_-_Patuthara_(Padyam) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8zMl8tX1BhdHV0aGFyYV8oUGFkeWFtKS5tcDM%3D
+1967	Bhaktha-Prahlada	33_-_Kili_Vandhu_Kothatha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjcvQmhha3RoYS1QcmFobGFkYS8zM18tX0tpbGlfVmFuZGh1X0tvdGhhdGhhLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1968	Govula-Gopanna	12_-_Vinara_Vinara_Naruda_(Govula_Gopanna) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjgvR292dWxhLUdvcGFubmEvMTJfLV9WaW5hcmFfVmluYXJhX05hcnVkYV8oR292dWxhX0dvcGFubmEpLm1wMw%3D%3D
+1968	Govula-Gopanna	13_-_Kannela_Valapula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjgvR292dWxhLUdvcGFubmEvMTNfLV9LYW5uZWxhX1ZhbGFwdWxhLm1wMw%3D%3D
+1968	Govula-Gopanna	14_-_Hello_Mister_Govula_Gopanna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjgvR292dWxhLUdvcGFubmEvMTRfLV9IZWxsb19NaXN0ZXJfR292dWxhX0dvcGFubmEubXAz
+1968	Govula-Gopanna	15_-_Aakasamlo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjgvR292dWxhLUdvcGFubmEvMTVfLV9BYWthc2FtbG8ubXAz
+1968	Govula-Gopanna	16_-_Ee_Viri_Thotalalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjgvR292dWxhLUdvcGFubmEvMTZfLV9FZV9WaXJpX1Rob3RhbGFsby5tcDM%3D
+1968	Govula-Gopanna	17_-_Vinara_Vinara Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjgvR292dWxhLUdvcGFubmEvMTdfLV9WaW5hcmFfVmluYXJhLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1969	Hits-From-Telugu-Films	01_-_Pillalu_Devudu_-_Lethamanasulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8wMV8tX1BpbGxhbHVfRGV2dWR1Xy1fTGV0aGFtYW5hc3VsdS5tcDM%3D
+1969	Hits-From-Telugu-Films	02_-_Changure_Bangaaru_Raja_-_Sri_Krishna_Pandaveeyam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8wMl8tX0NoYW5ndXJlX0JhbmdhYXJ1X1JhamFfLV9TcmlfS3Jpc2huYV9QYW5kYXZlZXlhbS5tcDM%3D
+1969	Hits-From-Telugu-Films	03_-_Andamu_Chinde_-_Adabratuku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8wM18tX0FuZGFtdV9DaGluZGVfLV9BZGFicmF0dWt1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films	04_-_Ranani_Raalenani_-_Atmagowravam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8wNF8tX1JhbmFuaV9SYWFsZW5hbmlfLV9BdG1hZ293cmF2YW0ubXAz
+1969	Hits-From-Telugu-Films	05_-_Mutyala_Chemma_Chekka_-_Bobboli_Yuddam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8wNV8tX011dHlhbGFfQ2hlbW1hX0NoZWtrYV8tX0JvYmJvbGlfWXVkZGFtLm1wMw%3D%3D
+1969	Hits-From-Telugu-Films	06_-_Naa_Paata_Nee_Nota_-_Mooga_Manasulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8wNl8tX05hYV9QYWF0YV9OZWVfTm90YV8tX01vb2dhX01hbmFzdWx1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films	07_-_Soggade_Chinni_Nayana_-_Aasthiparulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8wN18tX1NvZ2dhZGVfQ2hpbm5pX05heWFuYV8tX0Fhc3RoaXBhcnVsdS5tcDM%3D
+1969	Hits-From-Telugu-Films	08_-_Ee_Nallani_Raallalo_-_Amarashili_Jakkana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8wOF8tX0VlX05hbGxhbmlfUmFhbGxhbG9fLV9BbWFyYXNoaWxpX0pha2thbmEubXAz
+1969	Hits-From-Telugu-Films	09_-_Siggesthunda_-_Manasulu_Mamathalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8wOV8tX1NpZ2dlc3RodW5kYV8tX01hbmFzdWx1X01hbWF0aGFsdS5tcDM%3D
+1969	Hits-From-Telugu-Films	10_-_Neevuleka_Veena_-_Dr_Chakravarthy Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8xMF8tX05lZXZ1bGVrYV9WZWVuYV8tX0RyX0NoYWtyYXZhcnRoeS5tcDM%3D
+1969	Hits-From-Telugu-Films	11_-_Sannajaji_Teeveloy_-_Anuragama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8xMV8tX1Nhbm5hamFqaV9UZWV2ZWxveV8tX0FudXJhZ2FtYS5tcDM%3D
+1969	Hits-From-Telugu-Films	12_-_Pagale_Vennela_-_Pooja_Phalam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy8xMl8tX1BhZ2FsZV9WZW5uZWxhXy1fUG9vamFfUGhhbGFtLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =	
+1969	Hits-From-Telugu-Films-Vol-4	01_-_Challani_Raja_O_Chandamama_-_ilavelpu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNC8wMV8tX0NoYWxsYW5pX1JhamFfT19DaGFuZGFtYW1hXy1faWxhdmVscHUubXAz
+1969	Hits-From-Telugu-Films-Vol-4	02_-_Pilavakura_Alugakura_-_Suvarna_Sundari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNC8wMl8tX1BpbGF2YWt1cmFfQWx1Z2FrdXJhXy1fU3V2YXJuYV9TdW5kYXJpLm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-4	03_-_Aakasa_Veedhili_-_Mangalya_Bhalam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNC8wM18tX0Fha2FzYV9WZWVkaGlsaV8tX01hbmdhbHlhX0JoYWxhbS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-4	04_-_Na_Hrudayamlo_Nidurinche_-_Aaradhana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNC8wNF8tX05hX0hydWRheWFtbG9fTmlkdXJpbmNoZV8tX0FhcmFkaGFuYS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-4	05_-_Entha_Manchivaadavuraa_-_Nammina_Bantu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNC8wNV8tX0VudGhhX01hbmNoaXZhYWRhdnVyYWFfLV9OYW1taW5hX0JhbnR1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-4	06_-_Jagame_Maya_Brathuke_Maya_-_Devadass Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNC8wNl8tX0phZ2FtZV9NYXlhX0JyYXRodWtlX01heWFfLV9EZXZhZGFzcy5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-4	07_-_Kanulu_Kanulatho_-_Sumangalai Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNC8wN18tX0thbnVsdV9LYW51bGF0aG9fLV9TdW1hbmdhbGFpLm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-4	08_-_Ragamayee_Raave_-_Jayabheri Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNC8wOF8tX1JhZ2FtYXllZV9SYWF2ZV8tX0pheWFiaGVyaS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-4	09_-_O_Chiguraakulalo_Chilakamma_-_Dongaramudu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNC8wOV8tX09fQ2hpZ3VyYWFrdWxhbG9fQ2hpbGFrYW1tYV8tX0RvbmdhcmFtdWR1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-4	10_-_Raja_Sekhara_-_Anarkali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNC8xMF8tX1JhamFfU2VraGFyYV8tX0FuYXJrYWxpLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =	
+1969	Hits-From-Telugu-Films-Vol-5	01_-_Kalavaramaye_Madilo_-_Pathala_Bhairavi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8wMV8tX0thbGF2YXJhbWF5ZV9NYWRpbG9fLV9QYXRoYWxhX0JoYWlyYXZpLm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-5	02_-_Lechindi_Nidra_Lechindi_-_Gundumma_Katha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8wMl8tX0xlY2hpbmRpX05pZHJhX0xlY2hpbmRpXy1fR3VuZHVtbWFfS2F0aGEubXAz
+1969	Hits-From-Telugu-Films-Vol-5	03_-_Brindavanamadi_Andaridi_-_Missamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8wM18tX0JyaW5kYXZhbmFtYWRpX0FuZGFyaWRpXy1fTWlzc2FtbWEubXAz
+1969	Hits-From-Telugu-Films-Vol-5	04_-_Janani_Sivakaamini_-_Narthanasala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8wNF8tX0phbmFuaV9TaXZha2FhbWluaV8tX05hcnRoYW5hc2FsYS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-5	05_-_Kanupapa_Karuvaina_-_Chiranjeevulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8wNV8tX0thbnVwYXBhX0thcnV2YWluYV8tX0NoaXJhbmplZXZ1bHUubXAz
+1969	Hits-From-Telugu-Films-Vol-5	06_-_Adagaka_Ichina_-_Daagudu_Moothalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8wNl8tX0FkYWdha2FfSWNoaW5hXy1fRGFhZ3VkdV9Nb290aGFsdS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-5	07_-_Ravoyi_Chandamama_-_Missamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8wN18tX1Jhdm95aV9DaGFuZGFtYW1hXy1fTWlzc2FtbWEubXAz
+1969	Hits-From-Telugu-Films-Vol-5	08_-_Anthaga_Nanu_Choodaku_-_Manchi_Manishi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8wOF8tX0FudGhhZ2FfTmFudV9DaG9vZGFrdV8tX01hbmNoaV9NYW5pc2hpLm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-5	09_-_Yedukondala_Vaada_-_Pelli_Chesi_Choodu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8wOV8tX1llZHVrb25kYWxhX1ZhYWRhXy1fUGVsbGlfQ2hlc2lfQ2hvb2R1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-5	10_-_Ade_Ade_Anthu_Naaku_-_Ramudu_Bheemudu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8xMF8tX0FkZV9BZGVfQW50aHVfTmFha3VfLV9SYW11ZHVfQmhlZW11ZHUubXAz
+1969	Hits-From-Telugu-Films-Vol-5	11_-_Amma_Ani_Arachina_-_Panduranga_Mahatyam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8xMV8tX0FtbWFfQW5pX0FyYWNoaW5hXy1fUGFuZHVyYW5nYV9NYWhhdHlhbS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-5	12_-_Laahiri_Laahiri_Laahirilo_-_Maya_Bazaar Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNS8xMl8tX0xhYWhpcmlfTGFhaGlyaV9MYWFoaXJpbG9fLV9NYXlhX0JhemFhci5tcDM%3D
+
+Movie_name = 
+Album_URL =	
+1969	Hits-From-Telugu-Films-Vol-6	01_-_Muddante_Cheda_-_Adrustavanthulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8wMV8tX011ZGRhbnRlX0NoZWRhXy1fQWRydXN0YXZhbnRodWx1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-6	02_-_Mokkajonna_Thotalo_-_Adrustavanthulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8wMl8tX01va2tham9ubmFfVGhvdGFsb18tX0FkcnVzdGF2YW50aHVsdS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-6	03_-_Annyya_Sannidhi_-_Bangaru_Kalalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8wM18tX0Fubnl5YV9TYW5uaWRoaV8tX0JhbmdhcnVfS2FsYWx1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-6	04_-_Inda_Inda_Teesuko_-_Bhanle_Monagadu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8wNF8tX0luZGFfSW5kYV9UZWVzdWtvXy1fQmhhbmxlX01vbmFnYWR1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-6	05_-_Adugaduguna_Gudu_Vundi_-_Undamma_Bottu_Pedata Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8wNV8tX0FkdWdhZHVndW5hX0d1ZHVfVnVuZGlfLV9VbmRhbW1hX0JvdHR1X1BlZGF0YS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-6	06_-_Pacha_Pachani_Chilaka_-_Kalisochina_Adrustram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8wNl8tX1BhY2hhX1BhY2hhbmlfQ2hpbGFrYV8tX0thbGlzb2NoaW5hX0FkcnVzdHJhbS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-6	07_-_Virisina_Vennelavo_-_Bandi_Potu_Dongalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8wN18tX1ZpcmlzaW5hX1Zlbm5lbGF2b18tX0JhbmRpX1BvdHVfRG9uZ2FsdS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-6	08_-_Vinnanule_Priya_-_Bandi_Potu_Dongalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8wOF8tX1Zpbm5hbnVsZV9Qcml5YV8tX0JhbmRpX1BvdHVfRG9uZ2FsdS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-6	09_-_Tallivi_Neeve_-_Mooganomu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8wOV8tX1RhbGxpdmlfTmVldmVfLV9Nb29nYW5vbXUubXAz
+1969	Hits-From-Telugu-Films-Vol-6	10_-_Pachani_Chettu_Okati_-Ramu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8xMF8tX1BhY2hhbmlfQ2hldHR1X09rYXRpXy1SYW11Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-6	11_-_Mamidikomma_Malli_Malli_-_Ramu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8xMV8tX01hbWlkaWtvbW1hX01hbGxpX01hbGxpXy1fUmFtdS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-6	12_-_Mutyala_Jallu_Kurise_-_Kathanayakudu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNi8xMl8tX011dHlhbGFfSmFsbHVfS3VyaXNlXy1fS2F0aGFuYXlha3VkdS5tcDM%3D
+
+Movie_name = 
+Album_URL =	
+1969	Hits-From-Telugu-Films-Vol-7	01_-_Chinta_Chettu_Chiguru_Choodu_-_Adrustravanthulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8wMV8tX0NoaW50YV9DaGV0dHVfQ2hpZ3VydV9DaG9vZHVfLV9BZHJ1c3RyYXZhbnRodWx1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-7	02_-_Kodi_Koose_Jaamu_Daaka_-_Adrustravanthulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8wMl8tX0tvZGlfS29vc2VfSmFhbXVfRGFha2FfLV9BZHJ1c3RyYXZhbnRodWx1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-7	03_-_Yevariki_Tala_Vanchaku_-_Nindu_Samsaram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8wM18tX1lldmFyaWtpX1RhbGFfVmFuY2hha3VfLV9OaW5kdV9TYW1zYXJhbS5tcDM%3D
+1969	Hits-From-Telugu-Films-Vol-7	04_-_Kiladi_Donga_Diyyo_Diyyo_-_Bandipotu_Dongalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8wNF8tX0tpbGFkaV9Eb25nYV9EaXl5b19EaXl5b18tX0JhbmRpcG90dV9Eb25nYWx1Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-7	05_-_Thulli_Thulli_Padutondi_-_Manchi_Kutumbam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8wNV8tX1RodWxsaV9UaHVsbGlfUGFkdXRvbmRpXy1fTWFuY2hpX0t1dHVtYmFtLm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-7	06_-_Padimandilo_Pata_Paadina_-_Ananda_Nilayam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8wNl8tX1BhZGltYW5kaWxvX1BhdGFfUGFhZGluYV8tX0FuYW5kYV9OaWxheWFtLm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-7	07_-_Nannu_Evaro_Taakiri_-_Sathekalapudu_Satteyya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8wN18tX05hbm51X0V2YXJvX1RhYWtpcmlfLV9TYXRoZWthbGFwdWR1X1NhdHRleXlhLm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-7	08_-_Nijamaina_Kala_Ayina_-_Mooganomu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8wOF8tX05pamFtYWluYV9LYWxhX0F5aW5hXy1fTW9vZ2Fub211Lm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-7	09_-_Ye_Thotalo_Vira_Booseno_-_Brahmachari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8wOV8tX1llX1Rob3RhbG9fVmlyYV9Cb29zZW5vXy1fQnJhaG1hY2hhcmkubXAz
+1969	Hits-From-Telugu-Films-Vol-7	10_-_Gandu_Thummeda_Rammantundi_-_Bommalucheppina_Katha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8xMF8tX0dhbmR1X1RodW1tZWRhX1JhbW1hbnR1bmRpXy1fQm9tbWFsdWNoZXBwaW5hX0thdGhhLm1wMw%3D%3D
+1969	Hits-From-Telugu-Films-Vol-7	11_-_Madhura_Bhavala_Sumamaala_-_Banagaru_Gajulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8xMV8tX01hZGh1cmFfQmhhdmFsYV9TdW1hbWFhbGFfLV9CYW5hZ2FydV9HYWp1bHUubXAz
+1969	Hits-From-Telugu-Films-Vol-7	12_-_Evaroo_Leni_Chota_-_Manchi_Kutumbham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NjkvSGl0cy1Gcm9tLVRlbHVndS1GaWxtcy1Wb2wtNy8xMl8tX0V2YXJvb19MZW5pX0Nob3RhXy1fTWFuY2hpX0t1dHVtYmhhbS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1971	Amayakuralu-(ANR-Starrer-Film-Hits)	01_-_O_Deva Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvQW1heWFrdXJhbHUtKEFOUi1TdGFycmVyLUZpbG0tSGl0cykvMDFfLV9PX0RldmEubXAz
+1971	Amayakuralu-(ANR-Starrer-Film-Hits)	02_-_Paadeda_Nee_Naamame Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvQW1heWFrdXJhbHUtKEFOUi1TdGFycmVyLUZpbG0tSGl0cykvMDJfLV9QYWFkZWRhX05lZV9OYWFtYW1lLm1wMw%3D%3D
+1971	Amayakuralu-(ANR-Starrer-Film-Hits)	03_-_Hallo_Saru_Bhale_Varu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvQW1heWFrdXJhbHUtKEFOUi1TdGFycmVyLUZpbG0tSGl0cykvMDNfLV9IYWxsb19TYXJ1X0JoYWxlX1ZhcnUubXAz
+1971	Amayakuralu-(ANR-Starrer-Film-Hits)	04_-_Chinnari_Paidibomma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvQW1heWFrdXJhbHUtKEFOUi1TdGFycmVyLUZpbG0tSGl0cykvMDRfLV9DaGlubmFyaV9QYWlkaWJvbW1hLm1wMw%3D%3D
+1971	Amayakuralu-(ANR-Starrer-Film-Hits)	05_-_Nee_Choopulu_Garadi_Chesenu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvQW1heWFrdXJhbHUtKEFOUi1TdGFycmVyLUZpbG0tSGl0cykvMDVfLV9OZWVfQ2hvb3B1bHVfR2FyYWRpX0NoZXNlbnUubXAz
+1971	Amayakuralu-(ANR-Starrer-Film-Hits)	06_-_Sannajaji_Puvvulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvQW1heWFrdXJhbHUtKEFOUi1TdGFycmVyLUZpbG0tSGl0cykvMDZfLV9TYW5uYWphamlfUHV2dnVsdS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1971	Prem-Nagar	01_-_Manasugathi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbS1OYWdhci8wMV8tX01hbmFzdWdhdGhpLm1wMw%3D%3D
+1971	Prem-Nagar	02_-_Neekosam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbS1OYWdhci8wMl8tX05lZWtvc2FtLm1wMw%3D%3D
+1971	Prem-Nagar	03_-_Evaro_Ravali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbS1OYWdhci8wM18tX0V2YXJvX1JhdmFsaS5tcDM%3D
+1971	Prem-Nagar	04_-_Ley_Ley_Naraja Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbS1OYWdhci8wNF8tX0xleV9MZXlfTmFyYWphLm1wMw%3D%3D
+1971	Prem-Nagar	05_-_Theta_Theta Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbS1OYWdhci8wNV8tX1RoZXRhX1RoZXRhLm1wMw%3D%3D
+1971	Prem-Nagar	06_-_Kadavettu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbS1OYWdhci8wNl8tX0thZGF2ZXR0dS5tcDM%3D
+1971	Prem-Nagar	07_-_Nenu_Puttanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbS1OYWdhci8wN18tX05lbnVfUHV0dGFudS5tcDM%3D
+1971	Prem-Nagar	08_-_Untey_Eevullo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbS1OYWdhci8wOF8tX1VudGV5X0VldnVsbG8ubXAz
+1971	Prem-Nagar	09_-_Evarikosam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbS1OYWdhci8wOV8tX0V2YXJpa29zYW0ubXAz
+1971	Prem-Nagar	10_-_A_Nageswara_Rao Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbS1OYWdhci8xMF8tX0FfTmFnZXN3YXJhX1Jhby5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1971	Premnagar	01_-_Vunte_Ee_Voollo_Undu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzAxXy1fVnVudGVfRWVfVm9vbGxvX1VuZHUubXAz
+1971	Premnagar	03_-_Neekosam_Velasindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzAzXy1fTmVla29zYW1fVmVsYXNpbmRpLm1wMw%3D%3D
+1971	Premnagar	04_-_Theta_Theta_Telugula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzA0Xy1fVGhldGFfVGhldGFfVGVsdWd1bGEubXAz
+1971	Premnagar	07_-_Le_Le_Naa_Rajaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzA3Xy1fTGVfTGVfTmFhX1JhamFhLm1wMw%3D%3D
+1971	Premnagar	08_-_Anthamuleni_(Verse) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzA4Xy1fQW50aGFtdWxlbmlfKFZlcnNlKS5tcDM%3D
+1971	Premnagar	10_-_Evarikosam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzEwXy1fRXZhcmlrb3NhbS5tcDM%3D
+1971	Premnagar	11_-_Manasu_Gathi_Inthey Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzExXy1fTWFuYXN1X0dhdGhpX0ludGhleS5tcDM%3D
+1971	Premnagar	13_-_Yevaro_Raavaali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzEzXy1fWWV2YXJvX1JhYXZhYWxpLm1wMw%3D%3D
+1971	Premnagar	14_-_Kalavani_(Verse) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzE0Xy1fS2FsYXZhbmlfKFZlcnNlKS5tcDM%3D
+1971	Premnagar	16_-_Nenu_Puttanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzE2Xy1fTmVudV9QdXR0YW51Lm1wMw%3D%3D
+1971	Premnagar	18_-_Kadaveththu_Kochchindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzEvUHJlbW5hZ2FyLzE4Xy1fS2FkYXZldGh0aHVfS29jaGNoaW5kaGkubXAz
+
+Movie_name = 
+Album_URL =				
+1972	Rythu-Kutumbam-ANR-Starrer-Film-Hits	11_-_Jillayile_Jillayile Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzIvUnl0aHUtS3V0dW1iYW0tQU5SLVN0YXJyZXItRmlsbS1IaXRzLzExXy1fSmlsbGF5aWxlX0ppbGxheWlsZS5tcDM%3D
+1972	Rythu-Kutumbam-ANR-Starrer-Film-Hits	12_-_Oorantha_Anukuntunnaru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzIvUnl0aHUtS3V0dW1iYW0tQU5SLVN0YXJyZXItRmlsbS1IaXRzLzEyXy1fT29yYW50aGFfQW51a3VudHVubmFydS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1972	Sreemanthudu-ANR-Starrer-Film-Hits	07_-_Modati_Peggulo_Maza Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzIvU3JlZW1hbnRodWR1LUFOUi1TdGFycmVyLUZpbG0tSGl0cy8wN18tX01vZGF0aV9QZWdndWxvX01hemEubXAz
+1972	Sreemanthudu-ANR-Starrer-Film-Hits	08_-_Kontechoopulendukulera Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzIvU3JlZW1hbnRodWR1LUFOUi1TdGFycmVyLUZpbG0tSGl0cy8wOF8tX0tvbnRlY2hvb3B1bGVuZHVrdWxlcmEubXAz
+1972	Sreemanthudu-ANR-Starrer-Film-Hits	09_-_Aahha_Yemandamu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzIvU3JlZW1hbnRodWR1LUFOUi1TdGFycmVyLUZpbG0tSGl0cy8wOV8tX0FhaGhhX1llbWFuZGFtdS5tcDM%3D
+1972	Sreemanthudu-ANR-Starrer-Film-Hits	10_-_Buli_Buli_Yerrani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzIvU3JlZW1hbnRodWR1LUFOUi1TdGFycmVyLUZpbG0tSGl0cy8xMF8tX0J1bGlfQnVsaV9ZZXJyYW5pLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1973	Bangaru-Babu	07_-_Yedadugula_Sambandham_(Bangaru_Babu) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzMvQmFuZ2FydS1CYWJ1LzA3Xy1fWWVkYWR1Z3VsYV9TYW1iYW5kaGFtXyhCYW5nYXJ1X0JhYnUpLm1wMw%3D%3D
+1973	Bangaru-Babu	08_-_Thagilindhayyo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzMvQmFuZ2FydS1CYWJ1LzA4Xy1fVGhhZ2lsaW5kaGF5eW8ubXAz
+1973	Bangaru-Babu	09_-_Yemanukunnavu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzMvQmFuZ2FydS1CYWJ1LzA5Xy1fWWVtYW51a3VubmF2dS5tcDM%3D
+1973	Bangaru-Babu	10_-_Kannayyalanti_Annayya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzMvQmFuZ2FydS1CYWJ1LzEwXy1fS2FubmF5eWFsYW50aV9Bbm5heXlhLm1wMw%3D%3D
+1973	Bangaru-Babu	11_-_Chengavi_Rangu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzMvQmFuZ2FydS1CYWJ1LzExXy1fQ2hlbmdhdmlfUmFuZ3UubXAz
+1974	Bangaru-Kalalu	01_-_Nee_Kannulalo_(Bangaru_Kalalu) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvQmFuZ2FydS1LYWxhbHUvMDFfLV9OZWVfS2FubnVsYWxvXyhCYW5nYXJ1X0thbGFsdSkubXAz
+1974	Bangaru-Kalalu	02_-_Puttina_Roju Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvQmFuZ2FydS1LYWxhbHUvMDJfLV9QdXR0aW5hX1JvanUubXAz
+1974	Bangaru-Kalalu	03_-_Manchithananiki Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvQmFuZ2FydS1LYWxhbHUvMDNfLV9NYW5jaGl0aGFuYW5pa2kubXAz
+1974	Bangaru-Kalalu	04_-_Singaram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvQmFuZ2FydS1LYWxhbHUvMDRfLV9TaW5nYXJhbS5tcDM%3D
+1974	Bangaru-Kalalu	05_-_Chekkii_Meedha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvQmFuZ2FydS1LYWxhbHUvMDVfLV9DaGVra2lpX01lZWRoYS5tcDM%3D
+1974	Bangaru-Kalalu	06_-_Naalona_Valapundhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvQmFuZ2FydS1LYWxhbHUvMDZfLV9OYWFsb25hX1ZhbGFwdW5kaGkubXAz
+
+Movie_name = 
+Album_URL =				
+1974	Nippulanti-Manishi	01_-_Kaththiki_Saana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvTmlwcHVsYW50aS1NYW5pc2hpLzAxXy1fS2F0aHRoaWtpX1NhYW5hLm1wMw%3D%3D
+1974	Nippulanti-Manishi	02_-_Snehamera Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvTmlwcHVsYW50aS1NYW5pc2hpLzAyXy1fU25laGFtZXJhLm1wMw%3D%3D
+1974	Nippulanti-Manishi	03_-_Welcome_Swagatham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvTmlwcHVsYW50aS1NYW5pc2hpLzAzXy1fV2VsY29tZV9Td2FnYXRoYW0ubXAz
+1974	Nippulanti-Manishi	04_-_Orabbi_Orabbi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvTmlwcHVsYW50aS1NYW5pc2hpLzA0Xy1fT3JhYmJpX09yYWJiaS5tcDM%3D
+1974	Nippulanti-Manishi	05_-_Yedho_Anukunnanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvTmlwcHVsYW50aS1NYW5pc2hpLzA1Xy1fWWVkaG9fQW51a3VubmFudS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1974	Nomu	11_-_Kalise_Kallalona_(Nomu) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvTm9tdS8xMV8tX0thbGlzZV9LYWxsYWxvbmFfKE5vbXUpLm1wMw%3D%3D
+1974	Nomu	12_-_Manase_Jhathaga_Paadindhile Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvTm9tdS8xMl8tX01hbmFzZV9KaGF0aGFnYV9QYWFkaW5kaGlsZS5tcDM%3D
+1974	Nomu	13_-_Nomu_Pandinchava_Swamy Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvTm9tdS8xM18tX05vbXVfUGFuZGluY2hhdmFfU3dhbXkubXAz
+1974	Nomu	14_-_Andhari_Daivam_Neevayya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvTm9tdS8xNF8tX0FuZGhhcmlfRGFpdmFtX05lZXZheXlhLm1wMw%3D%3D
+1974	Nomu	15_-_Thaka_Thaka_Thaka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvTm9tdS8xNV8tX1RoYWthX1RoYWthX1RoYWthLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1974	Oh-Seetha-Katha	01_-_Puttadi_Bomma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvT2gtU2VldGhhLUthdGhhLzAxXy1fUHV0dGFkaV9Cb21tYS5tcDM%3D
+1974	Oh-Seetha-Katha	02_-_Ninu_Kanna_Katha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvT2gtU2VldGhhLUthdGhhLzAyXy1fTmludV9LYW5uYV9LYXRoYS5tcDM%3D
+1974	Oh-Seetha-Katha	03_-_Malle_Kanna_Tellana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvT2gtU2VldGhhLUthdGhhLzAzXy1fTWFsbGVfS2FubmFfVGVsbGFuYS5tcDM%3D
+1974	Oh-Seetha-Katha	04_-_Chintha_Chiguru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzQvT2gtU2VldGhhLUthdGhhLzA0Xy1fQ2hpbnRoYV9DaGlndXJ1Lm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1975	Balipeetam	01_-_Kalasi_Paadudaam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvQmFsaXBlZXRhbS8wMV8tX0thbGFzaV9QYWFkdWRhYW0ubXAz
+1975	Balipeetam	02_-_Esukundam_Buddoda Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvQmFsaXBlZXRhbS8wMl8tX0VzdWt1bmRhbV9CdWRkb2RhLm1wMw%3D%3D
+1975	Balipeetam	03_-_Kusalama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvQmFsaXBlZXRhbS8wM18tX0t1c2FsYW1hLm1wMw%3D%3D
+1975	Balipeetam	04_-_Maaraali_Maaraali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvQmFsaXBlZXRhbS8wNF8tX01hYXJhYWxpX01hYXJhYWxpLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1975	Mangalyaniki-Maro-Mudi	01_-_Taagina_Tappayenaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvTWFuZ2FseWFuaWtpLU1hcm8tTXVkaS8wMV8tX1RhYWdpbmFfVGFwcGF5ZW5hYS5tcDM%3D
+1975	Mangalyaniki-Maro-Mudi	02_-_Pillagali_Vechindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvTWFuZ2FseWFuaWtpLU1hcm8tTXVkaS8wMl8tX1BpbGxhZ2FsaV9WZWNoaW5kaS5tcDM%3D
+1975	Mangalyaniki-Maro-Mudi	03_-_Ee_Teega_Palikina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvTWFuZ2FseWFuaWtpLU1hcm8tTXVkaS8wM18tX0VlX1RlZWdhX1BhbGlraW5hLm1wMw%3D%3D
+1975	Mangalyaniki-Maro-Mudi	04_-_Idi_Kuda_Oka_Navve Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvTWFuZ2FseWFuaWtpLU1hcm8tTXVkaS8wNF8tX0lkaV9LdWRhX09rYV9OYXZ2ZS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1975	Mutyalamuggu	01_-_Nidurinche_Thotaloki Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvTXV0eWFsYW11Z2d1LzAxXy1fTmlkdXJpbmNoZV9UaG90YWxva2kubXAz
+1975	Mutyalamuggu	02_-_Yenthati_Rasikudavo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvTXV0eWFsYW11Z2d1LzAyXy1fWWVudGhhdGlfUmFzaWt1ZGF2by5tcDM%3D
+1975	Mutyalamuggu	03_-_Srirama_Jayarama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvTXV0eWFsYW11Z2d1LzAzXy1fU3JpcmFtYV9KYXlhcmFtYS5tcDM%3D
+1975	Mutyalamuggu	04_-_Mutyamantha_Pasupu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvTXV0eWFsYW11Z2d1LzA0Xy1fTXV0eWFtYW50aGFfUGFzdXB1Lm1wMw%3D%3D
+1975	Mutyalamuggu	05_-_Gogulu_Pooche Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvTXV0eWFsYW11Z2d1LzA1Xy1fR29ndWx1X1Bvb2NoZS5tcDM%3D
+1975	Mutyalamuggu	06_-_Yedo_Yedo_Annadi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvTXV0eWFsYW11Z2d1LzA2Xy1fWWVkb19ZZWRvX0FubmFkaS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1975	Pooja	01_-_Ennenno_Janmala_Bandham_(Pooja) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvUG9vamEvMDFfLV9Fbm5lbm5vX0phbm1hbGFfQmFuZGhhbV8oUG9vamEpLm1wMw%3D%3D
+1975	Pooja	02_-_Ninginela_Okatayene Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvUG9vamEvMDJfLV9OaW5naW5lbGFfT2thdGF5ZW5lLm1wMw%3D%3D
+1975	Pooja	03_-_Needhaya_Raadha_Rama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvUG9vamEvMDNfLV9OZWVkaGF5YV9SYWFkaGFfUmFtYS5tcDM%3D
+1975	Pooja	04_-_Malle_Theega_Vaadi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvUG9vamEvMDRfLV9NYWxsZV9UaGVlZ2FfVmFhZGkubXAz
+1975	Pooja	05_-_Anthata_Nee_Roopam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvUG9vamEvMDVfLV9BbnRoYXRhX05lZV9Sb29wYW0ubXAz
+1975	Pooja	06_-_Poojalu_Cheya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvUG9vamEvMDZfLV9Qb29qYWx1X0NoZXlhLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1975	Zameendar-Gari-Ammayi	01_-_Mrogindi_Veena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvWmFtZWVuZGFyLUdhcmktQW1tYXlpLzAxXy1fTXJvZ2luZGlfVmVlbmEubXAz
+1975	Zameendar-Gari-Ammayi	02_-_Mangamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvWmFtZWVuZGFyLUdhcmktQW1tYXlpLzAyXy1fTWFuZ2FtbWEubXAz
+1975	Zameendar-Gari-Ammayi	03_-_Mrogindi_Veena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvWmFtZWVuZGFyLUdhcmktQW1tYXlpLzAzXy1fTXJvZ2luZGlfVmVlbmEubXAz
+1975	Zameendar-Gari-Ammayi	04_-_Kondapalli_Bomma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzUvWmFtZWVuZGFyLUdhcmktQW1tYXlpLzA0Xy1fS29uZGFwYWxsaV9Cb21tYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1976	Aradhana	09_-_Oh_Priyathamaa! Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQXJhZGhhbmEvMDlfLV9PaF9Qcml5YXRoYW1hYSEubXAz
+1976	Aradhana	10_-_Nede_Thelisindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQXJhZGhhbmEvMTBfLV9OZWRlX1RoZWxpc2luZGhpLm1wMw%3D%3D
+1976	Aradhana	11_-_Naa_Madhi_Ninnu_Duet Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQXJhZGhhbmEvMTFfLV9OYWFfTWFkaGlfTmlubnVfRHVldC5tcDM%3D
+1976	Aradhana	13_-_Neekela_Intha_Niraasha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQXJhZGhhbmEvMTNfLV9OZWVrZWxhX0ludGhhX05pcmFhc2hhLm1wMw%3D%3D
+1976	Aradhana	14_-_Gadasari_Bulloda Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQXJhZGhhbmEvMTRfLV9HYWRhc2FyaV9CdWxsb2RhLm1wMw%3D%3D
+1976	Aradhana	15_-_Neekela_Intha_Niraasha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQXJhZGhhbmEvMTVfLV9OZWVrZWxhX0ludGhhX05pcmFhc2hhLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1976	Bhakta-Kannappa	01_-_Sri_Kalahastiswara Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQmhha3RhLUthbm5hcHBhLzAxXy1fU3JpX0thbGFoYXN0aXN3YXJhLm1wMw%3D%3D
+1976	Bhakta-Kannappa	02_-_Talli_Tandri Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQmhha3RhLUthbm5hcHBhLzAyXy1fVGFsbGlfVGFuZHJpLm1wMw%3D%3D
+1976	Bhakta-Kannappa	03_-_Tinavayya_&_Aakalithoda Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQmhha3RhLUthbm5hcHBhLzAzXy1fVGluYXZheXlhXyZfQWFrYWxpdGhvZGEubXAz
+1976	Bhakta-Kannappa	04_-_Siva_Siva_Shankara Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQmhha3RhLUthbm5hcHBhLzA0Xy1fU2l2YV9TaXZhX1NoYW5rYXJhLm1wMw%3D%3D
+1976	Bhakta-Kannappa	05_-_Enniyyallo_Enniyyallo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQmhha3RhLUthbm5hcHBhLzA1Xy1fRW5uaXl5YWxsb19Fbm5peXlhbGxvLm1wMw%3D%3D
+1976	Bhakta-Kannappa	06_-_Siva_Siva_Ananelaraa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQmhha3RhLUthbm5hcHBhLzA2Xy1fU2l2YV9TaXZhX0FuYW5lbGFyYWEubXAz
+1976	Bhakta-Kannappa	07_-_Aakasam_Dinchala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvQmhha3RhLUthbm5hcHBhLzA3Xy1fQWFrYXNhbV9EaW5jaGFsYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1976	Jyothi	07_-_Neeku_Naaku_Pellanta_(Jyothi) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvSnlvdGhpLzA3Xy1fTmVla3VfTmFha3VfUGVsbGFudGFfKEp5b3RoaSkubXAz
+1976	Jyothi	08_-_Sirimalle_Poovalle Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvSnlvdGhpLzA4Xy1fU2lyaW1hbGxlX1Bvb3ZhbGxlLm1wMw%3D%3D
+1976	Jyothi	09_-_Yedukondala_Paina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvSnlvdGhpLzA5Xy1fWWVkdWtvbmRhbGFfUGFpbmEubXAz
+1976	Jyothi	10_-_First_Time Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvSnlvdGhpLzEwXy1fRmlyc3RfVGltZS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1976	Manmadha-Leela	16_-_Kusalamena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvTWFubWFkaGEtTGVlbGEvMTZfLV9LdXNhbGFtZW5hLm1wMw%3D%3D
+1976	Manmadha-Leela	17_-_Ninnoka_Menaka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvTWFubWFkaGEtTGVlbGEvMTdfLV9OaW5ub2thX01lbmFrYS5tcDM%3D
+1976	Manmadha-Leela	18_-_Hello_My_Dear Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvTWFubWFkaGEtTGVlbGEvMThfLV9IZWxsb19NeV9EZWFyLm1wMw%3D%3D
+1976	Manmadha-Leela	19_-_Title_Song Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvTWFubWFkaGEtTGVlbGEvMTlfLV9UaXRsZV9Tb25nLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1976	Siri-Siri-Muvva	07_-_Thillana_ Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvU2lyaS1TaXJpLU11dnZhLzA3Xy1fVGhpbGxhbmFfLm1wMw%3D%3D
+1976	Siri-Siri-Muvva	08_-_Maa_Voori_Devudamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvU2lyaS1TaXJpLU11dnZhLzA4Xy1fTWFhX1Zvb3JpX0RldnVkYW1tYS5tcDM%3D
+1976	Siri-Siri-Muvva	09_-_Jhummandhi_Nadam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvU2lyaS1TaXJpLU11dnZhLzA5Xy1fSmh1bW1hbmRoaV9OYWRhbS5tcDM%3D
+1976	Siri-Siri-Muvva	10_-_Andaaniki_Andam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvU2lyaS1TaXJpLU11dnZhLzEwXy1fQW5kYWFuaWtpX0FuZGFtLm1wMw%3D%3D
+1976	Siri-Siri-Muvva	11_-_Odupunna_Pilupu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvU2lyaS1TaXJpLU11dnZhLzExXy1fT2R1cHVubmFfUGlsdXB1Lm1wMw%3D%3D
+1976	Siri-Siri-Muvva	12_-_Raa_Digi_Raa_Divi_Ninchi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvU2lyaS1TaXJpLU11dnZhLzEyXy1fUmFhX0RpZ2lfUmFhX0RpdmlfTmluY2hpLm1wMw%3D%3D
+1976	Siri-Siri-Muvva	13_-_Eavari_Kevaru_Ee_Lokamlo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvU2lyaS1TaXJpLU11dnZhLzEzXy1fRWF2YXJpX0tldmFydV9FZV9Mb2thbWxvLm1wMw%3D%3D
+1976	Siri-Siri-Muvva	14_-_Gajje_Gallumantuntae Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvU2lyaS1TaXJpLU11dnZhLzE0Xy1fR2FqamVfR2FsbHVtYW50dW50YWUubXAz
+1976	Siri-Siri-Muvva	15_-_Raa_Raa_Swamy_Raaraa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzYvU2lyaS1TaXJpLU11dnZhLzE1Xy1fUmFhX1JhYV9Td2FteV9SYWFyYWEubXAz
+
+Movie_name = 
+Album_URL =				
+1977	Adavi-Ramudu	00_-_Aresukoboyi_Paresukunnanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzcvQWRhdmktUmFtdWR1LzAwXy1fQXJlc3Vrb2JveWlfUGFyZXN1a3VubmFudS5tcDM%3D
+1977	Adavi-Ramudu	01_-_Ennallakennallaku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzcvQWRhdmktUmFtdWR1LzAxXy1fRW5uYWxsYWtlbm5hbGxha3UubXAz
+1977	Adavi-Ramudu	03_-_Choodara_Choodara Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzcvQWRhdmktUmFtdWR1LzAzXy1fQ2hvb2RhcmFfQ2hvb2RhcmEubXAz
+
+Movie_name = 
+Album_URL =				
+1978	Akbar-Saleem-Anarkali	01_-_Tharalenthagaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQWtiYXItU2FsZWVtLUFuYXJrYWxpLzAxXy1fVGhhcmFsZW50aGFnYWEubXAz
+1978	Akbar-Saleem-Anarkali	02_-_Thane_Meli_Musugu_Theesi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQWtiYXItU2FsZWVtLUFuYXJrYWxpLzAyXy1fVGhhbmVfTWVsaV9NdXN1Z3VfVGhlZXNpLm1wMw%3D%3D
+1978	Akbar-Saleem-Anarkali	03_-_Madhana_Mohanude Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQWtiYXItU2FsZWVtLUFuYXJrYWxpLzAzXy1fTWFkaGFuYV9Nb2hhbnVkZS5tcDM%3D
+1978	Akbar-Saleem-Anarkali	04_-_Reyi_Aagiponee Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQWtiYXItU2FsZWVtLUFuYXJrYWxpLzA0Xy1fUmV5aV9BYWdpcG9uZWUubXAz
+1978	Akbar-Saleem-Anarkali	05_-_Sipaayi_Sipaayi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQWtiYXItU2FsZWVtLUFuYXJrYWxpLzA1Xy1fU2lwYWF5aV9TaXBhYXlpLm1wMw%3D%3D
+1978	Akbar-Saleem-Anarkali	06_-_Vela_Yerigina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQWtiYXItU2FsZWVtLUFuYXJrYWxpLzA2Xy1fVmVsYV9ZZXJpZ2luYS5tcDM%3D
+1978	Akbar-Saleem-Anarkali	07_-_Kalusukunna_Gubulaaye Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQWtiYXItU2FsZWVtLUFuYXJrYWxpLzA3Xy1fS2FsdXN1a3VubmFfR3VidWxhYXllLm1wMw%3D%3D
+1978	Akbar-Saleem-Anarkali	08_-_Premisthe_Thappantara Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQWtiYXItU2FsZWVtLUFuYXJrYWxpLzA4Xy1fUHJlbWlzdGhlX1RoYXBwYW50YXJhLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1978	Andamaina-Anubhavam	06_-_Kurralloye Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQW5kYW1haW5hLUFudWJoYXZhbS8wNl8tX0t1cnJhbGxveWUubXAz
+1978	Andamaina-Anubhavam	07_-_Padha_Padha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQW5kYW1haW5hLUFudWJoYXZhbS8wN18tX1BhZGhhX1BhZGhhLm1wMw%3D%3D
+1978	Andamaina-Anubhavam	08_-_Sambho_Shiva_Sambho Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQW5kYW1haW5hLUFudWJoYXZhbS8wOF8tX1NhbWJob19TaGl2YV9TYW1iaG8ubXAz
+1978	Andamaina-Anubhavam	09_-_What_A_Waiting Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQW5kYW1haW5hLUFudWJoYXZhbS8wOV8tX1doYXRfQV9XYWl0aW5nLm1wMw%3D%3D
+1978	Andamaina-Anubhavam	10_-_Kanipinchina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQW5kYW1haW5hLUFudWJoYXZhbS8xMF8tX0thbmlwaW5jaGluYS5tcDM%3D
+1978	Andamaina-Anubhavam	11_-_Singapoori_Singari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQW5kYW1haW5hLUFudWJoYXZhbS8xMV8tX1NpbmdhcG9vcmlfU2luZ2FyaS5tcDM%3D
+1978	Andamaina-Anubhavam	12_-_Hello_Nestham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQW5kYW1haW5hLUFudWJoYXZhbS8xMl8tX0hlbGxvX05lc3RoYW0ubXAz
+1978	Andamaina-Anubhavam	13_-_Nuvve_Nuvvamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQW5kYW1haW5hLUFudWJoYXZhbS8xM18tX051dnZlX051dnZhbW1hLm1wMw%3D%3D
+1978	Andamaina-Anubhavam	14_-_You_R_Like_A_Fountain Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQW5kYW1haW5hLUFudWJoYXZhbS8xNF8tX1lvdV9SX0xpa2VfQV9Gb3VudGFpbi5tcDM%3D
+1978	Andamaina-Anubhavam	15_-_Title_Song Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvQW5kYW1haW5hLUFudWJoYXZhbS8xNV8tX1RpdGxlX1NvbmcubXAz
+
+Movie_name = 
+Album_URL =				
+1978	Enki-Naidu-Baava	01_-_Mokkulenno Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvRW5raS1OYWlkdS1CYWF2YS8wMV8tX01va2t1bGVubm8ubXAz
+1978	Enki-Naidu-Baava	02_-_Nuvvada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvRW5raS1OYWlkdS1CYWF2YS8wMl8tX051dnZhZGEubXAz
+1978	Enki-Naidu-Baava	03_-_Enkante Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvRW5raS1OYWlkdS1CYWF2YS8wM18tX0Vua2FudGUubXAz
+1978	Enki-Naidu-Baava	04_-_Brahmachari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvRW5raS1OYWlkdS1CYWF2YS8wNF8tX0JyYWhtYWNoYXJpLm1wMw%3D%3D
+1978	Enki-Naidu-Baava	05_-_Padaharu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvRW5raS1OYWlkdS1CYWF2YS8wNV8tX1BhZGFoYXJ1Lm1wMw%3D%3D
+1978	Enki-Naidu-Baava	06_-_Kallu_Kallu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvRW5raS1OYWlkdS1CYWF2YS8wNl8tX0thbGx1X0thbGx1Lm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1978	Gorantha-Deepam	01_-_Gorantha_Deepam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvR29yYW50aGEtRGVlcGFtLzAxXy1fR29yYW50aGFfRGVlcGFtLm1wMw%3D%3D
+1978	Gorantha-Deepam	02_-_Raayinaina_Koopothini Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvR29yYW50aGEtRGVlcGFtLzAyXy1fUmFheWluYWluYV9Lb29wb3RoaW5pLm1wMw%3D%3D
+1978	Gorantha-Deepam	03_-_Channdamaama_Ravoyi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvR29yYW50aGEtRGVlcGFtLzAzXy1fQ2hhbm5kYW1hYW1hX1Jhdm95aS5tcDM%3D
+1978	Gorantha-Deepam	04_-_Poolu_Thakinantha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvR29yYW50aGEtRGVlcGFtLzA0Xy1fUG9vbHVfVGhha2luYW50aGEubXAz
+1978	Gorantha-Deepam	05_-_Chal_Mohana_Ranga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvR29yYW50aGEtRGVlcGFtLzA1Xy1fQ2hhbF9Nb2hhbmFfUmFuZ2EubXAz
+1978	Gorantha-Deepam	06_-_Godaka_Chevulunteno Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvR29yYW50aGEtRGVlcGFtLzA2Xy1fR29kYWthX0NoZXZ1bHVudGVuby5tcDM%3D
+1978	Gorantha-Deepam	07_-_Hari_Hari_Naaraayo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvR29yYW50aGEtRGVlcGFtLzA3Xy1fSGFyaV9IYXJpX05hYXJhYXlvLm1wMw%3D%3D
+1978	Gorantha-Deepam	09_-_Chitapatalu_Kavithalu,_Pt._1 Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvR29yYW50aGEtRGVlcGFtLzA5Xy1fQ2hpdGFwYXRhbHVfS2F2aXRoYWx1LF9QdC5fMS5tcDM%3D
+1978	Gorantha-Deepam	10_-_Chitapatalu_Kavithalu,_Pt._2 Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvR29yYW50aGEtRGVlcGFtLzEwXy1fQ2hpdGFwYXRhbHVfS2F2aXRoYWx1LF9QdC5fMi5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1978	Kedi-No-1	11_-_Nene_Numer_One Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvS2VkaS1Oby0xLzExXy1fTmVuZV9OdW1lcl9PbmUubXAz
+1978	Kedi-No-1	12_-_Aakalundadhu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvS2VkaS1Oby0xLzEyXy1fQWFrYWx1bmRhZGh1Lm1wMw%3D%3D
+1978	Kedi-No-1	13_-_Sarigama_Padanisa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvS2VkaS1Oby0xLzEzXy1fU2FyaWdhbWFfUGFkYW5pc2EubXAz
+1978	Kedi-No-1	14_-_Meraka_Veedhi_Mallini Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvS2VkaS1Oby0xLzE0Xy1fTWVyYWthX1ZlZWRoaV9NYWxsaW5pLm1wMw%3D%3D
+1978	Kedi-No-1	15_-_Malli_Malli_Andhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvS2VkaS1Oby0xLzE1Xy1fTWFsbGlfTWFsbGlfQW5kaGkubXAz
+1978	Kedi-No-1	16_-_Poonindhiro_Poleramma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvS2VkaS1Oby0xLzE2Xy1fUG9vbmluZGhpcm9fUG9sZXJhbW1hLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1978	Manavoori-Pandavulu	01_-_Piriki_Madhu_Thaagi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFuYXZvb3JpLVBhbmRhdnVsdS8wMV8tX1BpcmlraV9NYWRodV9UaGFhZ2kubXAz
+1978	Manavoori-Pandavulu	02_-_Sitralu_Seyekuro Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFuYXZvb3JpLVBhbmRhdnVsdS8wMl8tX1NpdHJhbHVfU2V5ZWt1cm8ubXAz
+1978	Manavoori-Pandavulu	03_-_Nallanallani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFuYXZvb3JpLVBhbmRhdnVsdS8wM18tX05hbGxhbmFsbGFuaS5tcDM%3D
+1978	Manavoori-Pandavulu	04_-_Orey_Pichchisanyaasee Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFuYXZvb3JpLVBhbmRhdnVsdS8wNF8tX09yZXlfUGljaGNoaXNhbnlhYXNlZS5tcDM%3D
+1978	Manavoori-Pandavulu	05_-_Manchiki_Cheddaki Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFuYXZvb3JpLVBhbmRhdnVsdS8wNV8tX01hbmNoaWtpX0NoZWRkYWtpLm1wMw%3D%3D
+1978	Manavoori-Pandavulu	06_-_Jendaa_Pai Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFuYXZvb3JpLVBhbmRhdnVsdS8wNl8tX0plbmRhYV9QYWkubXAz
+1978	Manavoori-Pandavulu	07_-_Swagatham_Suswagatham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFuYXZvb3JpLVBhbmRhdnVsdS8wN18tX1N3YWdhdGhhbV9TdXN3YWdhdGhhbS5tcDM%3D
+1978	Manavoori-Pandavulu	08_-_Padavulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFuYXZvb3JpLVBhbmRhdnVsdS8wOF8tX1BhZGF2dWx1Lm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1978	Maro-Charitra	00_-_Pantachelo_Palakanki(Padaharella_Vayasu) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFyby1DaGFyaXRyYS8wMF8tX1BhbnRhY2hlbG9fUGFsYWthbmtpKFBhZGFoYXJlbGxhX1ZheWFzdSkubXAz
+1978	Maro-Charitra	01_-_Kalasivunte_Kaladu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFyby1DaGFyaXRyYS8wMV8tX0thbGFzaXZ1bnRlX0thbGFkdS5tcDM%3D
+1978	Maro-Charitra	01_-_Ye_Theega_Puvvuno(Male) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFyby1DaGFyaXRyYS8wMV8tX1llX1RoZWVnYV9QdXZ2dW5vKE1hbGUpLm1wMw%3D%3D
+1978	Maro-Charitra	02_-_Padaharellaku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFyby1DaGFyaXRyYS8wMl8tX1BhZGFoYXJlbGxha3UubXAz
+1978	Maro-Charitra	02_-_Vidhi_Cheyu_Vinthalanni Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFyby1DaGFyaXRyYS8wMl8tX1ZpZGhpX0NoZXl1X1ZpbnRoYWxhbm5pLm1wMw%3D%3D
+1978	Maro-Charitra	03_-_Bhale_Bhale_Magadivoy Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFyby1DaGFyaXRyYS8wM18tX0JoYWxlX0JoYWxlX01hZ2FkaXZveS5tcDM%3D
+1978	Maro-Charitra	03_-_Sirimalle_Puvva(Padaharella_Vayasu) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFyby1DaGFyaXRyYS8wM18tX1NpcmltYWxsZV9QdXZ2YShQYWRhaGFyZWxsYV9WYXlhc3UpLm1wMw%3D%3D
+1978	Maro-Charitra	04_-_Ye_Theega_Puvvuno(Male) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvTWFyby1DaGFyaXRyYS8wNF8tX1llX1RoZWVnYV9QdXZ2dW5vKE1hbGUpLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1978	Panthulamma	01_-_Manasa_Veena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUGFudGh1bGFtbWEvMDFfLV9NYW5hc2FfVmVlbmEubXAz
+1978	Panthulamma	02_-_Sirimalle_Neeve Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUGFudGh1bGFtbWEvMDJfLV9TaXJpbWFsbGVfTmVldmUubXAz
+1978	Panthulamma	03_-_Pandaganti_Ennelantha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUGFudGh1bGFtbWEvMDNfLV9QYW5kYWdhbnRpX0VubmVsYW50aGEubXAz
+1978	Panthulamma	04_-_Yedarilo_Koyila Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUGFudGh1bGFtbWEvMDRfLV9ZZWRhcmlsb19Lb3lpbGEubXAz
+
+Movie_name = 
+Album_URL =				
+1978	Pranam-Kharidhu	07_-_Yeliello Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUHJhbmFtLUtoYXJpZGh1LzA3Xy1fWWVsaWVsbG8ubXAz
+1978	Pranam-Kharidhu	08_-_Banda_Meedha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUHJhbmFtLUtoYXJpZGh1LzA4Xy1fQmFuZGFfTWVlZGhhLm1wMw%3D%3D
+1978	Pranam-Kharidhu	09_-_Yethamesi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUHJhbmFtLUtoYXJpZGh1LzA5Xy1fWWV0aGFtZXNpLm1wMw%3D%3D
+1978	Pranam-Kharidhu	10_-_Nomulla Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUHJhbmFtLUtoYXJpZGh1LzEwXy1fTm9tdWxsYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1978	Ramachilaka	01_-_Mavayya_Vastadanata Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUmFtYWNoaWxha2EvMDFfLV9NYXZheXlhX1Zhc3RhZGFuYXRhLm1wMw%3D%3D
+1978	Ramachilaka	02_-_Ramachiluka_Pellikodukevade(Happy) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUmFtYWNoaWxha2EvMDJfLV9SYW1hY2hpbHVrYV9QZWxsaWtvZHVrZXZhZGUoSGFwcHkpLm1wMw%3D%3D
+1978	Ramachilaka	03_-_Ammi_Ammanalalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUmFtYWNoaWxha2EvMDNfLV9BbW1pX0FtbWFuYWxhbG8ubXAz
+1978	Ramachilaka	04_-_Ramachiluka_Pellikodukevade(Sad) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUmFtYWNoaWxha2EvMDRfLV9SYW1hY2hpbHVrYV9QZWxsaWtvZHVrZXZhZGUoU2FkKS5tcDM%3D
+1978	Ramachilaka	05_-_Goodu_Cheekati Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUmFtYWNoaWxha2EvMDVfLV9Hb29kdV9DaGVla2F0aS5tcDM%3D
+1978	Ramachilaka	06_-_Mavayya_Vastadanata Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUmFtYWNoaWxha2EvMDZfLV9NYXZheXlhX1Zhc3RhZGFuYXRhLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1978	Ravanude-Ramudaithe	01_-_Ravi_Varmake_Andani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUmF2YW51ZGUtUmFtdWRhaXRoZS8wMV8tX1JhdmlfVmFybWFrZV9BbmRhbmkubXAz
+1978	Ravanude-Ramudaithe	02_-_Premante_Thelusa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUmF2YW51ZGUtUmFtdWRhaXRoZS8wMl8tX1ByZW1hbnRlX1RoZWx1c2EubXAz
+1978	Ravanude-Ramudaithe	03_-_Vuppu_Chep Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUmF2YW51ZGUtUmFtdWRhaXRoZS8wM18tX1Z1cHB1X0NoZXAubXAz
+1978	Ravanude-Ramudaithe	04_-_Kanulalo_Nee_Roopam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvUmF2YW51ZGUtUmFtdWRhaXRoZS8wNF8tX0thbnVsYWxvX05lZV9Sb29wYW0ubXAz
+
+Movie_name = 
+Album_URL =				
+1978	Seethamalakshmi	01_-_Maavi_Chiguru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2VldGhhbWFsYWtzaG1pLzAxXy1fTWFhdmlfQ2hpZ3VydS5tcDM%3D
+1978	Seethamalakshmi	02_-_Kokkorakko Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2VldGhhbWFsYWtzaG1pLzAyXy1fS29ra29yYWtrby5tcDM%3D
+1978	Seethamalakshmi	03_-_Nuvvitta_Nenitta Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2VldGhhbWFsYWtzaG1pLzAzXy1fTnV2dml0dGFfTmVuaXR0YS5tcDM%3D
+1978	Seethamalakshmi	04_-_Pade_Pade_Padutunna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2VldGhhbWFsYWtzaG1pLzA0Xy1fUGFkZV9QYWRlX1BhZHV0dW5uYS5tcDM%3D
+1978	Seethamalakshmi	05_-_Seethalu_Singaram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2VldGhhbWFsYWtzaG1pLzA1Xy1fU2VldGhhbHVfU2luZ2FyYW0ubXAz
+1978	Seethamalakshmi	06_-_Chalu_Chalu_Eevirasalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2VldGhhbWFsYWtzaG1pLzA2Xy1fQ2hhbHVfQ2hhbHVfRWV2aXJhc2FsdS5tcDM%3D
+1978	Seethamalakshmi	07_-_Ye_Pata_Ne_Padanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2VldGhhbWFsYWtzaG1pLzA3Xy1fWWVfUGF0YV9OZV9QYWRhbnUubXAz
+
+Movie_name = 
+Album_URL =				
+1978	Shivaranjani	08_-_Abhinava_Thaaravo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2hpdmFyYW5qYW5pLzA4Xy1fQWJoaW5hdmFfVGhhYXJhdm8ubXAz
+1978	Shivaranjani	09_-_Maapalle_Vadalaku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2hpdmFyYW5qYW5pLzA5Xy1fTWFhcGFsbGVfVmFkYWxha3UubXAz
+1978	Shivaranjani	10_-_Jorumeedunnaavu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2hpdmFyYW5qYW5pLzEwXy1fSm9ydW1lZWR1bm5hYXZ1Lm1wMw%3D%3D
+1978	Shivaranjani	11_-_Navaminaati_Vennela Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2hpdmFyYW5qYW5pLzExXy1fTmF2YW1pbmFhdGlfVmVubmVsYS5tcDM%3D
+1978	Shivaranjani	12_-_Paalakollusanthalona Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2hpdmFyYW5qYW5pLzEyXy1fUGFhbGFrb2xsdXNhbnRoYWxvbmEubXAz
+1978	Shivaranjani	13_-_Chandamama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2hpdmFyYW5qYW5pLzEzXy1fQ2hhbmRhbWFtYS5tcDM%3D
+1978	Shivaranjani	14_-_Mee_Ammavaadu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2hpdmFyYW5qYW5pLzE0Xy1fTWVlX0FtbWF2YWFkdS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1978	Sivaranjani	01_-_Abhinava_Tharavo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2l2YXJhbmphbmkvMDFfLV9BYmhpbmF2YV9UaGFyYXZvLm1wMw%3D%3D
+1978	Sivaranjani	02_-_Maa_Palle_Vaadalaku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2l2YXJhbmphbmkvMDJfLV9NYWFfUGFsbGVfVmFhZGFsYWt1Lm1wMw%3D%3D
+1978	Sivaranjani	03_-_Jorumeedhunnaavu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2l2YXJhbmphbmkvMDNfLV9Kb3J1bWVlZGh1bm5hYXZ1Lm1wMw%3D%3D
+1978	Sivaranjani	04_-_Navaminaati_Vennela_Neevu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2l2YXJhbmphbmkvMDRfLV9OYXZhbWluYWF0aV9WZW5uZWxhX05lZXZ1Lm1wMw%3D%3D
+1978	Sivaranjani	05_-_Paalakollu_Santhalona Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2l2YXJhbmphbmkvMDVfLV9QYWFsYWtvbGx1X1NhbnRoYWxvbmEubXAz
+1978	Sivaranjani	06_-_Chandamama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2l2YXJhbmphbmkvMDZfLV9DaGFuZGFtYW1hLm1wMw%3D%3D
+1978	Sivaranjani	07_-_Mee_Ammavaadu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvU2l2YXJhbmphbmkvMDdfLV9NZWVfQW1tYXZhYWR1Lm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1978	Vayasu-Pilichindhi	01_-_Ilaage_Ilaage Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvVmF5YXN1LVBpbGljaGluZGhpLzAxXy1fSWxhYWdlX0lsYWFnZS5tcDM%3D
+1978	Vayasu-Pilichindhi	02_-_Jeevitham_Madhusaala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvVmF5YXN1LVBpbGljaGluZGhpLzAyXy1fSmVldml0aGFtX01hZGh1c2FhbGEubXAz
+1978	Vayasu-Pilichindhi	03_-_Nuvvadigindhi_Yenaadaina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvVmF5YXN1LVBpbGljaGluZGhpLzAzXy1fTnV2dmFkaWdpbmRoaV9ZZW5hYWRhaW5hLm1wMw%3D%3D
+1978	Vayasu-Pilichindhi	04_-_Mabbe_Masakesindhile Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvVmF5YXN1LVBpbGljaGluZGhpLzA0Xy1fTWFiYmVfTWFzYWtlc2luZGhpbGUubXAz
+1978	Vayasu-Pilichindhi	05_-_Hello_My_Rita Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzgvVmF5YXN1LVBpbGljaGluZGhpLzA1Xy1fSGVsbG9fTXlfUml0YS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Ajeyudu	01_-_Darling_Darling Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQWpleXVkdS8wMV8tX0RhcmxpbmdfRGFybGluZy5tcDM%3D
+1979	Ajeyudu	02_-_Tholakari_Andale Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQWpleXVkdS8wMl8tX1Rob2xha2FyaV9BbmRhbGUubXAz
+1979	Ajeyudu	03_-_Darling_Darling Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQWpleXVkdS8wM18tX0RhcmxpbmdfRGFybGluZy5tcDM%3D
+1979	Ajeyudu	04_-_Sreeramuni_Sridevive Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQWpleXVkdS8wNF8tX1NyZWVyYW11bmlfU3JpZGV2aXZlLm1wMw%3D%3D
+1979	Ajeyudu	05_-_Nee_Padavulalona Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQWpleXVkdS8wNV8tX05lZV9QYWRhdnVsYWxvbmEubXAz
+1979	Ajeyudu	06_-_Chakkani_Prakruthi_Andalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQWpleXVkdS8wNl8tX0NoYWtrYW5pX1ByYWtydXRoaV9BbmRhbHUubXAz
+
+Movie_name = 
+Album_URL =				
+1979	Angadi-Bomma	07_-_Jabili Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQW5nYWRpLUJvbW1hLzA3Xy1fSmFiaWxpLm1wMw%3D%3D
+1979	Angadi-Bomma	08_-_Oh_Andhalarasi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQW5nYWRpLUJvbW1hLzA4Xy1fT2hfQW5kaGFsYXJhc2kubXAz
+1979	Angadi-Bomma	09_-_Nidurapora Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQW5nYWRpLUJvbW1hLzA5Xy1fTmlkdXJhcG9yYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Bhale-Krishnudu	01_-_Brundhavana_Moka_Aalayamu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQmhhbGUtS3Jpc2hudWR1LzAxXy1fQnJ1bmRoYXZhbmFfTW9rYV9BYWxheWFtdS5tcDM%3D
+1979	Bhale-Krishnudu	02_-_Mogali_Mothaga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQmhhbGUtS3Jpc2hudWR1LzAyXy1fTW9nYWxpX01vdGhhZ2EubXAz
+1979	Bhale-Krishnudu	03_-_Evaru_Nuvvu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQmhhbGUtS3Jpc2hudWR1LzAzXy1fRXZhcnVfTnV2dnUubXAz
+1979	Bhale-Krishnudu	04_-_Itikimeeda_Itikeste Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQmhhbGUtS3Jpc2hudWR1LzA0Xy1fSXRpa2ltZWVkYV9JdGlrZXN0ZS5tcDM%3D
+1979	Bhale-Krishnudu	05_-_Muddante_Vaddanake Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQmhhbGUtS3Jpc2hudWR1LzA1Xy1fTXVkZGFudGVfVmFkZGFuYWtlLm1wMw%3D%3D
+1979	Bhale-Krishnudu	06_-_Ponna_Chettuneedalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQmhhbGUtS3Jpc2hudWR1LzA2Xy1fUG9ubmFfQ2hldHR1bmVlZGFsby5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Buchchi-Babu	01_-_Chandamama_Paitesindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQnVjaGNoaS1CYWJ1LzAxXy1fQ2hhbmRhbWFtYV9QYWl0ZXNpbmRoaS5tcDM%3D
+1979	Buchchi-Babu	02_-_Sittharala_Thotalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQnVjaGNoaS1CYWJ1LzAyXy1fU2l0dGhhcmFsYV9UaG90YWxvLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1979	Burripalem-Bullodu	01_-_Langaru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQnVycmlwYWxlbS1CdWxsb2R1LzAxXy1fTGFuZ2FydS5tcDM%3D
+1979	Burripalem-Bullodu	02_-_Naajeevana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQnVycmlwYWxlbS1CdWxsb2R1LzAyXy1fTmFhamVldmFuYS5tcDM%3D
+1979	Burripalem-Bullodu	03_-_Mayadari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQnVycmlwYWxlbS1CdWxsb2R1LzAzXy1fTWF5YWRhcmkubXAz
+1979	Burripalem-Bullodu	04_-_Burripalem Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQnVycmlwYWxlbS1CdWxsb2R1LzA0Xy1fQnVycmlwYWxlbS5tcDM%3D
+1979	Burripalem-Bullodu	05_-_Chinnadhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQnVycmlwYWxlbS1CdWxsb2R1LzA1Xy1fQ2hpbm5hZGhpLm1wMw%3D%3D
+1979	Burripalem-Bullodu	06_-_Mantalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQnVycmlwYWxlbS1CdWxsb2R1LzA2Xy1fTWFudGFsdS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Challenge-Ramudu	01_-_Koppadake_Komalangi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQ2hhbGxlbmdlLVJhbXVkdS8wMV8tX0tvcHBhZGFrZV9Lb21hbGFuZ2kubXAz
+1979	Challenge-Ramudu	02_-_Yekkado_Yeppudo_Choosanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQ2hhbGxlbmdlLVJhbXVkdS8wMl8tX1lla2thZG9fWWVwcHVkb19DaG9vc2FudS5tcDM%3D
+1979	Challenge-Ramudu	03_-_Challagaali_Veestundhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQ2hhbGxlbmdlLVJhbXVkdS8wM18tX0NoYWxsYWdhYWxpX1ZlZXN0dW5kaGkubXAz
+1979	Challenge-Ramudu	04_-_Dora_Dora_Jabillira Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQ2hhbGxlbmdlLVJhbXVkdS8wNF8tX0RvcmFfRG9yYV9KYWJpbGxpcmEubXAz
+1979	Challenge-Ramudu	05_-_Pattuko_Pattuko Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQ2hhbGxlbmdlLVJhbXVkdS8wNV8tX1BhdHR1a29fUGF0dHVrby5tcDM%3D
+1979	Challenge-Ramudu	06_-_Pedatha_Pedatha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQ2hhbGxlbmdlLVJhbXVkdS8wNl8tX1BlZGF0aGFfUGVkYXRoYS5tcDM%3D
+1979	Challenge-Ramudu	07_-_Dora_Dora_Jampandu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQ2hhbGxlbmdlLVJhbXVkdS8wN18tX0RvcmFfRG9yYV9KYW1wYW5kdS5tcDM%3D
+1979	Challenge-Ramudu	08_-_Challagaalesthondhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvQ2hhbGxlbmdlLVJhbXVkdS8wOF8tX0NoYWxsYWdhYWxlc3Rob25kaGkubXAz
+
+Movie_name = 
+Album_URL =				
+1979	Driver-Ramudu	01_-_Vongamaaku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvRHJpdmVyLVJhbXVkdS8wMV8tX1ZvbmdhbWFha3UubXAz
+1979	Driver-Ramudu	02_-_Mamilla_Thopukaada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvRHJpdmVyLVJhbXVkdS8wMl8tX01hbWlsbGFfVGhvcHVrYWFkYS5tcDM%3D
+1979	Driver-Ramudu	03_-_Guggu_Gudi_Gudisundi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvRHJpdmVyLVJhbXVkdS8wM18tX0d1Z2d1X0d1ZGlfR3VkaXN1bmRpLm1wMw%3D%3D
+1979	Driver-Ramudu	04_-_Donga_Donga_Dorikaadu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvRHJpdmVyLVJhbXVkdS8wNF8tX0RvbmdhX0RvbmdhX0RvcmlrYWFkdS5tcDM%3D
+1979	Driver-Ramudu	05_-_Yendharo_Mudhu_Gummalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvRHJpdmVyLVJhbXVkdS8wNV8tX1llbmRoYXJvX011ZGh1X0d1bW1hbHUubXAz
+1979	Driver-Ramudu	06_-_Emani_Varninchanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvRHJpdmVyLVJhbXVkdS8wNl8tX0VtYW5pX1Zhcm5pbmNoYW51Lm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1979	Gorintaku	01_-_Gorinta_Puchindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvR29yaW50YWt1LzAxXy1fR29yaW50YV9QdWNoaW5kaS5tcDM%3D
+1979	Gorintaku	02_-_Komma_Kommako_Sannayi. Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvR29yaW50YWt1LzAyXy1fS29tbWFfS29tbWFrb19TYW5uYXlpLi5tcDM%3D
+1979	Gorintaku	03_-_Ilaga_Vachi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvR29yaW50YWt1LzAzXy1fSWxhZ2FfVmFjaGkubXAz
+1979	Gorintaku	04_-_Ela_Ela_Dachavo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvR29yaW50YWt1LzA0Xy1fRWxhX0VsYV9EYWNoYXZvLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1979	Intinti-Ramayanam	01_-_Mallelu_Puche Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvSW50aW50aS1SYW1heWFuYW0vMDFfLV9NYWxsZWx1X1B1Y2hlLm1wMw%3D%3D
+1979	Intinti-Ramayanam	02_-_Ee_Tarunamu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvSW50aW50aS1SYW1heWFuYW0vMDJfLV9FZV9UYXJ1bmFtdS5tcDM%3D
+1979	Intinti-Ramayanam	03_-_Uppu_Karam_Tinaka_Tappadu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvSW50aW50aS1SYW1heWFuYW0vMDNfLV9VcHB1X0thcmFtX1RpbmFrYV9UYXBwYWR1Lm1wMw%3D%3D
+1979	Intinti-Ramayanam	04_-_Veena_Venuvaina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvSW50aW50aS1SYW1heWFuYW0vMDRfLV9WZWVuYV9WZW51dmFpbmEubXAz
+1979	Intinti-Ramayanam	05_-_Intinti_Ramayanam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvSW50aW50aS1SYW1heWFuYW0vMDVfLV9JbnRpbnRpX1JhbWF5YW5hbS5tcDM%3D
+1979	Intinti-Ramayanam	06_-_Veena_Venuvaina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvSW50aW50aS1SYW1heWFuYW0vMDZfLV9WZWVuYV9WZW51dmFpbmEubXAz
+1979	Intinti-Ramayanam	07_-_Veena_Venuvaina(Pathos) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvSW50aW50aS1SYW1heWFuYW0vMDdfLV9WZWVuYV9WZW51dmFpbmEoUGF0aG9zKS5tcDM%3D
+1979	Intinti-Ramayanam	08_-_Intinti_Ramayanam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvSW50aW50aS1SYW1heWFuYW0vMDhfLV9JbnRpbnRpX1JhbWF5YW5hbS5tcDM%3D
+1979	Intinti-Ramayanam	09_-_Harikatha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvSW50aW50aS1SYW1heWFuYW0vMDlfLV9IYXJpa2F0aGEubXAz
+
+Movie_name = 
+Album_URL =				
+1979	Kaathija-Deepam	01_-_Aaraneekuma_Deepam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS2FhdGhpamEtRGVlcGFtLzAxXy1fQWFyYW5lZWt1bWFfRGVlcGFtLm1wMw%3D%3D
+1979	Kaathija-Deepam	02_-_Chilakamma_Palikindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS2FhdGhpamEtRGVlcGFtLzAyXy1fQ2hpbGFrYW1tYV9QYWxpa2luZGkubXAz
+1979	Kaathija-Deepam	03_-_Nee_Kowgililo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS2FhdGhpamEtRGVlcGFtLzAzXy1fTmVlX0tvd2dpbGlsby5tcDM%3D
+1979	Kaathija-Deepam	04_-_Muvvalemo_Nedemo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS2FhdGhpamEtRGVlcGFtLzA0Xy1fTXV2dmFsZW1vX05lZGVtby5tcDM%3D
+1979	Karthika-Deepam	01_-_Nee_Kowgilio Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS2FydGhpa2EtRGVlcGFtLzAxXy1fTmVlX0tvd2dpbGlvLm1wMw%3D%3D
+1979	Karthika-Deepam	02_-_Chilakamma_Palikindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS2FydGhpa2EtRGVlcGFtLzAyXy1fQ2hpbGFrYW1tYV9QYWxpa2luZGkubXAz
+1979	Karthika-Deepam	03_-_Nee_Kowgililo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS2FydGhpa2EtRGVlcGFtLzAzXy1fTmVlX0tvd2dpbGlsby5tcDM%3D
+1979	Karthika-Deepam	04_-_Muvvalemo_Nedemo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS2FydGhpa2EtRGVlcGFtLzA0Xy1fTXV2dmFsZW1vX05lZGVtby5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Korikale-Gurralaithe	01_-_Korikale_Gurralaithe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS29yaWthbGUtR3VycmFsYWl0aGUvMDFfLV9Lb3Jpa2FsZV9HdXJyYWxhaXRoZS5tcDM%3D
+1979	Korikale-Gurralaithe	02_-_Manase_Mana_Aakasam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS29yaWthbGUtR3VycmFsYWl0aGUvMDJfLV9NYW5hc2VfTWFuYV9BYWthc2FtLm1wMw%3D%3D
+1979	Korikale-Gurralaithe	03_-_Salamulekhum Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS29yaWthbGUtR3VycmFsYWl0aGUvMDNfLV9TYWxhbXVsZWtodW0ubXAz
+1979	Korikale-Gurralaithe	04_-_Rey_Rey_Reykkayalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS29yaWthbGUtR3VycmFsYWl0aGUvMDRfLV9SZXlfUmV5X1JleWtrYXlhbHUubXAz
+1979	Korikale-Gurralaithe	05_-_Korikale_Gurralaithe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS29yaWthbGUtR3VycmFsYWl0aGUvMDVfLV9Lb3Jpa2FsZV9HdXJyYWxhaXRoZS5tcDM%3D
+1979	Korikale-Gurralaithe	06_-_Yemi_Vesham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvS29yaWthbGUtR3VycmFsYWl0aGUvMDZfLV9ZZW1pX1Zlc2hhbS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Maa-Bhoomi	01_-_Paala_Buggala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFhLUJob29taS8wMV8tX1BhYWxhX0J1Z2dhbGEubXAz
+1979	Maa-Bhoomi	02_-_Bandenaka_Bandi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFhLUJob29taS8wMl8tX0JhbmRlbmFrYV9CYW5kaS5tcDM%3D
+1979	Maa-Bhoomi	03_-_Podala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFhLUJob29taS8wM18tX1BvZGFsYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Maa-Bhoomi-1979	01_-_Bandenaka_Bandikatti Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFhLUJob29taS0xOTc5LzAxXy1fQmFuZGVuYWthX0JhbmRpa2F0dGkubXAz
+1979	Maa-Bhoomi-1979	02_-_Nandamaya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFhLUJob29taS0xOTc5LzAyXy1fTmFuZGFtYXlhLm1wMw%3D%3D
+1979	Maa-Bhoomi-1979	03_-_Pellittori_Pillagada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFhLUJob29taS0xOTc5LzAzXy1fUGVsbGl0dG9yaV9QaWxsYWdhZGEubXAz
+
+Movie_name = 
+Album_URL =				
+1979	Mande-Gundelu	01_-_Chala_Challani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFuZGUtR3VuZGVsdS8wMV8tX0NoYWxhX0NoYWxsYW5pLm1wMw%3D%3D
+1979	Mande-Gundelu	02_-_Edi_Premasamrajyam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFuZGUtR3VuZGVsdS8wMl8tX0VkaV9QcmVtYXNhbXJhanlhbS5tcDM%3D
+1979	Mande-Gundelu	03_-_Thanala_Gadhilo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFuZGUtR3VuZGVsdS8wM18tX1RoYW5hbGFfR2FkaGlsby5tcDM%3D
+1979	Mande-Gundelu	04_-_Bangaraniki Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFuZGUtR3VuZGVsdS8wNF8tX0JhbmdhcmFuaWtpLm1wMw%3D%3D
+1979	Mande-Gundelu	05_-_Veede Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTWFuZGUtR3VuZGVsdS8wNV8tX1ZlZWRlLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1979	Muddhula-Koduku	01_-_Dagaalu_Chesi_Digaalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTXVkZGh1bGEtS29kdWt1LzAxXy1fRGFnYWFsdV9DaGVzaV9EaWdhYWx1Lm1wMw%3D%3D
+1979	Muddhula-Koduku	02_-_Chitapata_Chinukula_Melam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTXVkZGh1bGEtS29kdWt1LzAyXy1fQ2hpdGFwYXRhX0NoaW51a3VsYV9NZWxhbS5tcDM%3D
+1979	Muddhula-Koduku	03_-_Olole_Nee_Soku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTXVkZGh1bGEtS29kdWt1LzAzXy1fT2xvbGVfTmVlX1Nva3UubXAz
+1979	Muddhula-Koduku	04_-_Okkasari_Mandhu_Kottu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTXVkZGh1bGEtS29kdWt1LzA0Xy1fT2trYXNhcmlfTWFuZGh1X0tvdHR1Lm1wMw%3D%3D
+1979	Muddhula-Koduku	05_-_Cheekati_Velugula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTXVkZGh1bGEtS29kdWt1LzA1Xy1fQ2hlZWthdGlfVmVsdWd1bGEubXAz
+1979	Muddhula-Koduku	06_-_Yedhalo_Ragile_Jwala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvTXVkZGh1bGEtS29kdWt1LzA2Xy1fWWVkaGFsb19SYWdpbGVfSndhbGEubXAz
+
+Movie_name = 
+Album_URL =				
+1979	Pancha-Bhoothalu	00_-_Raave_Raave_Bhootaki Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvUGFuY2hhLUJob290aGFsdS8wMF8tX1JhYXZlX1JhYXZlX0Job290YWtpLm1wMw%3D%3D
+1979	Pancha-Bhoothalu	01_-_Malliyallo_Maapalle_Seemalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvUGFuY2hhLUJob290aGFsdS8wMV8tX01hbGxpeWFsbG9fTWFhcGFsbGVfU2VlbWFsby5tcDM%3D
+1979	Pancha-Bhoothalu	02_-_Neerainaanu_Nippainanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvUGFuY2hhLUJob290aGFsdS8wMl8tX05lZXJhaW5hYW51X05pcHBhaW5hbnUubXAz
+1979	Pancha-Bhoothalu	03_-_Kavvinche_Kallallo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvUGFuY2hhLUJob290aGFsdS8wM18tX0thdnZpbmNoZV9LYWxsYWxsby5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Shanku-Theertham	07_-_Naa_Madhi_Madhuranagari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvU2hhbmt1LVRoZWVydGhhbS8wN18tX05hYV9NYWRoaV9NYWRodXJhbmFnYXJpLm1wMw%3D%3D
+1979	Shanku-Theertham	08_-_Mamamiya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvU2hhbmt1LVRoZWVydGhhbS8wOF8tX01hbWFtaXlhLm1wMw%3D%3D
+1979	Shanku-Theertham	09_-_Jagamele Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvU2hhbmt1LVRoZWVydGhhbS8wOV8tX0phZ2FtZWxlLm1wMw%3D%3D
+1979	Shanku-Theertham	10_-_Thalupu_Muyana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvU2hhbmt1LVRoZWVydGhhbS8xMF8tX1RoYWx1cHVfTXV5YW5hLm1wMw%3D%3D
+1979	Shanku-Theertham	11_-_Ee_Velalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvU2hhbmt1LVRoZWVydGhhbS8xMV8tX0VlX1ZlbGFsby5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Sommokadidi-Sokokadidi	01_-_Abbo_Neredu_Pallu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvU29tbW9rYWRpZGktU29rb2thZGlkaS8wMV8tX0FiYm9fTmVyZWR1X1BhbGx1Lm1wMw%3D%3D
+1979	Sommokadidi-Sokokadidi	02_-_Aa_Ponna_Needalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvU29tbW9rYWRpZGktU29rb2thZGlkaS8wMl8tX0FhX1Bvbm5hX05lZWRhbG8ubXAz
+1979	Sommokadidi-Sokokadidi	03_-_Oh_Bala_Raja Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvU29tbW9rYWRpZGktU29rb2thZGlkaS8wM18tX09oX0JhbGFfUmFqYS5tcDM%3D
+1979	Sommokadidi-Sokokadidi	04_-_Tholivalapu_Thondaralu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvU29tbW9rYWRpZGktU29rb2thZGlkaS8wNF8tX1Rob2xpdmFsYXB1X1Rob25kYXJhbHUubXAz
+
+Movie_name = 
+Album_URL =				
+1979	Thoorpu-Velle-Railu	01_-_Ko_Ante_Koyilamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVGhvb3JwdS1WZWxsZS1SYWlsdS8wMV8tX0tvX0FudGVfS295aWxhbW1hLm1wMw%3D%3D
+1979	Thoorpu-Velle-Railu	01_-_Sanda_Poddu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVGhvb3JwdS1WZWxsZS1SYWlsdS8wMV8tX1NhbmRhX1BvZGR1Lm1wMw%3D%3D
+1979	Thoorpu-Velle-Railu	02_-_Emitidi_Emitidi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVGhvb3JwdS1WZWxsZS1SYWlsdS8wMl8tX0VtaXRpZGlfRW1pdGlkaS5tcDM%3D
+1979	Thoorpu-Velle-Railu	02_-_Vasthade_Naa_Raahu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVGhvb3JwdS1WZWxsZS1SYWlsdS8wMl8tX1Zhc3RoYWRlX05hYV9SYWFodS5tcDM%3D
+1979	Thoorpu-Velle-Railu	03_-_Kanne_Maa_Chinnari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVGhvb3JwdS1WZWxsZS1SYWlsdS8wM18tX0thbm5lX01hYV9DaGlubmFyaS5tcDM%3D
+1979	Thoorpu-Velle-Railu	03_-_Veguchukka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVGhvb3JwdS1WZWxsZS1SYWlsdS8wM18tX1ZlZ3VjaHVra2EubXAz
+1979	Thoorpu-Velle-Railu	04_-_Chuttu_Chengavi_Cheera Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVGhvb3JwdS1WZWxsZS1SYWlsdS8wNF8tX0NodXR0dV9DaGVuZ2F2aV9DaGVlcmEubXAz
+1979	Thoorpu-Velle-Railu	04_-_Emitidi_Emitidi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVGhvb3JwdS1WZWxsZS1SYWlsdS8wNF8tX0VtaXRpZGlfRW1pdGlkaS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Vetagadu	07_-_Konda_Meedha_Chandamaama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVmV0YWdhZHUvMDdfLV9Lb25kYV9NZWVkaGFfQ2hhbmRhbWFhbWEubXAz
+1979	Vetagadu	08_-_Bangaru_Baathuguddu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVmV0YWdhZHUvMDhfLV9CYW5nYXJ1X0JhYXRodWd1ZGR1Lm1wMw%3D%3D
+1979	Vetagadu	09_-_Aaku_Chaatu_Pinde_Thadise Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVmV0YWdhZHUvMDlfLV9BYWt1X0NoYWF0dV9QaW5kZV9UaGFkaXNlLm1wMw%3D%3D
+1979	Vetagadu	10_-_Puttintollu_Tharimesaaru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVmV0YWdhZHUvMTBfLV9QdXR0aW50b2xsdV9UaGFyaW1lc2FhcnUubXAz
+1979	Vetagadu	11_-_Jaablitho_Cheppanaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVmV0YWdhZHUvMTFfLV9KYWFibGl0aG9fQ2hlcHBhbmFhLm1wMw%3D%3D
+1979	Vetagadu	12_-_Ososi_Pillakodipetta Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVmV0YWdhZHUvMTJfLV9Pc29zaV9QaWxsYWtvZGlwZXR0YS5tcDM%3D
+1979	Vetagadu	13_-_Idhi_Puvullu_Pooyani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvVmV0YWdhZHUvMTNfLV9JZGhpX1B1dnVsbHVfUG9veWFuaS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1979	Yedanthasthula-Meda	01_-_Aratipandu_Valachi_Pedithe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvWWVkYW50aGFzdGh1bGEtTWVkYS8wMV8tX0FyYXRpcGFuZHVfVmFsYWNoaV9QZWRpdGhlLm1wMw%3D%3D
+1979	Yedanthasthula-Meda	02_-_Idhi_Megha_Sandhesamo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvWWVkYW50aGFzdGh1bGEtTWVkYS8wMl8tX0lkaGlfTWVnaGFfU2FuZGhlc2Ftby5tcDM%3D
+1979	Yedanthasthula-Meda	03_-_Yedanthasthula_Meda Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvWWVkYW50aGFzdGh1bGEtTWVkYS8wM18tX1llZGFudGhhc3RodWxhX01lZGEubXAz
+1979	Yedanthasthula-Meda	04_-_Kommaloni_Koyilamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvWWVkYW50aGFzdGh1bGEtTWVkYS8wNF8tX0tvbW1hbG9uaV9Lb3lpbGFtbWEubXAz
+
+Movie_name = 
+Album_URL =				
+1979	Yugandhar	06_-_Orabbi_Vesukunna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvWXVnYW5kaGFyLzA2Xy1fT3JhYmJpX1Zlc3VrdW5uYS5tcDM%3D
+1979	Yugandhar	07_-_Daa_Daa_Daasthe_Daagedha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvWXVnYW5kaGFyLzA3Xy1fRGFhX0RhYV9EYWFzdGhlX0RhYWdlZGhhLm1wMw%3D%3D
+1979	Yugandhar	08_-_Nakosame_Meerocharu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvWXVnYW5kaGFyLzA4Xy1fTmFrb3NhbWVfTWVlcm9jaGFydS5tcDM%3D
+1979	Yugandhar	09_-_Naa_Paruvam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvWXVnYW5kaGFyLzA5Xy1fTmFhX1BhcnV2YW0ubXAz
+1979	Yugandhar	10_-_Pedha_Goppa_Basthi_Ra Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5NzkvWXVnYW5kaGFyLzEwXy1fUGVkaGFfR29wcGFfQmFzdGhpX1JhLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1980	47-Rojulu	01_-_Oh_Pydi_Ledammaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvNDctUm9qdWx1LzAxXy1fT2hfUHlkaV9MZWRhbW1hYS5tcDM%3D
+1980	47-Rojulu	02_-_Alanti_Ilanti Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvNDctUm9qdWx1LzAyXy1fQWxhbnRpX0lsYW50aS5tcDM%3D
+1980	47-Rojulu	03_-_Sunkam_Kattarabbayi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvNDctUm9qdWx1LzAzXy1fU3Vua2FtX0thdHRhcmFiYmF5aS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1980	Aakali-Rajyam	01_-_Kanne_Pillavani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQWFrYWxpLVJhanlhbS8wMV8tX0thbm5lX1BpbGxhdmFuaS5tcDM%3D
+1980	Aakali-Rajyam	02_-_Saapatu_Yetuledhu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQWFrYWxpLVJhanlhbS8wMl8tX1NhYXBhdHVfWWV0dWxlZGh1Lm1wMw%3D%3D
+1980	Aakali-Rajyam	03_-_Thuhe_Raja Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQWFrYWxpLVJhanlhbS8wM18tX1RodWhlX1JhamEubXAz
+1980	Aakali-Rajyam	04_-_Gustha_Rangayya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQWFrYWxpLVJhanlhbS8wNF8tX0d1c3RoYV9SYW5nYXl5YS5tcDM%3D
+1980	Aakali-Rajyam	05_-_Kooti_Kosam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQWFrYWxpLVJhanlhbS8wNV8tX0tvb3RpX0tvc2FtLm1wMw%3D%3D
+1980	Aarani-Mantalu	01_-_Kammani_Naa_Paata Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQWFyYW5pLU1hbnRhbHUvMDFfLV9LYW1tYW5pX05hYV9QYWF0YS5tcDM%3D
+1980	Aarani-Mantalu	02_-_Oyammo_Takkarigunta Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQWFyYW5pLU1hbnRhbHUvMDJfLV9PeWFtbW9fVGFra2FyaWd1bnRhLm1wMw%3D%3D
+1980	Aarani-Mantalu	03_-_Annayya_Devena Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQWFyYW5pLU1hbnRhbHUvMDNfLV9Bbm5heXlhX0RldmVuYS5tcDM%3D
+1980	Aarani-Mantalu	04_-_Naaluguri_Kosam_Naa_Kannu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQWFyYW5pLU1hbnRhbHUvMDRfLV9OYWFsdWd1cmlfS29zYW1fTmFhX0thbm51Lm1wMw%3D%3D
+1980	Aarani-Mantalu	05_-_Naa_Choopu_Neechoopu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQWFyYW5pLU1hbnRhbHUvMDVfLV9OYWFfQ2hvb3B1X05lZWNob29wdS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1980	Ammayi-Mogudu-Mamaku-Yemudu	01_-_Vuraka_Lesi_Parugulesi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQW1tYXlpLU1vZ3VkdS1NYW1ha3UtWWVtdWR1LzAxXy1fVnVyYWthX0xlc2lfUGFydWd1bGVzaS5tcDM%3D
+1980	Ammayi-Mogudu-Mamaku-Yemudu	02_-_Choodara_Choodara Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQW1tYXlpLU1vZ3VkdS1NYW1ha3UtWWVtdWR1LzAyXy1fQ2hvb2RhcmFfQ2hvb2RhcmEubXAz
+
+Movie_name = 
+Album_URL =				
+1980	Andhala-Rasi	13_-_Koyila_Pilupe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQW5kaGFsYS1SYXNpLzEzXy1fS295aWxhX1BpbHVwZS5tcDM%3D
+1980	Andhala-Rasi	14_-_Vocchipora Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQW5kaGFsYS1SYXNpLzE0Xy1fVm9jY2hpcG9yYS5tcDM%3D
+1980	Andhala-Rasi	15_-_Neevekadha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQW5kaGFsYS1SYXNpLzE1Xy1fTmVldmVrYWRoYS5tcDM%3D
+1980	Andhala-Rasi	16_-_Aadinchaga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQW5kaGFsYS1SYXNpLzE2Xy1fQWFkaW5jaGFnYS5tcDM%3D
+1980	Andhala-Rasi	17_-_Andhalarasi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQW5kaGFsYS1SYXNpLzE3Xy1fQW5kaGFsYXJhc2kubXAz
+1980	Andhala-Rasi	18_-_Poovula_Puttavu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQW5kaGFsYS1SYXNpLzE4Xy1fUG9vdnVsYV9QdXR0YXZ1Lm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1980	Chandi-Priya	01_-_O_Priyaa_Chandi_Priyaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQ2hhbmRpLVByaXlhLzAxXy1fT19Qcml5YWFfQ2hhbmRpX1ByaXlhYS5tcDM%3D
+1980	Chandi-Priya	02_-_Yevelanainaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQ2hhbmRpLVByaXlhLzAyXy1fWWV2ZWxhbmFpbmFhLm1wMw%3D%3D
+1980	Chandi-Priya	03_-_Masakapadithe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQ2hhbmRpLVByaXlhLzAzXy1fTWFzYWthcGFkaXRoZS5tcDM%3D
+1980	Chandi-Priya	04_-_Yelo_Yelo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQ2hhbmRpLVByaXlhLzA0Xy1fWWVsb19ZZWxvLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1980	Chuttalunnaru-Jagratha	07_-_Appanna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQ2h1dHRhbHVubmFydS1KYWdyYXRoYS8wN18tX0FwcGFubmEubXAz
+1980	Chuttalunnaru-Jagratha	08_-_Rekkalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQ2h1dHRhbHVubmFydS1KYWdyYXRoYS8wOF8tX1Jla2thbHUubXAz
+1980	Chuttalunnaru-Jagratha	09_-_Kokkoroko Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQ2h1dHRhbHVubmFydS1KYWdyYXRoYS8wOV8tX0tva2tvcm9rby5tcDM%3D
+1980	Chuttalunnaru-Jagratha	10_-_Ammi_Olammi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQ2h1dHRhbHVubmFydS1KYWdyYXRoYS8xMF8tX0FtbWlfT2xhbW1pLm1wMw%3D%3D
+1980	Chuttalunnaru-Jagratha	11_-_Pavayya_Ramesham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQ2h1dHRhbHVubmFydS1KYWdyYXRoYS8xMV8tX1BhdmF5eWFfUmFtZXNoYW0ubXAz
+1980	Chuttalunnaru-Jagratha	12_-_Chikkavulera Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvQ2h1dHRhbHVubmFydS1KYWdyYXRoYS8xMl8tX0NoaWtrYXZ1bGVyYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1980	Dharmachakram	01_-_Karigi_Pommandhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvRGhhcm1hY2hha3JhbS8wMV8tX0thcmlnaV9Qb21tYW5kaGkubXAz
+1980	Dharmachakram	02_-_Ammo_Jalakalaadenu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvRGhhcm1hY2hha3JhbS8wMl8tX0FtbW9fSmFsYWthbGFhZGVudS5tcDM%3D
+1980	Dharmachakram	03_-_Gogulu_Pooche_Guttameedha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvRGhhcm1hY2hha3JhbS8wM18tX0dvZ3VsdV9Qb29jaGVfR3V0dGFtZWVkaGEubXAz
+
+Movie_name = 
+Album_URL =				
+1980	Gharaana-Donga	01_-_Dhimikita_Dhimikita Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR2hhcmFhbmEtRG9uZ2EvMDFfLV9EaGltaWtpdGFfRGhpbWlraXRhLm1wMw%3D%3D
+1980	Gharaana-Donga	02_-_Vanna_Velisina_Vela Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR2hhcmFhbmEtRG9uZ2EvMDJfLV9WYW5uYV9WZWxpc2luYV9WZWxhLm1wMw%3D%3D
+1980	Gharaana-Donga	03_-_Rotte_Virigi_Nethilo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR2hhcmFhbmEtRG9uZ2EvMDNfLV9Sb3R0ZV9WaXJpZ2lfTmV0aGlsby5tcDM%3D
+1980	Gharaana-Donga	04_-_O_Muddu_Krishna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR2hhcmFhbmEtRG9uZ2EvMDRfLV9PX011ZGR1X0tyaXNobmEubXAz
+1980	Gharaana-Donga	05_-_Pampara_Panasa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR2hhcmFhbmEtRG9uZ2EvMDVfLV9QYW1wYXJhX1BhbmFzYS5tcDM%3D
+1980	Gharaana-Donga	06_-_Chitikela_Metikela Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR2hhcmFhbmEtRG9uZ2EvMDZfLV9DaGl0aWtlbGFfTWV0aWtlbGEubXAz
+
+Movie_name = 
+Album_URL =				
+1980	Guru	01_-_Peru_Cheppanaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR3VydS8wMV8tX1BlcnVfQ2hlcHBhbmFhLm1wMw%3D%3D
+1980	Guru	02_-_Kannula_Kypu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR3VydS8wMl8tX0thbm51bGFfS3lwdS5tcDM%3D
+1980	Guru	03_-_Nimma_Chettu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR3VydS8wM18tX05pbW1hX0NoZXR0dS5tcDM%3D
+1980	Guru	04_-_Naa_Vandanamu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR3VydS8wNF8tX05hYV9WYW5kYW5hbXUubXAz
+1980	Guru	05_-_Neuana_Ningyana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR3VydS8wNV8tX05ldWFuYV9OaW5neWFuYS5tcDM%3D
+1980	Guru	06_-_Aadandi_Padandi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvR3VydS8wNl8tX0FhZGFuZGlfUGFkYW5kaS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	01_-_Parugu_Teeyali_-_Mallieswari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8wMV8tX1BhcnVndV9UZWV5YWxpXy1fTWFsbGllc3dhcmkubXAz
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	02_-_Adigadigo_Gagana_Seema_-_Naa_Illu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8wMl8tX0FkaWdhZGlnb19HYWdhbmFfU2VlbWFfLV9OYWFfSWxsdS5tcDM%3D
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	03_-_Yvvana_Madhuvanilo_-_Bangaru_Papa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8wM18tX1l2dmFuYV9NYWRodXZhbmlsb18tX0JhbmdhcnVfUGFwYS5tcDM%3D
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	04_-_Thirumala_Mandira_-_Bhagya_Rekha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8wNF8tX1RoaXJ1bWFsYV9NYW5kaXJhXy1fQmhhZ3lhX1Jla2hhLm1wMw%3D%3D
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	05_-_Sadiseyakogali_-_Rajamakutam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8wNV8tX1NhZGlzZXlha29nYWxpXy1fUmFqYW1ha3V0YW0ubXAz
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	06_-_Idi_Challani_-_Pooja_Phalam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8wNl8tX0lkaV9DaGFsbGFuaV8tX1Bvb2phX1BoYWxhbS5tcDM%3D
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	07_-_Idi_Mallela_Velayani_-_Sukhadukhalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8wN18tX0lkaV9NYWxsZWxhX1ZlbGF5YW5pXy1fU3VraGFkdWtoYWx1Lm1wMw%3D%3D
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	08_-_Adugaduguna_-_Undamma_Bottu_Pedata Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8wOF8tX0FkdWdhZHVndW5hXy1fVW5kYW1tYV9Cb3R0dV9QZWRhdGEubXAz
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	09_-_Kondala_Konala_Bangaru_Panjaram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8wOV8tX0tvbmRhbGFfS29uYWxhX0JhbmdhcnVfUGFuamFyYW0ubXAz
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	10_-_Neela_Mohana_Ra_Ra_-_Dr_Anand Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8xMF8tX05lZWxhX01vaGFuYV9SYV9SYV8tX0RyX0FuYW5kLm1wMw%3D%3D
+1980	Idi-Mallela-Vela-Devulapalli-Krishana-Sastry-Hits	11_-_Prathi_Raatri_-_Ekaveera Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvSWRpLU1hbGxlbGEtVmVsYS1EZXZ1bGFwYWxsaS1LcmlzaGFuYS1TYXN0cnktSGl0cy8xMV8tX1ByYXRoaV9SYWF0cmlfLV9Fa2F2ZWVyYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1980	Ketu-Gadu	01_-_Alla_Tappa_Anukunnadu_(From_Ketu_Gadu) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvS2V0dS1HYWR1LzAxXy1fQWxsYV9UYXBwYV9BbnVrdW5uYWR1XyhGcm9tX0tldHVfR2FkdSkubXAz
+
+Movie_name = 
+Album_URL =				
+1980	Kotha-Jeevithalu	01_-_Tham_Thananam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvS290aGEtSmVldml0aGFsdS8wMV8tX1RoYW1fVGhhbmFuYW0ubXAz
+1980	Kotha-Jeevithalu	02_-_Pongi_Porale Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvS290aGEtSmVldml0aGFsdS8wMl8tX1BvbmdpX1BvcmFsZS5tcDM%3D
+1980	Kotha-Jeevithalu	03_-_Manase_Vellene Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvS290aGEtSmVldml0aGFsdS8wM18tX01hbmFzZV9WZWxsZW5lLm1wMw%3D%3D
+1980	Kotha-Jeevithalu	04_-_Manase_Vellene_(Duet) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvS290aGEtSmVldml0aGFsdS8wNF8tX01hbmFzZV9WZWxsZW5lXyhEdWV0KS5tcDM%3D
+1980	Kotha-Jeevithalu	05_-_Yentha_So_Gunnau Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvS290aGEtSmVldml0aGFsdS8wNV8tX1llbnRoYV9Tb19HdW5uYXUubXAz
+
+Movie_name = 
+Album_URL =				
+1980	Pasupu-Parani	12_-_Srimathini Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUGFzdXB1LVBhcmFuaS8xMl8tX1NyaW1hdGhpbmkubXAz
+1980	Pasupu-Parani	13_-_Revulona Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUGFzdXB1LVBhcmFuaS8xM18tX1JldnVsb25hLm1wMw%3D%3D
+1980	Pasupu-Parani	14_-_Ayyababo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUGFzdXB1LVBhcmFuaS8xNF8tX0F5eWFiYWJvLm1wMw%3D%3D
+1980	Pasupu-Parani	15_-_Neeku_Naku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUGFzdXB1LVBhcmFuaS8xNV8tX05lZWt1X05ha3UubXAz
+1980	Pasupu-Parani	16_-_Yerra_Yerrani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUGFzdXB1LVBhcmFuaS8xNl8tX1llcnJhX1llcnJhbmkubXAz
+1980	Pasupu-Parani	17_-_Aa_Muddhabanthulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUGFzdXB1LVBhcmFuaS8xN18tX0FhX011ZGRoYWJhbnRodWx1Lm1wMw%3D%3D
+1980	Pasupu-Parani	18_-_Revulona_(Sad) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUGFzdXB1LVBhcmFuaS8xOF8tX1JldnVsb25hXyhTYWQpLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1980	Priya	01_-_Naa_Hrudayamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUHJpeWEvMDFfLV9OYWFfSHJ1ZGF5YW1tYS5tcDM%3D
+1980	Priya	02_-_Chirunaama_Isthaava Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUHJpeWEvMDJfLV9DaGlydW5hYW1hX0lzdGhhYXZhLm1wMw%3D%3D
+1980	Priya	03_-_Santham_Kopam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUHJpeWEvMDNfLV9TYW50aGFtX0tvcGFtLm1wMw%3D%3D
+1980	Priya	04_-_Anuragam_Pongindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUHJpeWEvMDRfLV9BbnVyYWdhbV9Qb25naW5kaS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1980	Punnam-Naagu	01_-_Addirabanna_Muddulagumma_ Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUHVubmFtLU5hYWd1LzAxXy1fQWRkaXJhYmFubmFfTXVkZHVsYWd1bW1hXy5tcDM%3D
+1980	Punnam-Naagu	02_-_Jalakalu_Aadeti Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUHVubmFtLU5hYWd1LzAyXy1fSmFsYWthbHVfQWFkZXRpLm1wMw%3D%3D
+1980	Punnam-Naagu	03_-_Punnami_Raatri Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUHVubmFtLU5hYWd1LzAzXy1fUHVubmFtaV9SYWF0cmkubXAz
+1980	Punnam-Naagu	04_-_Gadusu_Sinnadi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUHVubmFtLU5hYWd1LzA0Xy1fR2FkdXN1X1Npbm5hZGkubXAz
+
+Movie_name = 
+Album_URL =				
+1980	Ram-Robert-Raheem	07_-_Chilakundhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUmFtLVJvYmVydC1SYWhlZW0vMDdfLV9DaGlsYWt1bmRoaS5tcDM%3D
+1980	Ram-Robert-Raheem	08_-_Sai_Baba Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUmFtLVJvYmVydC1SYWhlZW0vMDhfLV9TYWlfQmFiYS5tcDM%3D
+1980	Ram-Robert-Raheem	09_-_Mugguru_Kalasi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUmFtLVJvYmVydC1SYWhlZW0vMDlfLV9NdWdndXJ1X0thbGFzaS5tcDM%3D
+1980	Ram-Robert-Raheem	10_-_Laka_Laka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUmFtLVJvYmVydC1SYWhlZW0vMTBfLV9MYWthX0xha2EubXAz
+1980	Ram-Robert-Raheem	11_-_Oka_Ammayi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUmFtLVJvYmVydC1SYWhlZW0vMTFfLV9Pa2FfQW1tYXlpLm1wMw%3D%3D
+1980	Ram-Robert-Raheem	12_-_My_Name_Is_Robert Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUmFtLVJvYmVydC1SYWhlZW0vMTJfLV9NeV9OYW1lX0lzX1JvYmVydC5tcDM%3D
+1980	Ram-Robert-Raheem	13_-_Okkasari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUmFtLVJvYmVydC1SYWhlZW0vMTNfLV9Pa2thc2FyaS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1980	Rowdi-Ramudu-Konte-Krishnudu	01_-_Seethakalamochchindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUm93ZGktUmFtdWR1LUtvbnRlLUtyaXNobnVkdS8wMV8tX1NlZXRoYWthbGFtb2NoY2hpbmRoaS5tcDM%3D
+1980	Rowdi-Ramudu-Konte-Krishnudu	02_-_Asale_Chinnadanni Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUm93ZGktUmFtdWR1LUtvbnRlLUtyaXNobnVkdS8wMl8tX0FzYWxlX0NoaW5uYWRhbm5pLm1wMw%3D%3D
+1980	Rowdi-Ramudu-Konte-Krishnudu	03_-_Konte_Korikundhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUm93ZGktUmFtdWR1LUtvbnRlLUtyaXNobnVkdS8wM18tX0tvbnRlX0tvcmlrdW5kaGkubXAz
+1980	Rowdi-Ramudu-Konte-Krishnudu	04_-_Oh_My_Darling Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUm93ZGktUmFtdWR1LUtvbnRlLUtyaXNobnVkdS8wNF8tX09oX015X0RhcmxpbmcubXAz
+1980	Rowdi-Ramudu-Konte-Krishnudu	05_-_Pappulo_Uppesi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvUm93ZGktUmFtdWR1LUtvbnRlLUtyaXNobnVkdS8wNV8tX1BhcHB1bG9fVXBwZXNpLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1980	Sankarabharanam	01_-_Directors_Speech Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2Fua2FyYWJoYXJhbmFtLzAxXy1fRGlyZWN0b3JzX1NwZWVjaC5tcDM%3D
+1980	Sankarabharanam	02_-_Sankara_Nadha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2Fua2FyYWJoYXJhbmFtLzAyXy1fU2Fua2FyYV9OYWRoYS5tcDM%3D
+1980	Sankarabharanam	03_-_Omkara Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2Fua2FyYWJoYXJhbmFtLzAzXy1fT21rYXJhLm1wMw%3D%3D
+1980	Sankarabharanam	04_-_Sangeetha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2Fua2FyYWJoYXJhbmFtLzA0Xy1fU2FuZ2VldGhhLm1wMw%3D%3D
+1980	Sankarabharanam	05_-_Ragam_Tanam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2Fua2FyYWJoYXJhbmFtLzA1Xy1fUmFnYW1fVGFuYW0ubXAz
+1980	Sankarabharanam	06_-_Ye_Thiruga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2Fua2FyYWJoYXJhbmFtLzA2Xy1fWWVfVGhpcnVnYS5tcDM%3D
+1980	Sankarabharanam	07_-_Brochevarevura_With_Dialog Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2Fua2FyYWJoYXJhbmFtLzA3Xy1fQnJvY2hldmFyZXZ1cmFfV2l0aF9EaWFsb2cubXAz
+1980	Sankarabharanam	08_-_Brochevarevura Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2Fua2FyYWJoYXJhbmFtLzA4Xy1fQnJvY2hldmFyZXZ1cmEubXAz
+1980	Sankarabharanam	09_-_Manasa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2Fua2FyYWJoYXJhbmFtLzA5Xy1fTWFuYXNhLm1wMw%3D%3D
+1980	Sankarabharanam	10_-_Samajavara Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2Fua2FyYWJoYXJhbmFtLzEwXy1fU2FtYWphdmFyYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1980	Sardar-Paparayudu	08_-_Pandhommidhivandhala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2FyZGFyLVBhcGFyYXl1ZHUvMDhfLV9QYW5kaG9tbWlkaGl2YW5kaGFsYS5tcDM%3D
+1980	Sardar-Paparayudu	09_-_Jyothilakshi_Cheera_Kattindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2FyZGFyLVBhcGFyYXl1ZHUvMDlfLV9KeW90aGlsYWtzaGlfQ2hlZXJhX0thdHRpbmRoaS5tcDM%3D
+1980	Sardar-Paparayudu	10_-_Uyyalaku_Vayasochindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2FyZGFyLVBhcGFyYXl1ZHUvMTBfLV9VeXlhbGFrdV9WYXlhc29jaGluZGhpLm1wMw%3D%3D
+1980	Sardar-Paparayudu	11_-_Hello_Temper Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2FyZGFyLVBhcGFyYXl1ZHUvMTFfLV9IZWxsb19UZW1wZXIubXAz
+1980	Sardar-Paparayudu	12_-_Burra_Kadha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2FyZGFyLVBhcGFyYXl1ZHUvMTJfLV9CdXJyYV9LYWRoYS5tcDM%3D
+1980	Sardar-Paparayudu	13_-_Thella_Cheera_Kalla_Kaatuka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU2FyZGFyLVBhcGFyYXl1ZHUvMTNfLV9UaGVsbGFfQ2hlZXJhX0thbGxhX0thYXR1a2EubXAz
+
+Movie_name = 
+Album_URL =				
+1980	Sujatha	10_-_Ungaram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU3VqYXRoYS8xMF8tX1VuZ2FyYW0ubXAz
+1980	Sujatha	11_-_Aadadhi_Aravindham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU3VqYXRoYS8xMV8tX0FhZGFkaGlfQXJhdmluZGhhbS5tcDM%3D
+1980	Sujatha	12_-_Oka_Challani_Rathrilo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU3VqYXRoYS8xMl8tX09rYV9DaGFsbGFuaV9SYXRocmlsby5tcDM%3D
+1980	Sujatha	13_-_Podhuluri_Intikada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU3VqYXRoYS8xM18tX1BvZGh1bHVyaV9JbnRpa2FkYS5tcDM%3D
+1980	Sujatha	14_-_Pattapagalu_Puttindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvU3VqYXRoYS8xNF8tX1BhdHRhcGFnYWx1X1B1dHRpbmRoaS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1980	Yedantasthula-Meda	07_-_Arathi_Pandu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvWWVkYW50YXN0aHVsYS1NZWRhLzA3Xy1fQXJhdGhpX1BhbmR1Lm1wMw%3D%3D
+1980	Yedantasthula-Meda	08_-_O_Rangi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvWWVkYW50YXN0aHVsYS1NZWRhLzA4Xy1fT19SYW5naS5tcDM%3D
+1980	Yedantasthula-Meda	09_-_Idhi_Meghasandesamo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvWWVkYW50YXN0aHVsYS1NZWRhLzA5Xy1fSWRoaV9NZWdoYXNhbmRlc2Ftby5tcDM%3D
+1980	Yedantasthula-Meda	10_-_Chakkani_Chukka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvWWVkYW50YXN0aHVsYS1NZWRhLzEwXy1fQ2hha2thbmlfQ2h1a2thLm1wMw%3D%3D
+1980	Yedantasthula-Meda	11_-_Yedantasthula_Meda Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvWWVkYW50YXN0aHVsYS1NZWRhLzExXy1fWWVkYW50YXN0aHVsYV9NZWRhLm1wMw%3D%3D
+1980	Yedantasthula-Meda	12_-_Kommaloni Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvWWVkYW50YXN0aHVsYS1NZWRhLzEyXy1fS29tbWFsb25pLm1wMw%3D%3D
+1980	Yedantasthula-Meda	13_-_Yedantasthula_Meda Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODAvWWVkYW50YXN0aHVsYS1NZWRhLzEzXy1fWWVkYW50YXN0aHVsYV9NZWRhLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1981	Amavasya-Chandrudu	01_-_Sundaramo_Sumadhuramo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQW1hdmFzeWEtQ2hhbmRydWR1LzAxXy1fU3VuZGFyYW1vX1N1bWFkaHVyYW1vLm1wMw%3D%3D
+1981	Amavasya-Chandrudu	02_-_Modern_Concerto Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQW1hdmFzeWEtQ2hhbmRydWR1LzAyXy1fTW9kZXJuX0NvbmNlcnRvLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1981	Antham-Kadidhi-Aarambham	13_-_Abbalalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQW50aGFtLUthZGlkaGktQWFyYW1iaGFtLzEzXy1fQWJiYWxhbG8ubXAz
+1981	Antham-Kadidhi-Aarambham	14_-_Moodu_Chukkala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQW50aGFtLUthZGlkaGktQWFyYW1iaGFtLzE0Xy1fTW9vZHVfQ2h1a2thbGEubXAz
+1981	Antham-Kadidhi-Aarambham	15_-_Ninnantukovali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQW50aGFtLUthZGlkaGktQWFyYW1iaGFtLzE1Xy1fTmlubmFudHVrb3ZhbGkubXAz
+1981	Antham-Kadidhi-Aarambham	16_-_Nee_Ooriki_Monaganni Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQW50aGFtLUthZGlkaGktQWFyYW1iaGFtLzE2Xy1fTmVlX09vcmlraV9Nb25hZ2FubmkubXAz
+
+Movie_name = 
+Album_URL =				
+1981	Chanakya-Sapadham	01_-_Soku_Tho_Talo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQ2hhbmFreWEtU2FwYWRoYW0vMDFfLV9Tb2t1X1Rob19UYWxvLm1wMw%3D%3D
+1981	Chanakya-Sapadham	02_-_Vedi_Vedi_Valapulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQ2hhbmFreWEtU2FwYWRoYW0vMDJfLV9WZWRpX1ZlZGlfVmFsYXB1bHUubXAz
+1981	Chanakya-Sapadham	03_-_Vare_Vare_Varisello Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQ2hhbmFreWEtU2FwYWRoYW0vMDNfLV9WYXJlX1ZhcmVfVmFyaXNlbGxvLm1wMw%3D%3D
+1981	Chanakya-Sapadham	04_-_Needanda_Bada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQ2hhbmFreWEtU2FwYWRoYW0vMDRfLV9OZWVkYW5kYV9CYWRhLm1wMw%3D%3D
+1981	Chanakya-Sapadham	05_-_Meelaga_Mellaga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvQ2hhbmFreWEtU2FwYWRoYW0vMDVfLV9NZWVsYWdhX01lbGxhZ2EubXAz
+
+Movie_name = 
+Album_URL =				
+1981	Deeparadhana	07_-_Thooropu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvRGVlcGFyYWRoYW5hLzA3Xy1fVGhvb3JvcHUubXAz
+1981	Deeparadhana	08_-_Manishiki Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvRGVlcGFyYWRoYW5hLzA4Xy1fTWFuaXNoaWtpLm1wMw%3D%3D
+1981	Deeparadhana	09_-_Thellakagitham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvRGVlcGFyYWRoYW5hLzA5Xy1fVGhlbGxha2FnaXRoYW0ubXAz
+1981	Deeparadhana	10_-_Vennela Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvRGVlcGFyYWRoYW5hLzEwXy1fVmVubmVsYS5tcDM%3D
+1981	Deeparadhana	11_-_Sannaga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvRGVlcGFyYWRoYW5hLzExXy1fU2FubmFnYS5tcDM%3D
+1981	Deeparadhana	12_-_Seethadevi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvRGVlcGFyYWRoYW5hLzEyXy1fU2VldGhhZGV2aS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1981	Gaja-Donga	01_-_Chuppanaathi_Chandhurudu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvR2FqYS1Eb25nYS8wMV8tX0NodXBwYW5hYXRoaV9DaGFuZGh1cnVkdS5tcDM%3D
+1981	Gaja-Donga	02_-_Nee_Illu_Bangaaram_Gaanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvR2FqYS1Eb25nYS8wMl8tX05lZV9JbGx1X0JhbmdhYXJhbV9HYWFudS5tcDM%3D
+1981	Gaja-Donga	03_-_Oka_Rathiri Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvR2FqYS1Eb25nYS8wM18tX09rYV9SYXRoaXJpLm1wMw%3D%3D
+1981	Gaja-Donga	04_-_Rendaksharaala_Prema Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvR2FqYS1Eb25nYS8wNF8tX1JlbmRha3NoYXJhYWxhX1ByZW1hLm1wMw%3D%3D
+1981	Gaja-Donga	05_-_Allaneredu_Chettukaada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvR2FqYS1Eb25nYS8wNV8tX0FsbGFuZXJlZHVfQ2hldHR1a2FhZGEubXAz
+1981	Gaja-Donga	06_-_Idho_Rakam_Dhaaham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvR2FqYS1Eb25nYS8wNl8tX0lkaG9fUmFrYW1fRGhhYWhhbS5tcDM%3D
+1981	Gaja-Donga	07_-_Indhra_Dhanassu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvR2FqYS1Eb25nYS8wN18tX0luZGhyYV9EaGFuYXNzdS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1981	Guvvala-Janta	01_-_Neeli_Neeli_Kallato Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvR3V2dmFsYS1KYW50YS8wMV8tX05lZWxpX05lZWxpX0thbGxhdG8ubXAz
+1981	Guvvala-Janta	02_-_Chirugaali_Vuyyala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvR3V2dmFsYS1KYW50YS8wMl8tX0NoaXJ1Z2FhbGlfVnV5eWFsYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1981	Jayasudha	01_-_Pranaya_Kavyamuna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmF5YXN1ZGhhLzAxXy1fUHJhbmF5YV9LYXZ5YW11bmEubXAz
+1981	Jayasudha	02_-_Goruvechani_Sooridamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmF5YXN1ZGhhLzAyXy1fR29ydXZlY2hhbmlfU29vcmlkYW1tYS5tcDM%3D
+1981	Jayasudha	03_-_Kannureppa_Paadindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmF5YXN1ZGhhLzAzXy1fS2FubnVyZXBwYV9QYWFkaW5kaGkubXAz
+1981	Jayasudha	04_-_Ganthuluvese Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmF5YXN1ZGhhLzA0Xy1fR2FudGh1bHV2ZXNlLm1wMw%3D%3D
+1981	Jayasudha	05_-_Chemma_Chekkka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmF5YXN1ZGhhLzA1Xy1fQ2hlbW1hX0NoZWtra2EubXAz
+
+Movie_name = 
+Album_URL =				
+1981	Jegantalu	01_-_Telusule_Telusule Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmVnYW50YWx1LzAxXy1fVGVsdXN1bGVfVGVsdXN1bGUubXAz
+1981	Jegantalu	02_-_Idi_Aamani_Saage Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmVnYW50YWx1LzAyXy1fSWRpX0FhbWFuaV9TYWFnZS5tcDM%3D
+1981	Jegantalu	03_-_Tana_Inti_Mungita Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmVnYW50YWx1LzAzXy1fVGFuYV9JbnRpX011bmdpdGEubXAz
+1981	Jegantalu	04_-_Vandanalu_Vandanalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmVnYW50YWx1LzA0Xy1fVmFuZGFuYWx1X1ZhbmRhbmFsdS5tcDM%3D
+1981	Jegantalu	05_-_Sri_Seetharamula_Kalyanam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmVnYW50YWx1LzA1Xy1fU3JpX1NlZXRoYXJhbXVsYV9LYWx5YW5hbS5tcDM%3D
+1981	Jegantalu	06_-_Choodu_Choodu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvSmVnYW50YWx1LzA2Xy1fQ2hvb2R1X0Nob29kdS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1981	Kirayi-Rowdyu	01_-_Oh_Kontae_Konangi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS2lyYXlpLVJvd2R5dS8wMV8tX09oX0tvbnRhZV9Lb25hbmdpLm1wMw%3D%3D
+1981	Kirayi-Rowdyu	02_-_Pnnganamaalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS2lyYXlpLVJvd2R5dS8wMl8tX1BubmdhbmFtYWFsdS5tcDM%3D
+1981	Kirayi-Rowdyu	03_-_Thamasha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS2lyYXlpLVJvd2R5dS8wM18tX1RoYW1hc2hhLm1wMw%3D%3D
+1981	Kirayi-Rowdyu	04_-_Aa_Deivame Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS2lyYXlpLVJvd2R5dS8wNF8tX0FhX0RlaXZhbWUubXAz
+
+Movie_name = 
+Album_URL =				
+1981	Kondaveeti-Simham	01_-_Atthamadugu_Vaagulona Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS29uZGF2ZWV0aS1TaW1oYW0vMDFfLV9BdHRoYW1hZHVndV9WYWFndWxvbmEubXAz
+1981	Kondaveeti-Simham	02_-_Banginapalli Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS29uZGF2ZWV0aS1TaW1oYW0vMDJfLV9CYW5naW5hcGFsbGkubXAz
+1981	Kondaveeti-Simham	03_-_Pilla_Vundhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS29uZGF2ZWV0aS1TaW1oYW0vMDNfLV9QaWxsYV9WdW5kaGkubXAz
+1981	Kondaveeti-Simham	04_-_Vaanoche Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS29uZGF2ZWV0aS1TaW1oYW0vMDRfLV9WYWFub2NoZS5tcDM%3D
+1981	Kondaveeti-Simham	05_-_Ee_Madhumasamlo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS29uZGF2ZWV0aS1TaW1oYW0vMDVfLV9FZV9NYWRodW1hc2FtbG8ubXAz
+1981	Kondaveeti-Simham	06_-_Gothikaada_Guntanakka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS29uZGF2ZWV0aS1TaW1oYW0vMDZfLV9Hb3RoaWthYWRhX0d1bnRhbmFra2EubXAz
+1981	Kondaveeti-Simham	07_-_Maa_Intilona Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvS29uZGF2ZWV0aS1TaW1oYW0vMDdfLV9NYWFfSW50aWxvbmEubXAz
+
+Movie_name = 
+Album_URL =				
+1981	Mahapurushudu	14_-_Chilakaluripeta Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTWFoYXB1cnVzaHVkdS8xNF8tX0NoaWxha2FsdXJpcGV0YS5tcDM%3D
+1981	Mahapurushudu	15_-_Boni_Kottu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTWFoYXB1cnVzaHVkdS8xNV8tX0JvbmlfS290dHUubXAz
+1981	Mahapurushudu	16_-_Prathi_Vasantha_Velalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTWFoYXB1cnVzaHVkdS8xNl8tX1ByYXRoaV9WYXNhbnRoYV9WZWxhbG8ubXAz
+1981	Mahapurushudu	17_-_Tholisari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTWFoYXB1cnVzaHVkdS8xN18tX1Rob2xpc2FyaS5tcDM%3D
+1981	Mahapurushudu	18_-_Mangammatha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTWFoYXB1cnVzaHVkdS8xOF8tX01hbmdhbW1hdGhhLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1981	Maunageetham	04_-_Chelimilo_Valapu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTWF1bmFnZWV0aGFtLzA0Xy1fQ2hlbGltaWxvX1ZhbGFwdS5tcDM%3D
+1981	Maunageetham	05_-_Naa_Raagame Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTWF1bmFnZWV0aGFtLzA1Xy1fTmFhX1JhYWdhbWUubXAz
+1981	Maunageetham	06_-_Paruvamaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTWF1bmFnZWV0aGFtLzA2Xy1fUGFydXZhbWFhLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1981	Mudda-Mandaram	08_-_Mandharam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTXVkZGEtTWFuZGFyYW0vMDhfLV9NYW5kaGFyYW0ubXAz
+1981	Mudda-Mandaram	09_-_Jonna_Chelo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTXVkZGEtTWFuZGFyYW0vMDlfLV9Kb25uYV9DaGVsby5tcDM%3D
+1981	Mudda-Mandaram	10_-_Neelalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTXVkZGEtTWFuZGFyYW0vMTBfLV9OZWVsYWx1Lm1wMw%3D%3D
+1981	Mudda-Mandaram	11_-_Jo_Laali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTXVkZGEtTWFuZGFyYW0vMTFfLV9Kb19MYWFsaS5tcDM%3D
+1981	Mudda-Mandaram	12_-_Sholapur_Cheppulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTXVkZGEtTWFuZGFyYW0vMTJfLV9TaG9sYXB1cl9DaGVwcHVsdS5tcDM%3D
+1981	Mudda-Mandaram	13_-_Aliveni Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTXVkZGEtTWFuZGFyYW0vMTNfLV9BbGl2ZW5pLm1wMw%3D%3D
+1981	Mudda-Mandaram	14_-_Srirasthu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvTXVkZGEtTWFuZGFyYW0vMTRfLV9TcmlyYXN0aHUubXAz
+
+Movie_name = 
+Album_URL =				
+1981	Ooriki-Monagadu	06_-_Mogga_Pindhe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvT29yaWtpLU1vbmFnYWR1LzA2Xy1fTW9nZ2FfUGluZGhlLm1wMw%3D%3D
+1981	Ooriki-Monagadu	07_-_Yerra_Tholu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvT29yaWtpLU1vbmFnYWR1LzA3Xy1fWWVycmFfVGhvbHUubXAz
+1981	Ooriki-Monagadu	08_-_Kadili_Randi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvT29yaWtpLU1vbmFnYWR1LzA4Xy1fS2FkaWxpX1JhbmRpLm1wMw%3D%3D
+1981	Ooriki-Monagadu	09_-_Andhala_Javvani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvT29yaWtpLU1vbmFnYWR1LzA5Xy1fQW5kaGFsYV9KYXZ2YW5pLm1wMw%3D%3D
+1981	Ooriki-Monagadu	10_-_Bujam_Banthi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvT29yaWtpLU1vbmFnYWR1LzEwXy1fQnVqYW1fQmFudGhpLm1wMw%3D%3D
+1981	Ooriki-Monagadu	11_-_Idhigo_Thellacheera Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvT29yaWtpLU1vbmFnYWR1LzExXy1fSWRoaWdvX1RoZWxsYWNoZWVyYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1981	Premabhishekam	02_-_Tharaludigivachhina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHJlbWFiaGlzaGVrYW0vMDJfLV9UaGFyYWx1ZGlnaXZhY2hoaW5hLm1wMw%3D%3D
+1981	Premabhishekam	05_-_Devi_Mounama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHJlbWFiaGlzaGVrYW0vMDVfLV9EZXZpX01vdW5hbWEubXAz
+1981	Premabhishekam	06_-_Agadhu_Agadhu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHJlbWFiaGlzaGVrYW0vMDZfLV9BZ2FkaHVfQWdhZGh1Lm1wMw%3D%3D
+1981	Premabhishekam	09_-_Oka_Devuni_Gudilo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHJlbWFiaGlzaGVrYW0vMDlfLV9Pa2FfRGV2dW5pX0d1ZGlsby5tcDM%3D
+1981	Premabhishekam	12_-_Kotapa_Kondaku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHJlbWFiaGlzaGVrYW0vMTJfLV9Lb3RhcGFfS29uZGFrdS5tcDM%3D
+1981	Premabhishekam	15_-_Vandanam_Abhivandanam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHJlbWFiaGlzaGVrYW0vMTVfLV9WYW5kYW5hbV9BYmhpdmFuZGFuYW0ubXAz
+1981	Premabhishekam	17_-_Naa_Kallu_Chebuthunnayi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHJlbWFiaGlzaGVrYW0vMTdfLV9OYWFfS2FsbHVfQ2hlYnV0aHVubmF5aS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1981	Puli-Bidda	12_-_Manasantha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHVsaS1CaWRkYS8xMl8tX01hbmFzYW50aGEubXAz
+1981	Puli-Bidda	13_-_Veyyi_Veyyi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHVsaS1CaWRkYS8xM18tX1ZleXlpX1ZleXlpLm1wMw%3D%3D
+1981	Puli-Bidda	14_-_Naduma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHVsaS1CaWRkYS8xNF8tX05hZHVtYS5tcDM%3D
+1981	Puli-Bidda	15_-_Bujji_Papa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHVsaS1CaWRkYS8xNV8tX0J1amppX1BhcGEubXAz
+1981	Puli-Bidda	16_-_Kasi_Viswanatha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUHVsaS1CaWRkYS8xNl8tX0thc2lfVmlzd2FuYXRoYS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1981	Radha-Kalyanam	01_-_Palaghat_Madhavan Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFkaGEtS2FseWFuYW0vMDFfLV9QYWxhZ2hhdF9NYWRoYXZhbi5tcDM%3D
+1981	Radha-Kalyanam	02_-_Chetiki_Gajulla Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFkaGEtS2FseWFuYW0vMDJfLV9DaGV0aWtpX0dhanVsbGEubXAz
+1981	Radha-Kalyanam	03_-_Kalanaina_Kshamaina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFkaGEtS2FseWFuYW0vMDNfLV9LYWxhbmFpbmFfS3NoYW1haW5hLm1wMw%3D%3D
+1981	Radha-Kalyanam	04_-_Em_Mogudu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFkaGEtS2FseWFuYW0vMDRfLV9FbV9Nb2d1ZHUubXAz
+
+Movie_name = 
+Album_URL =				
+1981	Rahasya-Gudachari	01_-_Chettendipoyaka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFoYXN5YS1HdWRhY2hhcmkvMDFfLV9DaGV0dGVuZGlwb3lha2EubXAz
+1981	Rahasya-Gudachari	02_-_Pitapitalade Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFoYXN5YS1HdWRhY2hhcmkvMDJfLV9QaXRhcGl0YWxhZGUubXAz
+1981	Rahasya-Gudachari	03_-_Ventadithe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFoYXN5YS1HdWRhY2hhcmkvMDNfLV9WZW50YWRpdGhlLm1wMw%3D%3D
+1981	Rahasya-Gudachari	04_-_Nirantharam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFoYXN5YS1HdWRhY2hhcmkvMDRfLV9OaXJhbnRoYXJhbS5tcDM%3D
+1981	Rahasya-Gudachari	05_-_Ammadi_Pelleedoche Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFoYXN5YS1HdWRhY2hhcmkvMDVfLV9BbW1hZGlfUGVsbGVlZG9jaGUubXAz
+1981	Rahasya-Gudachari	06_-_Chinukulalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFoYXN5YS1HdWRhY2hhcmkvMDZfLV9DaGludWt1bGFsby5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1981	Rani-Kaasula-Rangamma	01_-_Andhangaa_Vunnaavu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFuaS1LYWFzdWxhLVJhbmdhbW1hLzAxXy1fQW5kaGFuZ2FhX1Z1bm5hYXZ1Lm1wMw%3D%3D
+1981	Rani-Kaasula-Rangamma	02_-_Ye_Rethu_Kellindi_Raika Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFuaS1LYWFzdWxhLVJhbmdhbW1hLzAyXy1fWWVfUmV0aHVfS2VsbGluZGlfUmFpa2EubXAz
+1981	Rani-Kaasula-Rangamma	03_-_Lingu_Lituku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFuaS1LYWFzdWxhLVJhbmdhbW1hLzAzXy1fTGluZ3VfTGl0dWt1Lm1wMw%3D%3D
+1981	Rani-Kaasula-Rangamma	04_-_Tooru_Puna_Sagindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFuaS1LYWFzdWxhLVJhbmdhbW1hLzA0Xy1fVG9vcnVfUHVuYV9TYWdpbmRpLm1wMw%3D%3D
+1981	Rani-Kaasula-Rangamma	05_-_Madiloni_Mangamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvUmFuaS1LYWFzdWxhLVJhbmdhbW1hLzA1Xy1fTWFkaWxvbmlfTWFuZ2FtbWEubXAz
+
+Movie_name = 
+Album_URL =				
+1981	Seethakoka-Chilaka	01_-_Maate_Mantramu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU2VldGhha29rYS1DaGlsYWthLzAxXy1fTWFhdGVfTWFudHJhbXUubXAz
+1981	Seethakoka-Chilaka	02_-_Minneti__Suridu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU2VldGhha29rYS1DaGlsYWthLzAyXy1fTWlubmV0aV9fU3VyaWR1Lm1wMw%3D%3D
+1981	Seethakoka-Chilaka	03_-_Alalu_Kalaiu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU2VldGhha29rYS1DaGlsYWthLzAzXy1fQWxhbHVfS2FsYWl1Lm1wMw%3D%3D
+1981	Seethakoka-Chilaka	04_-_Saagara_Sangamame Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU2VldGhha29rYS1DaGlsYWthLzA0Xy1fU2FhZ2FyYV9TYW5nYW1hbWUubXAz
+1981	Seethakoka-Chilaka	05_-_Alalu_Kalalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU2VldGhha29rYS1DaGlsYWthLzA1Xy1fQWxhbHVfS2FsYWx1Lm1wMw%3D%3D
+1981	Seethakoka-Chilaka	06_-_Ka_Ka_Ki_Ki Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU2VldGhha29rYS1DaGlsYWthLzA2Xy1fS2FfS2FfS2lfS2kubXAz
+1981	Seethakoka-Chilaka	07_-_Saagara_Sangamame Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU2VldGhha29rYS1DaGlsYWthLzA3Xy1fU2FhZ2FyYV9TYW5nYW1hbWUubXAz
+	
+Movie_name = 
+Album_URL =			
+1981	Swapna	01_-_Ankitham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU3dhcG5hLzAxXy1fQW5raXRoYW0ubXAz
+1981	Swapna	02_-_Idhe_Naa_Modati_Premalekha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU3dhcG5hLzAyXy1fSWRoZV9OYWFfTW9kYXRpX1ByZW1hbGVraGEubXAz
+1981	Swapna	03_-_Srirasthu_Ammayi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU3dhcG5hLzAzXy1fU3JpcmFzdGh1X0FtbWF5aS5tcDM%3D
+1981	Swapna	04_-_Muddha_Muddha_Mandaralu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU3dhcG5hLzA0Xy1fTXVkZGhhX011ZGRoYV9NYW5kYXJhbHUubXAz
+1981	Swapna	05_-_Malle_Mogga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU3dhcG5hLzA1Xy1fTWFsbGVfTW9nZ2EubXAz
+1981	Swapna	06_-_Andhalu_Rasiga_Posi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvU3dhcG5hLzA2Xy1fQW5kaGFsdV9SYXNpZ2FfUG9zaS5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1981	Taxi-Driver	12_-_Chali_Jwaram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvVGF4aS1Ecml2ZXIvMTJfLV9DaGFsaV9Kd2FyYW0ubXAz
+1981	Taxi-Driver	13_-_Naa_Preyasi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvVGF4aS1Ecml2ZXIvMTNfLV9OYWFfUHJleWFzaS5tcDM%3D
+1981	Taxi-Driver	14_-_Ninisa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvVGF4aS1Ecml2ZXIvMTRfLV9OaW5pc2EubXAz
+1981	Taxi-Driver	15_-_Yedhalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvVGF4aS1Ecml2ZXIvMTVfLV9ZZWRoYWxvLm1wMw%3D%3D
+1981	Taxi-Driver	16_-_Hatu_Hatu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODEvVGF4aS1Ecml2ZXIvMTZfLV9IYXR1X0hhdHUubXAz
+	
+Movie_name = 
+Album_URL =			
+1982	Anuraaga-Devatha	01_-_Andhaala_Hrudayamaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQW51cmFhZ2EtRGV2YXRoYS8wMV8tX0FuZGhhYWxhX0hydWRheWFtYWEubXAz
+1982	Anuraaga-Devatha	02_-_Choosuko_Padhilangaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQW51cmFhZ2EtRGV2YXRoYS8wMl8tX0Nob29zdWtvX1BhZGhpbGFuZ2FhLm1wMw%3D%3D
+1982	Anuraaga-Devatha	03_-_Nee_Aata_Naa_Paata Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQW51cmFhZ2EtRGV2YXRoYS8wM18tX05lZV9BYXRhX05hYV9QYWF0YS5tcDM%3D
+1982	Anuraaga-Devatha	04_-_Muggurammala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQW51cmFhZ2EtRGV2YXRoYS8wNF8tX011Z2d1cmFtbWFsYS5tcDM%3D
+1982	Anuraaga-Devatha	05_-_Aadave_Gopikaa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQW51cmFhZ2EtRGV2YXRoYS8wNV8tX0FhZGF2ZV9Hb3Bpa2FhLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1982	Bangaru-Bhoomi	01_-_Aarithe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQmFuZ2FydS1CaG9vbWkvMDFfLV9BYXJpdGhlLm1wMw%3D%3D
+1982	Bangaru-Bhoomi	02_-_Chitapata Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQmFuZ2FydS1CaG9vbWkvMDJfLV9DaGl0YXBhdGEubXAz
+1982	Bangaru-Bhoomi	03_-_Reyantha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQmFuZ2FydS1CaG9vbWkvMDNfLV9SZXlhbnRoYS5tcDM%3D
+1982	Bangaru-Bhoomi	04_-_Pongindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQmFuZ2FydS1CaG9vbWkvMDRfLV9Qb25naW5kaGkubXAz
+1982	Bangaru-Bhoomi	05_-_Donga_Chikkindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQmFuZ2FydS1CaG9vbWkvMDVfLV9Eb25nYV9DaGlra2luZGhpLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1982	Bangaru-Bhumi	01_-_Aripeye_Aripeye Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQmFuZ2FydS1CaHVtaS8wMV8tX0FyaXBleWVfQXJpcGV5ZS5tcDM%3D
+1982	Bangaru-Bhumi	02_-_Chitapata_ChitaPata Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQmFuZ2FydS1CaHVtaS8wMl8tX0NoaXRhcGF0YV9DaGl0YVBhdGEubXAz
+1982	Bangaru-Bhumi	03_-_Reyantha_Kavvintha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQmFuZ2FydS1CaHVtaS8wM18tX1JleWFudGhhX0thdnZpbnRoYS5tcDM%3D
+1982	Bangaru-Bhumi	04_-_Pongindi_Pongindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQmFuZ2FydS1CaHVtaS8wNF8tX1BvbmdpbmRpX1BvbmdpbmRpLm1wMw%3D%3D
+1982	Bangaru-Bhumi	05_-_Dongachikkindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvQmFuZ2FydS1CaHVtaS8wNV8tX0RvbmdhY2hpa2tpbmRpLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1982	Devata	01_-_Elluvachi_Godaramma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvRGV2YXRhLzAxXy1fRWxsdXZhY2hpX0dvZGFyYW1tYS5tcDM%3D
+1982	Devata	02_-_Cheera_Kattindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvRGV2YXRhLzAyXy1fQ2hlZXJhX0thdHRpbmRpLm1wMw%3D%3D
+1982	Devata	03_-_Kudi_Kannu_Kottagane Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvRGV2YXRhLzAzXy1fS3VkaV9LYW5udV9Lb3R0YWdhbmUubXAz
+1982	Devata	04_-_Challa_Gaali_Cheppedi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvRGV2YXRhLzA0Xy1fQ2hhbGxhX0dhYWxpX0NoZXBwZWRpLm1wMw%3D%3D
+1982	Devata	05_-_Komma_Remma_pelladali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvRGV2YXRhLzA1Xy1fS29tbWFfUmVtbWFfcGVsbGFkYWxpLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1982	Intlo-Ramaiah-Veedhilo-Krishnaiah	07_-_Palikedhi_Vedha_Manthram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvSW50bG8tUmFtYWlhaC1WZWVkaGlsby1LcmlzaG5haWFoLzA3Xy1fUGFsaWtlZGhpX1ZlZGhhX01hbnRocmFtLm1wMw%3D%3D
+1982	Intlo-Ramaiah-Veedhilo-Krishnaiah	08_-_Seetharamula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvSW50bG8tUmFtYWlhaC1WZWVkaGlsby1LcmlzaG5haWFoLzA4Xy1fU2VldGhhcmFtdWxhLm1wMw%3D%3D
+1982	Intlo-Ramaiah-Veedhilo-Krishnaiah	09_-_Maate_Baanam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvSW50bG8tUmFtYWlhaC1WZWVkaGlsby1LcmlzaG5haWFoLzA5Xy1fTWFhdGVfQmFhbmFtLm1wMw%3D%3D
+1982	Intlo-Ramaiah-Veedhilo-Krishnaiah	10_-_Vochhe_Vocche_Vanajallu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvSW50bG8tUmFtYWlhaC1WZWVkaGlsby1LcmlzaG5haWFoLzEwXy1fVm9jaGhlX1ZvY2NoZV9WYW5hamFsbHUubXAz
+1982	Intlo-Ramaiah-Veedhilo-Krishnaiah	11_-_Gorinka_Gorinka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvSW50bG8tUmFtYWlhaC1WZWVkaGlsby1LcmlzaG5haWFoLzExXy1fR29yaW5rYV9Hb3JpbmthLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1982	Justice-Chowdary	01_-_Okato_Numberu_Chinnadanta Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvSnVzdGljZS1DaG93ZGFyeS8wMV8tX09rYXRvX051bWJlcnVfQ2hpbm5hZGFudGEubXAz
+1982	Justice-Chowdary	02_-_Nee_Chekkili_Vela_Yentha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvSnVzdGljZS1DaG93ZGFyeS8wMl8tX05lZV9DaGVra2lsaV9WZWxhX1llbnRoYS5tcDM%3D
+1982	Justice-Chowdary	03_-_Srilakshmi_Pelliki Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvSnVzdGljZS1DaG93ZGFyeS8wM18tX1NyaWxha3NobWlfUGVsbGlraS5tcDM%3D
+1982	Justice-Chowdary	04_-_Muddu_Meeda_Muddu_pettu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvSnVzdGljZS1DaG93ZGFyeS8wNF8tX011ZGR1X01lZWRhX011ZGR1X3BldHR1Lm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1982	Madhura-Geetam	01_-_Navvulalona_Puvvula_vaana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFkaHVyYS1HZWV0YW0vMDFfLV9OYXZ2dWxhbG9uYV9QdXZ2dWxhX3ZhYW5hLm1wMw%3D%3D
+1982	Madhura-Geetam	02_-_Monnati_Sambaaru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFkaHVyYS1HZWV0YW0vMDJfLV9Nb25uYXRpX1NhbWJhYXJ1Lm1wMw%3D%3D
+1982	Madhura-Geetam	03_-_Aananda_Raagam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFkaHVyYS1HZWV0YW0vMDNfLV9BYW5hbmRhX1JhYWdhbS5tcDM%3D
+1982	Madhura-Geetam	04_-_Kondagaali_Tirige Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFkaHVyYS1HZWV0YW0vMDRfLV9Lb25kYWdhYWxpX1RpcmlnZS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1982	Maha-Prasthanam	07_-_Maro_Prapancham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFoYS1QcmFzdGhhbmFtLzA3Xy1fTWFyb19QcmFwYW5jaGFtLm1wMw%3D%3D
+1982	Maha-Prasthanam	08_-_Sakthi_Kosame Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFoYS1QcmFzdGhhbmFtLzA4Xy1fU2FrdGhpX0tvc2FtZS5tcDM%3D
+1982	Maha-Prasthanam	09_-_Nagalu_Natra Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFoYS1QcmFzdGhhbmFtLzA5Xy1fTmFnYWx1X05hdHJhLm1wMw%3D%3D
+1982	Maha-Prasthanam	10_-_Jagore_Jago Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFoYS1QcmFzdGhhbmFtLzEwXy1fSmFnb3JlX0phZ28ubXAz
+1982	Maha-Prasthanam	11_-_Nandamaya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFoYS1QcmFzdGhhbmFtLzExXy1fTmFuZGFtYXlhLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1982	Manchu-Pallaki	12_-_Pagalu_Reyilo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFuY2h1LVBhbGxha2kvMTJfLV9QYWdhbHVfUmV5aWxvLm1wMw%3D%3D
+1982	Manchu-Pallaki	13_-_Neekosame Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFuY2h1LVBhbGxha2kvMTNfLV9OZWVrb3NhbWUubXAz
+1982	Manchu-Pallaki	14_-_Meghama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFuY2h1LVBhbGxha2kvMTRfLV9NZWdoYW1hLm1wMw%3D%3D
+1982	Manchu-Pallaki	15_-_Manishe_Manideepam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWFuY2h1LVBhbGxha2kvMTVfLV9NYW5pc2hlX01hbmlkZWVwYW0ubXAz
+
+Movie_name = 
+Album_URL =				
+1982	Meghasandesham	01_-_Aakasa_Desana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMDFfLV9BYWthc2FfRGVzYW5hLm1wMw%3D%3D
+1982	Meghasandesham	02_-_Radhika_Krishna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMDJfLV9SYWRoaWthX0tyaXNobmEubXAz
+1982	Meghasandesham	03_-_Sigalo_Avi_Virulo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMDNfLV9TaWdhbG9fQXZpX1ZpcnVsby5tcDM%3D
+1982	Meghasandesham	04_-_Paadana_Vani_Kalyaniga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMDRfLV9QYWFkYW5hX1ZhbmlfS2FseWFuaWdhLm1wMw%3D%3D
+1982	Meghasandesham	05_-_Seethavela_Raneeyaku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMDVfLV9TZWV0aGF2ZWxhX1JhbmVleWFrdS5tcDM%3D
+1982	Meghasandesham	06_-_Navarasa_Sumamalika_(Part_One) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMDZfLV9OYXZhcmFzYV9TdW1hbWFsaWthXyhQYXJ0X09uZSkubXAz
+1982	Meghasandesham	07_-_Priye_Charuseele Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMDdfLV9Qcml5ZV9DaGFydXNlZWxlLm1wMw%3D%3D
+1982	Meghasandesham	08_-_Aakulo_Aakunai Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMDhfLV9BYWt1bG9fQWFrdW5haS5tcDM%3D
+1982	Meghasandesham	09_-_Mundhu_Thelisina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMDlfLV9NdW5kaHVfVGhlbGlzaW5hLm1wMw%3D%3D
+1982	Meghasandesham	10_-_Ninnatidaka_Silanaina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMTBfLV9OaW5uYXRpZGFrYV9TaWxhbmFpbmEubXAz
+1982	Meghasandesham	11_-_Navarasa_Sumamalika_(Part_Two) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMTFfLV9OYXZhcmFzYV9TdW1hbWFsaWthXyhQYXJ0X1R3bykubXAz
+1982	Meghasandesham	12_-_Slokas Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTWVnaGFzYW5kZXNoYW0vMTJfLV9TbG9rYXMubXAz
+	
+Movie_name = 
+Album_URL =			
+1982	Nalugu-Sthamabalata	01_-_Chinukula_Raali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTmFsdWd1LVN0aGFtYWJhbGF0YS8wMV8tX0NoaW51a3VsYV9SYWFsaS5tcDM%3D
+1982	Nalugu-Sthamabalata	02_-_Kaliki_Chilakara Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTmFsdWd1LVN0aGFtYWJhbGF0YS8wMl8tX0thbGlraV9DaGlsYWthcmEubXAz
+1982	Nalugu-Sthamabalata	03_-_Ragamo_Anuraagamo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTmFsdWd1LVN0aGFtYWJhbGF0YS8wM18tX1JhZ2Ftb19BbnVyYWFnYW1vLm1wMw%3D%3D
+1982	Nalugu-Sthamabalata	04_-_Doralaneeku_Kanula_Neeru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvTmFsdWd1LVN0aGFtYWJhbGF0YS8wNF8tX0RvcmFsYW5lZWt1X0thbnVsYV9OZWVydS5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1982	Poola-Pallaki	01_-_Bhavanalokatai Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUG9vbGEtUGFsbGFraS8wMV8tX0JoYXZhbmFsb2thdGFpLm1wMw%3D%3D
+1982	Poola-Pallaki	02_-_Nanganachi_Tingubbarrave Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUG9vbGEtUGFsbGFraS8wMl8tX05hbmdhbmFjaGlfVGluZ3ViYmFycmF2ZS5tcDM%3D
+1982	Poola-Pallaki	03_-_Ennallani_Ennalani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUG9vbGEtUGFsbGFraS8wM18tX0VubmFsbGFuaV9Fbm5hbGFuaS5tcDM%3D
+1982	Poola-Pallaki	04_-_Ee_Intilo_Deepamai Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUG9vbGEtUGFsbGFraS8wNF8tX0VlX0ludGlsb19EZWVwYW1haS5tcDM%3D
+1982	Poola-Pallaki	05_-_Yemi_Strame_Yemo_Sodhyame Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUG9vbGEtUGFsbGFraS8wNV8tX1llbWlfU3RyYW1lX1llbW9fU29kaHlhbWUubXAz
+	
+Movie_name = 
+Album_URL =			
+1982	Prema-Sankellu	01_-_Merupula_Merisavu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUHJlbWEtU2Fua2VsbHUvMDFfLV9NZXJ1cHVsYV9NZXJpc2F2dS5tcDM%3D
+1982	Prema-Sankellu	02_-_Endukamma_Gorinka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUHJlbWEtU2Fua2VsbHUvMDJfLV9FbmR1a2FtbWFfR29yaW5rYS5tcDM%3D
+1982	Prema-Sankellu	03_-_Navvula_Naduma_Puvvula_Jallu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUHJlbWEtU2Fua2VsbHUvMDNfLV9OYXZ2dWxhX05hZHVtYV9QdXZ2dWxhX0phbGx1Lm1wMw%3D%3D
+1982	Prema-Sankellu	04_-_Neelu_Neelu_Neelala_Gaganaalu_Neevai Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUHJlbWEtU2Fua2VsbHUvMDRfLV9OZWVsdV9OZWVsdV9OZWVsYWxhX0dhZ2FuYWFsdV9OZWV2YWkubXAz
+1982	Prema-Sankellu	05_-_Merupula_Merisavu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUHJlbWEtU2Fua2VsbHUvMDVfLV9NZXJ1cHVsYV9NZXJpc2F2dS5tcDM%3D
+1982	Prema-Sankellu	06_-_Ontarigunna_Raathiri Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUHJlbWEtU2Fua2VsbHUvMDZfLV9PbnRhcmlndW5uYV9SYWF0aGlyaS5tcDM%3D
+1982	Prema-Sankellu	07_-_Muddosthunnavabbayee Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUHJlbWEtU2Fua2VsbHUvMDdfLV9NdWRkb3N0aHVubmF2YWJiYXllZS5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1982	Raaga-Deepam	07_-_Vayyaraniki_Otistha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUmFhZ2EtRGVlcGFtLzA3Xy1fVmF5eWFyYW5pa2lfT3Rpc3RoYS5tcDM%3D
+1982	Raaga-Deepam	08_-_Kumkuma_Poosina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUmFhZ2EtRGVlcGFtLzA4Xy1fS3Vta3VtYV9Qb29zaW5hLm1wMw%3D%3D
+1982	Raaga-Deepam	09_-_Pasupu_Thadu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUmFhZ2EtRGVlcGFtLzA5Xy1fUGFzdXB1X1RoYWR1Lm1wMw%3D%3D
+1982	Raaga-Deepam	10_-_Nee_Car_Number Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUmFhZ2EtRGVlcGFtLzEwXy1fTmVlX0Nhcl9OdW1iZXIubXAz
+1982	Raaga-Deepam	11_-_Poosi_Pooyani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUmFhZ2EtRGVlcGFtLzExXy1fUG9vc2lfUG9veWFuaS5tcDM%3D
+1982	Raaga-Deepam	12_-_Adhigo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUmFhZ2EtRGVlcGFtLzEyXy1fQWRoaWdvLm1wMw%3D%3D
+1982	Raaga-Deepam	13_-_Thellavare Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUmFhZ2EtRGVlcGFtLzEzXy1fVGhlbGxhdmFyZS5tcDM%3D
+1982	Raaga-Deepam	14_-_Padhe_Padhe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvUmFhZ2EtRGVlcGFtLzE0Xy1fUGFkaGVfUGFkaGUubXAz
+	
+Movie_name = 
+Album_URL =			
+1982	Subhalekha	08_-_Vinnapaalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvU3ViaGFsZWtoYS8wOF8tX1Zpbm5hcGFhbHUubXAz
+1982	Subhalekha	09_-_Neyyamulallo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvU3ViaGFsZWtoYS8wOV8tX05leXlhbXVsYWxsby5tcDM%3D
+1982	Subhalekha	10_-_Ragala_Pallakilo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvU3ViaGFsZWtoYS8xMF8tX1JhZ2FsYV9QYWxsYWtpbG8ubXAz
+1982	Subhalekha	11_-_Guru_Brahma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvU3ViaGFsZWtoYS8xMV8tX0d1cnVfQnJhaG1hLm1wMw%3D%3D
+1982	Subhalekha	12_-_Oho_Taddhimi_Thakajhanu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvU3ViaGFsZWtoYS8xMl8tX09ob19UYWRkaGltaV9UaGFrYWpoYW51Lm1wMw%3D%3D
+1982	Subhalekha	13_-_Aithe Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvU3ViaGFsZWtoYS8xM18tX0FpdGhlLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1982	Swayamvaram	01_-_Akasam_Enduko_Pachchabaddadi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvU3dheWFtdmFyYW0vMDFfLV9Ba2FzYW1fRW5kdWtvX1BhY2hjaGFiYWRkYWRpLm1wMw%3D%3D
+1982	Swayamvaram	02_-_Gali_Vanalo_Vana_Neetilo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvU3dheWFtdmFyYW0vMDJfLV9HYWxpX1ZhbmFsb19WYW5hX05lZXRpbG8ubXAz
+1982	Swayamvaram	03_-_Musugesina_Mabbullo_Masakesina_Paradalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvU3dheWFtdmFyYW0vMDNfLV9NdXN1Z2VzaW5hX01hYmJ1bGxvX01hc2FrZXNpbmFfUGFyYWRhbG8ubXAz
+1982	Swayamvaram	04_-_Nenikkada_Nuvvakkada_Kanulu_Ikkada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvU3dheWFtdmFyYW0vMDRfLV9OZW5pa2thZGFfTnV2dmFra2FkYV9LYW51bHVfSWtrYWRhLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1982	Trisoolam	01_-_Anukoledamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVHJpc29vbGFtLzAxXy1fQW51a29sZWRhbW1hLm1wMw%3D%3D
+1982	Trisoolam	02_-_Veluguku_Vudayam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVHJpc29vbGFtLzAyXy1fVmVsdWd1a3VfVnVkYXlhbS5tcDM%3D
+1982	Trisoolam	03_-_Suprabhatam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVHJpc29vbGFtLzAzXy1fU3VwcmFiaGF0YW0ubXAz
+1982	Trisoolam	04_-_Rayini_Aadadi_Chesina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVHJpc29vbGFtLzA0Xy1fUmF5aW5pX0FhZGFkaV9DaGVzaW5hLm1wMw%3D%3D
+1982	Trisoolam	05_-_Pellante_Pandillu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVHJpc29vbGFtLzA1Xy1fUGVsbGFudGVfUGFuZGlsbHUubXAz
+1982	Trisoolam	06_-_Pannendellaku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVHJpc29vbGFtLzA2Xy1fUGFubmVuZGVsbGFrdS5tcDM%3D
+1982	Trisoolam	07_-_Athade_Vachi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVHJpc29vbGFtLzA3Xy1fQXRoYWRlX1ZhY2hpLm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1982	Vasanta-Kokila	01_-_Bhojaraju Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVmFzYW50YS1Lb2tpbGEvMDFfLV9CaG9qYXJhanUubXAz
+1982	Vasanta-Kokila	02_-_Ee_Lokam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVmFzYW50YS1Lb2tpbGEvMDJfLV9FZV9Mb2thbS5tcDM%3D
+1982	Vasanta-Kokila	03_-_Urinche_Vayasu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVmFzYW50YS1Lb2tpbGEvMDNfLV9VcmluY2hlX1ZheWFzdS5tcDM%3D
+1982	Vasanta-Kokila	04_-_Kathaga_Kalpanaga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvVmFzYW50YS1Lb2tpbGEvMDRfLV9LYXRoYWdhX0thbHBhbmFnYS5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1982	Yamakinkarudu	01_-_Thappuko Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWWFtYWtpbmthcnVkdS8wMV8tX1RoYXBwdWtvLm1wMw%3D%3D
+1982	Yamakinkarudu	02_-_Maata_Maata Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWWFtYWtpbmthcnVkdS8wMl8tX01hYXRhX01hYXRhLm1wMw%3D%3D
+1982	Yamakinkarudu	03_-_Kantiki_Nuvve_Deepam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWWFtYWtpbmthcnVkdS8wM18tX0thbnRpa2lfTnV2dmVfRGVlcGFtLm1wMw%3D%3D
+1982	Yamakinkarudu	04_-_Raagamalika Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWWFtYWtpbmthcnVkdS8wNF8tX1JhYWdhbWFsaWthLm1wMw%3D%3D
+1982	Yamakinkarudu	05_-_Thakadhim Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWWFtYWtpbmthcnVkdS8wNV8tX1RoYWthZGhpbS5tcDM%3D
+1982	Yamakinkarudu	06_-_Kantiki_Nuvve_Deepam_(Sad) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWWFtYWtpbmthcnVkdS8wNl8tX0thbnRpa2lfTnV2dmVfRGVlcGFtXyhTYWQpLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1982	Yuvaraju	01_-_Evaro_Cheppaaru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWXV2YXJhanUvMDFfLV9FdmFyb19DaGVwcGFhcnUubXAz
+1982	Yuvaraju	02_-_Evaraa_Naluguru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWXV2YXJhanUvMDJfLV9FdmFyYWFfTmFsdWd1cnUubXAz
+1982	Yuvaraju	03_-_Naari_Naari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWXV2YXJhanUvMDNfLV9OYWFyaV9OYWFyaS5tcDM%3D
+1982	Yuvaraju	04_-_Neelaala_Ningi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWXV2YXJhanUvMDRfLV9OZWVsYWFsYV9OaW5naS5tcDM%3D
+1982	Yuvaraju	05_-_Andhagaadu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWXV2YXJhanUvMDVfLV9BbmRoYWdhYWR1Lm1wMw%3D%3D
+1982	Yuvaraju	06_-_Nelalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODIvWXV2YXJhanUvMDZfLV9OZWxhbHUubXAz
+	
+Movie_name = 
+Album_URL =			
+1983	Aalaya-Sikharam	01_-_Idhi_Aasalu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFsYXlhLVNpa2hhcmFtLzAxXy1fSWRoaV9BYXNhbHUubXAz
+1983	Aalaya-Sikharam	02_-_Nee_Hrudayam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFsYXlhLVNpa2hhcmFtLzAyXy1fTmVlX0hydWRheWFtLm1wMw%3D%3D
+1983	Aalaya-Sikharam	03_-_Nee_Roopu_Marindhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFsYXlhLVNpa2hhcmFtLzAzXy1fTmVlX1Jvb3B1X01hcmluZGhpLm1wMw%3D%3D
+1983	Aalaya-Sikharam	04_-_Kondalekkinavaada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFsYXlhLVNpa2hhcmFtLzA0Xy1fS29uZGFsZWtraW5hdmFhZGEubXAz
+1983	Aalaya-Sikharam	05_-_O_Ammakachella Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFsYXlhLVNpa2hhcmFtLzA1Xy1fT19BbW1ha2FjaGVsbGEubXAz
+1983	Aalaya-Sikharam	06_-_Thappemundhira Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFsYXlhLVNpa2hhcmFtLzA2Xy1fVGhhcHBlbXVuZGhpcmEubXAz
+	
+Movie_name = 
+Album_URL =			
+1983	Aanandabhairavi	01_-_Pilichina_Muraliki Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFuYW5kYWJoYWlyYXZpLzAxXy1fUGlsaWNoaW5hX011cmFsaWtpLm1wMw%3D%3D
+1983	Aanandabhairavi	02_-_Siva_Thandavam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFuYW5kYWJoYWlyYXZpLzAyXy1fU2l2YV9UaGFuZGF2YW0ubXAz
+1983	Aanandabhairavi	03_-_Ra_Ra_Ragamai Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFuYW5kYWJoYWlyYXZpLzAzXy1fUmFfUmFfUmFnYW1haS5tcDM%3D
+1983	Aanandabhairavi	04_-_Sudigalilona_Deepam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFuYW5kYWJoYWlyYXZpLzA0Xy1fU3VkaWdhbGlsb25hX0RlZXBhbS5tcDM%3D
+1983	Aanandabhairavi	05_-_Bramhanjali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFuYW5kYWJoYWlyYXZpLzA1Xy1fQnJhbWhhbmphbGkubXAz
+1983	Aanandabhairavi	06_-_Koluvaitiva_Ranga_Swamy Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFuYW5kYWJoYWlyYXZpLzA2Xy1fS29sdXZhaXRpdmFfUmFuZ2FfU3dhbXkubXAz
+1983	Aanandabhairavi	07_-_Gurubramha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFuYW5kYWJoYWlyYXZpLzA3Xy1fR3VydWJyYW1oYS5tcDM%3D
+1983	Aanandabhairavi	08_-_Thillana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWFuYW5kYWJoYWlyYXZpLzA4Xy1fVGhpbGxhbmEubXAz
+	
+Movie_name = 
+Album_URL =			
+1983	Abhilasha	01_-_Yureka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWJoaWxhc2hhLzAxXy1fWXVyZWthLm1wMw%3D%3D
+1983	Abhilasha	02_-_Vela_Pala_Ledhu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWJoaWxhc2hhLzAyXy1fVmVsYV9QYWxhX0xlZGh1Lm1wMw%3D%3D
+1983	Abhilasha	03_-_Banthi_Chamanthi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWJoaWxhc2hhLzAzXy1fQmFudGhpX0NoYW1hbnRoaS5tcDM%3D
+1983	Abhilasha	04_-_Sandhepoddhula_Kaada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWJoaWxhc2hhLzA0Xy1fU2FuZGhlcG9kZGh1bGFfS2FhZGEubXAz
+1983	Abhilasha	05_-_Urakalai_Godaavari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWJoaWxhc2hhLzA1Xy1fVXJha2FsYWlfR29kYWF2YXJpLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Adavi-Simhalu	01_-_Paay_Paay_Paay Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWRhdmktU2ltaGFsdS8wMV8tX1BhYXlfUGFheV9QYWF5Lm1wMw%3D%3D
+1983	Adavi-Simhalu	02_-_Gootiloki_Cheredeppudu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWRhdmktU2ltaGFsdS8wMl8tX0dvb3RpbG9raV9DaGVyZWRlcHB1ZHUubXAz
+1983	Adavi-Simhalu	03_-_Ganta_Kottinda Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWRhdmktU2ltaGFsdS8wM18tX0dhbnRhX0tvdHRpbmRhLm1wMw%3D%3D
+1983	Adavi-Simhalu	04_-_Music Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWRhdmktU2ltaGFsdS8wNF8tX011c2ljLm1wMw%3D%3D
+1983	Adavi-Simhalu	05_-_Aggipulla_Bhaggumantadi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWRhdmktU2ltaGFsdS8wNV8tX0FnZ2lwdWxsYV9CaGFnZ3VtYW50YWRpLm1wMw%3D%3D
+1983	Adavi-Simhalu	06_-_Pilla_Nachindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWRhdmktU2ltaGFsdS8wNl8tX1BpbGxhX05hY2hpbmRpLm1wMw%3D%3D
+1983	Adavi-Simhalu	07_-_Kshemama_Priyatama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQWRhdmktU2ltaGFsdS8wN18tX0tzaGVtYW1hX1ByaXlhdGFtYS5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Ananda-Bhairavi	01_-_Pilichina_Muraliki Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzAxXy1fUGlsaWNoaW5hX011cmFsaWtpLm1wMw%3D%3D
+1983	Ananda-Bhairavi	02_-_Koluvaithiva Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzAyXy1fS29sdXZhaXRoaXZhLm1wMw%3D%3D
+1983	Ananda-Bhairavi	03_-_Brahmanjali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzAzXy1fQnJhaG1hbmphbGkubXAz
+1983	Ananda-Bhairavi	04_-_Sudigalilona Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzA0Xy1fU3VkaWdhbGlsb25hLm1wMw%3D%3D
+1983	Ananda-Bhairavi	05_-_Pranam_Pranam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzA1Xy1fUHJhbmFtX1ByYW5hbS5tcDM%3D
+1983	Ananda-Bhairavi	06_-_Sivathandavam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzA2Xy1fU2l2YXRoYW5kYXZhbS5tcDM%3D
+1983	Ananda-Bhairavi	07_-_Ra_Ra_Ragamai Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzA3Xy1fUmFfUmFfUmFnYW1haS5tcDM%3D
+1983	Ananda-Bhairavi	08_-_Gururbrahma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzA4Xy1fR3VydXJicmFobWEubXAz
+1983	Ananda-Bhairavi	09_-_Samudrapavane Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzA5Xy1fU2FtdWRyYXBhdmFuZS5tcDM%3D
+1983	Ananda-Bhairavi	10_-_Chitramu_Kusumanjali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzEwXy1fQ2hpdHJhbXVfS3VzdW1hbmphbGkubXAz
+1983	Ananda-Bhairavi	11_-_Sruthike_Druthi_Ledha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzExXy1fU3J1dGhpa2VfRHJ1dGhpX0xlZGhhLm1wMw%3D%3D
+1983	Ananda-Bhairavi	12_-_Thillana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvQW5hbmRhLUJoYWlyYXZpLzEyXy1fVGhpbGxhbmEubXAz
+	
+Movie_name = 
+Album_URL =			
+1983	Dr-Akkineni-Chitra-Geethavali	01_-_Andame_Aanandam_-_Bratuku_Theruvu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMDFfLV9BbmRhbWVfQWFuYW5kYW1fLV9CcmF0dWt1X1RoZXJ1dnUubXAz
+1983	Dr-Akkineni-Chitra-Geethavali	02_-_Andame_Aanandam_-_Bratuku_Theruvu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMDJfLV9BbmRhbWVfQWFuYW5kYW1fLV9CcmF0dWt1X1RoZXJ1dnUubXAz
+1983	Dr-Akkineni-Chitra-Geethavali	03_-_Evandoy_Srivaru_-_Manchi_Manasulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMDNfLV9FdmFuZG95X1NyaXZhcnVfLV9NYW5jaGlfTWFuYXN1bHUubXAz
+1983	Dr-Akkineni-Chitra-Geethavali	04_-_Nannu_Vadali_Neevu_-_Manchi_Manasulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMDRfLV9OYW5udV9WYWRhbGlfTmVldnVfLV9NYW5jaGlfTWFuYXN1bHUubXAz
+1983	Dr-Akkineni-Chitra-Geethavali	05_-_Silalapai_Silpaalu_-_Manchi_Manasulu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMDVfLV9TaWxhbGFwYWlfU2lscGFhbHVfLV9NYW5jaGlfTWFuYXN1bHUubXAz
+1983	Dr-Akkineni-Chitra-Geethavali	06_-_Vinipinchani_Raagaale_-_Chaduvukunna_Ammayilu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMDZfLV9WaW5pcGluY2hhbmlfUmFhZ2FhbGVfLV9DaGFkdXZ1a3VubmFfQW1tYXlpbHUubXAz
+1983	Dr-Akkineni-Chitra-Geethavali	07_-_Kila_Kila_Navvula_-_Chaduvukunna_Ammayilu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMDdfLV9LaWxhX0tpbGFfTmF2dnVsYV8tX0NoYWR1dnVrdW5uYV9BbW1heWlsdS5tcDM%3D
+1983	Dr-Akkineni-Chitra-Geethavali	08_-_Nidurapora_Thammuda_-_Santhanam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMDhfLV9OaWR1cmFwb3JhX1RoYW1tdWRhXy1fU2FudGhhbmFtLm1wMw%3D%3D
+1983	Dr-Akkineni-Chitra-Geethavali	09_-_Devi_Sree_Devi_-_Santhanam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMDlfLV9EZXZpX1NyZWVfRGV2aV8tX1NhbnRoYW5hbS5tcDM%3D
+1983	Dr-Akkineni-Chitra-Geethavali	10_-_Challani_Vennelalo_-_Santhanam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMTBfLV9DaGFsbGFuaV9WZW5uZWxhbG9fLV9TYW50aGFuYW0ubXAz
+1983	Dr-Akkineni-Chitra-Geethavali	11_-_Sigaloki_Virulichi_-_Sumangali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMTFfLV9TaWdhbG9raV9WaXJ1bGljaGlfLV9TdW1hbmdhbGkubXAz
+1983	Dr-Akkineni-Chitra-Geethavali	12_-_Ee_Nallani_Raalalo_-_Amarashilpi_Jakkana Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMTJfLV9FZV9OYWxsYW5pX1JhYWxhbG9fLV9BbWFyYXNoaWxwaV9KYWtrYW5hLm1wMw%3D%3D
+1983	Dr-Akkineni-Chitra-Geethavali	13_-_Pagadala_Jabili_Choodu_-_Mooganomu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvRHItQWtraW5lbmktQ2hpdHJhLUdlZXRoYXZhbGkvMTNfLV9QYWdhZGFsYV9KYWJpbGlfQ2hvb2R1Xy1fTW9vZ2Fub211Lm1wMw%3D%3D
+
+Movie_name = 
+Album_URL =				
+1983	Gudachari-No-1	01_-_Vanga_Thotakada Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvR3VkYWNoYXJpLU5vLTEvMDFfLV9WYW5nYV9UaG90YWthZGEubXAz
+1983	Gudachari-No-1	02_-_Siggu_Ammalalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvR3VkYWNoYXJpLU5vLTEvMDJfLV9TaWdndV9BbW1hbGFsby5tcDM%3D
+1983	Gudachari-No-1	03_-_Keesu_Boosu_(Version_1) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvR3VkYWNoYXJpLU5vLTEvMDNfLV9LZWVzdV9Cb29zdV8oVmVyc2lvbl8xKS5tcDM%3D
+1983	Gudachari-No-1	04_-_Spehhnaka_Duluna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvR3VkYWNoYXJpLU5vLTEvMDRfLV9TcGVoaG5ha2FfRHVsdW5hLm1wMw%3D%3D
+1983	Gudachari-No-1	05_-_Kigth_Bahar Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvR3VkYWNoYXJpLU5vLTEvMDVfLV9LaWd0aF9CYWhhci5tcDM%3D
+1983	Gudachari-No-1	06_-_Keesu_Boosu_(Version_2) Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvR3VkYWNoYXJpLU5vLTEvMDZfLV9LZWVzdV9Cb29zdV8oVmVyc2lvbl8yKS5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Jada-Gantalu	01_-_Ding_Dong_Ding_Dong Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvSmFkYS1HYW50YWx1LzAxXy1fRGluZ19Eb25nX0RpbmdfRG9uZy5tcDM%3D
+1983	Jada-Gantalu	02_-_Hailessa_Hailessa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvSmFkYS1HYW50YWx1LzAyXy1fSGFpbGVzc2FfSGFpbGVzc2EubXAz
+1983	Jada-Gantalu	03_-_Nuvvemop_Nippu_Kunda Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvSmFkYS1HYW50YWx1LzAzXy1fTnV2dmVtb3BfTmlwcHVfS3VuZGEubXAz
+1983	Jada-Gantalu	04_-_Omkarame_Naaku_Vayyaramu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvSmFkYS1HYW50YWx1LzA0Xy1fT21rYXJhbWVfTmFha3VfVmF5eWFyYW11Lm1wMw%3D%3D
+1983	Jada-Gantalu	05_-_Punnamilaga_Vachipommani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvSmFkYS1HYW50YWx1LzA1Xy1fUHVubmFtaWxhZ2FfVmFjaGlwb21tYW5pLm1wMw%3D%3D
+1983	Jada-Gantalu	06_-_You_Know_My_Darling Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvSmFkYS1HYW50YWx1LzA2Xy1fWW91X0tub3dfTXlfRGFybGluZy5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Khaidi	01_-_Idemitabba Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS2hhaWRpLzAxXy1fSWRlbWl0YWJiYS5tcDM%3D
+1983	Khaidi	02_-_Ragulotondi_Mogalipoda Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS2hhaWRpLzAyXy1fUmFndWxvdG9uZGlfTW9nYWxpcG9kYS5tcDM%3D
+1983	Khaidi	03_-_Gorinta_Poosindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS2hhaWRpLzAzXy1fR29yaW50YV9Qb29zaW5kaS5tcDM%3D
+1983	Khaidi	04_-_Mera_Mera_Merupula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS2hhaWRpLzA0Xy1fTWVyYV9NZXJhX01lcnVwdWxhLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Kirayi-Kotigadu	01_-_Ekkitokki_Nee_Andam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS2lyYXlpLUtvdGlnYWR1LzAxXy1fRWtraXRva2tpX05lZV9BbmRhbS5tcDM%3D
+1983	Kirayi-Kotigadu	02_-_Kudabalukkuni Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS2lyYXlpLUtvdGlnYWR1LzAyXy1fS3VkYWJhbHVra3VuaS5tcDM%3D
+1983	Kirayi-Kotigadu	03_-_Namasthe_Suswagatham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS2lyYXlpLUtvdGlnYWR1LzAzXy1fTmFtYXN0aGVfU3Vzd2FnYXRoYW0ubXAz
+1983	Kirayi-Kotigadu	04_-_Pattumeeda_Unnadi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS2lyYXlpLUtvdGlnYWR1LzA0Xy1fUGF0dHVtZWVkYV9Vbm5hZGkubXAz
+	
+Movie_name = 
+Album_URL =			
+1983	Kokilamma	01_-_Komma_Meeda_Kokilamma Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS29raWxhbW1hLzAxXy1fS29tbWFfTWVlZGFfS29raWxhbW1hLm1wMw%3D%3D
+1983	Kokilamma	02_-_Pallavinchava_Naa_Gonthulo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS29raWxhbW1hLzAyXy1fUGFsbGF2aW5jaGF2YV9OYWFfR29udGh1bG8ubXAz
+1983	Kokilamma	03_-_Evvaro_Paadaaru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS29raWxhbW1hLzAzXy1fRXZ2YXJvX1BhYWRhYXJ1Lm1wMw%3D%3D
+1983	Kokilamma	04_-_Ponee_Pothe_Ponee Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS29raWxhbW1hLzA0Xy1fUG9uZWVfUG90aGVfUG9uZWUubXAz
+1983	Kokilamma	05_-_Neelo_Valapula_Sugandham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS29raWxhbW1hLzA1Xy1fTmVlbG9fVmFsYXB1bGFfU3VnYW5kaGFtLm1wMw%3D%3D
+1983	Kokilamma	06_-_Madhuram_Madhuram_Naadam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS29raWxhbW1hLzA2Xy1fTWFkaHVyYW1fTWFkaHVyYW1fTmFhZGFtLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Kumkuma-Thilakam	01_-_Momuna_Bottetti Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS3Vta3VtYS1UaGlsYWthbS8wMV8tX01vbXVuYV9Cb3R0ZXR0aS5tcDM%3D
+1983	Kumkuma-Thilakam	02_-_Aalanaga_Paalanaga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS3Vta3VtYS1UaGlsYWthbS8wMl8tX0FhbGFuYWdhX1BhYWxhbmFnYS5tcDM%3D
+1983	Kumkuma-Thilakam	03_-_Nee_Vayase Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS3Vta3VtYS1UaGlsYWthbS8wM18tX05lZV9WYXlhc2UubXAz
+1983	Kumkuma-Thilakam	04_-_Chitti_Nanna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS3Vta3VtYS1UaGlsYWthbS8wNF8tX0NoaXR0aV9OYW5uYS5tcDM%3D
+1983	Kumkuma-Thilakam	05_-_Aalanaga_Paalanaga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvS3Vta3VtYS1UaGlsYWthbS8wNV8tX0FhbGFuYWdhX1BhYWxhbmFnYS5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Maga-Maharaju	01_-_Maa_Amma_Chinthamani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTWFnYS1NYWhhcmFqdS8wMV8tX01hYV9BbW1hX0NoaW50aGFtYW5pLm1wMw%3D%3D
+1983	Maga-Maharaju	02_-_Seethe_Ramudi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTWFnYS1NYWhhcmFqdS8wMl8tX1NlZXRoZV9SYW11ZGkubXAz
+1983	Maga-Maharaju	03_-_Nelalu_Nindina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTWFnYS1NYWhhcmFqdS8wM18tX05lbGFsdV9OaW5kaW5hLm1wMw%3D%3D
+1983	Maga-Maharaju	04_-_Annalo_Anna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTWFnYS1NYWhhcmFqdS8wNF8tX0FubmFsb19Bbm5hLm1wMw%3D%3D
+1983	Maga-Maharaju	05_-_Navarasa_Bharitham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTWFnYS1NYWhhcmFqdS8wNV8tX05hdmFyYXNhX0JoYXJpdGhhbS5tcDM%3D
+
+Movie_name = 
+Album_URL =				
+1983	Mundhadugu	00_-_Naakoka_Shreematu_Kaavaali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTXVuZGhhZHVndS8wMF8tX05hYWtva2FfU2hyZWVtYXR1X0thYXZhYWxpLm1wMw%3D%3D
+1983	Mundhadugu	01_-_Chilakaluri_Peta Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTXVuZGhhZHVndS8wMV8tX0NoaWxha2FsdXJpX1BldGEubXAz
+1983	Mundhadugu	02_-_Veyi_Padagala_Meeda Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTXVuZGhhZHVndS8wMl8tX1ZleWlfUGFkYWdhbGFfTWVlZGEubXAz
+1983	Mundhadugu	03_-_Pora_Kanthirimama Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTXVuZGhhZHVndS8wM18tX1BvcmFfS2FudGhpcmltYW1hLm1wMw%3D%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Navodayam	11_-_Akko_Akka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTmF2b2RheWFtLzExXy1fQWtrb19Ba2thLm1wMw%3D%3D
+1983	Navodayam	12_-_Tholi_Kodi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvTmF2b2RheWFtLzEyXy1fVGhvbGlfS29kaS5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Oorantaha-Sankranthi	13_-_Jum_Jum Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvT29yYW50YWhhLVNhbmtyYW50aGkvMTNfLV9KdW1fSnVtLm1wMw%3D%3D
+1983	Oorantaha-Sankranthi	14_-_Kallalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvT29yYW50YWhhLVNhbmtyYW50aGkvMTRfLV9LYWxsYWxvLm1wMw%3D%3D
+1983	Oorantaha-Sankranthi	15_-_Sambarala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvT29yYW50YWhhLVNhbmtyYW50aGkvMTVfLV9TYW1iYXJhbGEubXAz
+1983	Oorantaha-Sankranthi	16_-_Thurupudeepam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvT29yYW50YWhhLVNhbmtyYW50aGkvMTZfLV9UaHVydXB1ZGVlcGFtLm1wMw%3D%3D
+1983	Oorantaha-Sankranthi	17_-_Oorantha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvT29yYW50YWhhLVNhbmtyYW50aGkvMTdfLV9Pb3JhbnRoYS5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Poratam	01_-_Pilla_Pilla Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUG9yYXRhbS8wMV8tX1BpbGxhX1BpbGxhLm1wMw%3D%3D
+1983	Poratam	02_-_Idi_Aadimanavuni Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUG9yYXRhbS8wMl8tX0lkaV9BYWRpbWFuYXZ1bmkubXAz
+1983	Poratam	03_-_Pakkaki_Vastava Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUG9yYXRhbS8wM18tX1Bha2tha2lfVmFzdGF2YS5tcDM%3D
+1983	Poratam	04_-_Ye_Devullu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUG9yYXRhbS8wNF8tX1llX0RldnVsbHUubXAz
+
+Movie_name = 
+Album_URL =				
+1983	Prema-Pitchollu	01_-_Ghal_Gghal Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtUGl0Y2hvbGx1LzAxXy1fR2hhbF9HZ2hhbC5tcDM%3D
+1983	Prema-Pitchollu	02_-_Ee_Muddabanthi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtUGl0Y2hvbGx1LzAyXy1fRWVfTXVkZGFiYW50aGkubXAz
+1983	Prema-Pitchollu	03_-_Oh_Bata_Saari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtUGl0Y2hvbGx1LzAzXy1fT2hfQmF0YV9TYWFyaS5tcDM%3D
+1983	Prema-Pitchollu	04_-_Daonga_Dora Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtUGl0Y2hvbGx1LzA0Xy1fRGFvbmdhX0RvcmEubXAz
+
+Movie_name = 
+Album_URL =				
+1983	Prema-Sagaram	01_-_Namampettu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtU2FnYXJhbS8wMV8tX05hbWFtcGV0dHUubXAz
+1983	Prema-Sagaram	02_-_Andalolike_Sundari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtU2FnYXJhbS8wMl8tX0FuZGFsb2xpa2VfU3VuZGFyaS5tcDM%3D
+1983	Prema-Sagaram	03_-_Neelo_Naalo_Mohaalanni Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtU2FnYXJhbS8wM18tX05lZWxvX05hYWxvX01vaGFhbGFubmkubXAz
+1983	Prema-Sagaram	04_-_Hrudayamane Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtU2FnYXJhbS8wNF8tX0hydWRheWFtYW5lLm1wMw%3D%3D
+1983	Prema-Sagaram	05_-_Chakkanaina_O_Chrugaali Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtU2FnYXJhbS8wNV8tX0NoYWtrYW5haW5hX09fQ2hydWdhYWxpLm1wMw%3D%3D
+1983	Prema-Sagaram	06_-_Nee_Talape_Maikam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtU2FnYXJhbS8wNl8tX05lZV9UYWxhcGVfTWFpa2FtLm1wMw%3D%3D
+1983	Prema-Sagaram	07_-_Banthade_Bangaru Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtU2FnYXJhbS8wN18tX0JhbnRoYWRlX0JhbmdhcnUubXAz
+1983	Prema-Sagaram	08_-_Namampettu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHJlbWEtU2FnYXJhbS8wOF8tX05hbWFtcGV0dHUubXAz
+
+Movie_name = 
+Album_URL =				
+1983	Puli-Bebbuli	01_-_Chakkaligintha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHVsaS1CZWJidWxpLzAxXy1fQ2hha2thbGlnaW50aGEubXAz
+1983	Puli-Bebbuli	02_-_Parimalinchu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHVsaS1CZWJidWxpLzAyXy1fUGFyaW1hbGluY2h1Lm1wMw%3D%3D
+1983	Puli-Bebbuli	03_-_Intipani_Vantapani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHVsaS1CZWJidWxpLzAzXy1fSW50aXBhbmlfVmFudGFwYW5pLm1wMw%3D%3D
+1983	Puli-Bebbuli	04_-_Nee_Roope Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHVsaS1CZWJidWxpLzA0Xy1fTmVlX1Jvb3BlLm1wMw%3D%3D
+1983	Puli-Bebbuli	05_-_Goppa_Enduke Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHVsaS1CZWJidWxpLzA1Xy1fR29wcGFfRW5kdWtlLm1wMw%3D%3D
+1983	Puli-Bebbuli	06_-_Guttuga Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUHVsaS1CZWJidWxpLzA2Xy1fR3V0dHVnYS5tcDM%3D
+	
+Movie_name = 
+Album_URL =			
+1983	Rajkumar	01_-_Tenekanna_Teeyanidi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFqa3VtYXIvMDFfLV9UZW5la2FubmFfVGVleWFuaWRpLm1wMw%3D%3D
+1983	Rajkumar	02_-_Toli_Choopu_Cheli_Rasina Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFqa3VtYXIvMDJfLV9Ub2xpX0Nob29wdV9DaGVsaV9SYXNpbmEubXAz
+1983	Rajkumar	03_-_Janaki_Kalaganaledu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFqa3VtYXIvMDNfLV9KYW5ha2lfS2FsYWdhbmFsZWR1Lm1wMw%3D%3D
+1983	Rajkumar	04_-_Ammammo_Ayyayyo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFqa3VtYXIvMDRfLV9BbW1hbW1vX0F5eWF5eW8ubXAz
+1983	Rajkumar	05_-_Ardharatri_Saddumanigi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFqa3VtYXIvMDVfLV9BcmRoYXJhdHJpX1NhZGR1bWFuaWdpLm1wMw%3D%3D
+1983	Rajkumar	06_-_Godari_Pongula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFqa3VtYXIvMDZfLV9Hb2RhcmlfUG9uZ3VsYS5tcDM%3D
+	
+Movie_name = Ramudu Kadhu Krishnudu
+Album_URL =			
+Song_title = 01_-_Choosaka_Ninnu_Choosaka Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFtdWR1LUthZGh1LUtyaXNobnVkdS8wMV8tX0Nob29zYWthX05pbm51X0Nob29zYWthLm1wMw%3D%3D
+Song_title = 02_-_Manchu_Muthyanivo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFtdWR1LUthZGh1LUtyaXNobnVkdS8wMl8tX01hbmNodV9NdXRoeWFuaXZvLm1wMw%3D%3D
+Song_title = 03_-_Oka_Laila_Kosam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFtdWR1LUthZGh1LUtyaXNobnVkdS8wM18tX09rYV9MYWlsYV9Lb3NhbS5tcDM%3D
+Song_title = 04_-_Annam_Pettamandi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFtdWR1LUthZGh1LUtyaXNobnVkdS8wNF8tX0FubmFtX1BldHRhbWFuZGkubXAz
+Song_title = 05_-_OKa_Chetha_Thali_Pattukoni Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFtdWR1LUthZGh1LUtyaXNobnVkdS8wNV8tX09LYV9DaGV0aGFfVGhhbGlfUGF0dHVrb25pLm1wMw%3D%3D
+Song_title = 06_-_Andamantha_Aragatheesi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFtdWR1LUthZGh1LUtyaXNobnVkdS8wNl8tX0FuZGFtYW50aGFfQXJhZ2F0aGVlc2kubXAz
+	
+Movie_name = Rangula Kala
+Album_URL =			
+Song_title = 04_-_Badram_Koduko Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFuZ3VsYS1LYWxhLzA0Xy1fQmFkcmFtX0tvZHVrby5tcDM%3D
+Song_title = 05_-_Madhana_Sundari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFuZ3VsYS1LYWxhLzA1Xy1fTWFkaGFuYV9TdW5kYXJpLm1wMw%3D%3D
+Song_title = 06_-_Gem_Gemmalamarri Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmFuZ3VsYS1LYWxhLzA2Xy1fR2VtX0dlbW1hbGFtYXJyaS5tcDM%3D
+
+Movie_name = Rendu Jella Seetha
+Album_URL =				
+Song_title = 01_-_Rendu_Jella_Seetha Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmVuZHUtSmVsbGEtU2VldGhhLzAxXy1fUmVuZHVfSmVsbGFfU2VldGhhLm1wMw%3D%3D
+Song_title = 02_-_Kobbari_Neella Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmVuZHUtSmVsbGEtU2VldGhhLzAyXy1fS29iYmFyaV9OZWVsbGEubXAz
+Song_title = 04_-_Mandaramlo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmVuZHUtSmVsbGEtU2VldGhhLzA0Xy1fTWFuZGFyYW1sby5tcDM%3D
+Song_title = 04_-_Purushulalo Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmVuZHUtSmVsbGEtU2VldGhhLzA0Xy1fUHVydXNodWxhbG8ubXAz
+Song_title = 05_-_Sari_Sari_Padanee Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmVuZHUtSmVsbGEtU2VldGhhLzA1Xy1fU2FyaV9TYXJpX1BhZGFuZWUubXAz
+Song_title = 06_-_Veta_Veta Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvUmVuZHUtSmVsbGEtU2VldGhhLzA2Xy1fVmV0YV9WZXRhLm1wMw%3D%3D
+	
+Movie_name = Sagarasangamam
+Album_URL =			
+Song_title = 01_-_Mounamelanoyi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FnYXJhc2FuZ2FtYW0vMDFfLV9Nb3VuYW1lbGFub3lpLm1wMw%3D%3D
+Song_title = 02_-_Nadha_Vinodham Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FnYXJhc2FuZ2FtYW0vMDJfLV9OYWRoYV9WaW5vZGhhbS5tcDM%3D
+Song_title = 03_-_Om_Namasivaaya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FnYXJhc2FuZ2FtYW0vMDNfLV9PbV9OYW1hc2l2YWF5YS5tcDM%3D
+Song_title = 04_-_Vevela_Gopennala Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FnYXJhc2FuZ2FtYW0vMDRfLV9WZXZlbGFfR29wZW5uYWxhLm1wMw%3D%3D
+Song_title = 05_-_Balakanamaya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FnYXJhc2FuZ2FtYW0vMDVfLV9CYWxha2FuYW1heWEubXAz
+Song_title = 06_-_Thakita_Thadhimi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FnYXJhc2FuZ2FtYW0vMDZfLV9UaGFraXRhX1RoYWRoaW1pLm1wMw%3D%3D
+Song_title = 07_-_Vedham_Anuvanuvuna Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FnYXJhc2FuZ2FtYW0vMDdfLV9WZWRoYW1fQW51dmFudXZ1bmEubXAz
+	
+Movie_name = Sangharshana
+Album_URL =			
+Song_title = 01_-_Kattu_Jaari_Pothaavundhi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FuZ2hhcnNoYW5hLzAxXy1fS2F0dHVfSmFhcmlfUG90aGFhdnVuZGhpLm1wMw%3D%3D
+Song_title = 02_-_Sanna_Jaaji_Pandhiri Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FuZ2hhcnNoYW5hLzAyXy1fU2FubmFfSmFhamlfUGFuZGhpcmkubXAz
+Song_title = 03_-_Mamamiya Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FuZ2hhcnNoYW5hLzAzXy1fTWFtYW1peWEubXAz
+Song_title = 04_-_Sambaraalo_Sambaralu Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FuZ2hhcnNoYW5hLzA0Xy1fU2FtYmFyYWFsb19TYW1iYXJhbHUubXAz
+Song_title = 05_-_Niddhura_Poraa Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2FuZ2hhcnNoYW5hLzA1Xy1fTmlkZGh1cmFfUG9yYWEubXAz
+	
+Movie_name = Simham Navvindi
+Album_URL =			
+Song_title = 01_-_Munjalanti Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2ltaGFtLU5hdnZpbmRpLzAxXy1fTXVuamFsYW50aS5tcDM%3D
+Song_title = 02_-_Oka_Sari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2ltaGFtLU5hdnZpbmRpLzAyXy1fT2thX1NhcmkubXAz
+Song_title = 03_-_Guvva_Guvva Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2ltaGFtLU5hdnZpbmRpLzAzXy1fR3V2dmFfR3V2dmEubXAz
+Song_title = 04_-_Zabili_Vachindi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2ltaGFtLU5hdnZpbmRpLzA0Xy1fWmFiaWxpX1ZhY2hpbmRpLm1wMw%3D%3D
+Song_title = 05_-_Ela_Ela_Neekondi Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2ltaGFtLU5hdnZpbmRpLzA1Xy1fRWxhX0VsYV9OZWVrb25kaS5tcDM%3D
+Song_title = 06_-_Bum_Chaka_Bum Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2ltaGFtLU5hdnZpbmRpLzA2Xy1fQnVtX0NoYWthX0J1bS5tcDM%3D
+	
+Movie_name = Sithara
+Album_URL =			
+Song_title = 01_-_Jilibili_Palukula Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2l0aGFyYS8wMV8tX0ppbGliaWxpX1BhbHVrdWxhLm1wMw%3D%3D
+Song_title = 02_-_Vennello_Godari Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2l0aGFyYS8wMl8tX1Zlbm5lbGxvX0dvZGFyaS5tcDM%3D
+Song_title = 03_-_Nee_Gaanam Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2l0aGFyYS8wM18tX05lZV9HYWFuYW0ubXAz
+Song_title = 04_-_Kukuku Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2l0aGFyYS8wNF8tX0t1a3VrdS5tcDM%3D
+Song_title = 05_-_Arjuna_Manthram Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2l0aGFyYS8wNV8tX0FyanVuYV9NYW50aHJhbS5tcDM%3D
+Song_title = 06_-_Kinnerasaani Song_URL = https://svdm.rf.gd/stream.php?file=dXBsb2FkLzE5ODMvU2l0aGFyYS8wNl8tX0tpbm5lcmFzYWFuaS5tcDM%3D
+
+
